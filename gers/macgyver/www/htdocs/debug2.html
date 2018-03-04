@@ -1,0 +1,618 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>Infrastructure Insights</title>
+		
+		<link rel="stylesheet" type="text/css" href="styles/tpsReset.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsWrapper.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsElements.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsForms.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsSpacers.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsTables.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsText.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsUI.css" />
+		<link rel="stylesheet" type="text/css" href="styles/jquery.ui.all.css">
+		<link rel="stylesheet" type="text/css" href="styles/jquery.qtip.css" />
+		<link rel="stylesheet" type="text/css" href="styles/flexigrid.css">	
+		<link rel="stylesheet" type="text/css" href="styles/flexigrid.pack.css">	
+		<link rel="stylesheet" type="text/css" href="styles/validationEngine.jquery.css">	
+		<link rel="stylesheet" type="text/css" href="styles/template.css">	
+		<link rel="stylesheet" type="text/css" href="styles/pro_dropdown_2.css">
+		<link rel="stylesheet" type="text/css" href="styles/jquery.treeview.css">
+		<link rel="stylesheet" type="text/css" href="styles/carouselSkins.css">
+		<link rel="stylesheet" type="text/css" href="styles/jquery.tablesorter.css">
+		<link rel="stylesheet" type="text/css" href="styles/jquery.dataTables.css">
+		
+		<style type="text/css">
+			#helpDeskForm 
+			{
+				position			: 	absolute;
+				float				:	left;
+				background-color	:	#F7F7F7;
+				width				:	800px;
+				height				:	500px;
+				z-index				: 	9002;
+				-moz-border-radius	: 	3px;
+				border-radius		: 	3px;
+				border-style		:	solid;
+				border-width		:	1px;
+				border-color		:	#0B2C6B;
+			}
+			 
+			.jcarousel-skin-tango .jcarousel-container-horizontal 
+			{
+				width: 85%;
+			}
+ 
+			.jcarousel-skin-tango .jcarousel-clip-horizontal 
+			{
+				width: 100%;
+			}
+			
+			.jcarousel-skin-news .jcarousel-container-horizontal 
+			{
+				width: 88%;
+			}
+ 
+			.jcarousel-skin-news .jcarousel-clip-horizontal 
+			{
+				width: 100%;
+			}
+		</style>
+	</head>
+
+	<body>
+	<div class=webpage>
+		<div class="wrapper messageSpacer">
+			<div id="dialog-modal" title="Basic modal dialog">
+				<p>Adding the modal overlay screen makes the dialog look more prominent because it dims out the page content.</p>
+			</div>
+
+			<div id="helpDeskForm" style="display:none;">
+				<div class="floatLeft fullWidth">
+					<div class="floatLeft panelHeader bottomSpacerSmall">
+						<div class=smSpacer></div>
+							<div class=floatLeft>&nbsp;IT Help Desk Submission</div>
+							<div class=floatRight><a href="#" onclick="popupWindowInFrame('helpDeskForm', '150', '200')"><img src="icons/closeWindow.png" height=14 width=14 /></a>&nbsp;</div>
+						<div class=smSpacer></div>
+					</div>
+					
+					<div class=popupWindow>
+						<div class="floatLeft fullwidth">
+							<form id="helpDeskTicketForm" method="POST" action="">
+								<div class="formRow">
+									<div class="formLabel">Hello?<span class=textRed>*</span>&nbsp;</div>
+									<div class="formData"><input id=fnamex name=fnamex class="text validate[required] text-input type="text" size="40" minlength="5" tabindex=10/></div>
+									
+								</div>
+								<div class="fullWidth floatRight topSpacerSmall bottomSpacerSmall">
+									<div>
+										<div class=floatRight>&nbsp;&nbsp;</div>
+										<a class="floatRight button smButton buttonGreen buttonSubmit" href="#" tabindex=130>Submit</a>		
+										<a class="floatRight button smButton buttonRed buttonCancel" onclick="popupWindowInFrame('helpDeskForm', '150', '200')" href="#" tabindex=140>Cancel</a>
+										<a class="floatRight button smButton buttonBlue buttonReset" href="#" tabindex=150>Reset</a>
+									</div>
+								</div>
+							</form>		
+						</div>
+					</div>
+				</div>
+			</div>	
+  
+			<div class="userInformation textSmall topSpacerSmall bottomSpacerSmall">
+				<div class="halfSection">Welcome&nbsp;<a href="">Ken Henderson</a> [KeHenderson]</div>
+				<div class=halfSection>
+					<div class=floatRight>
+						<a href="#">Profile</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="#">Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="#" onclick="openPopUpWindow('http://www.google.com', 'myGoogle', 600, 600)">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="#">Logoff</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="#"><img class=userprofile src="icons/profile2.png" height=12 width=12></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a class=tipHelpDesk href="#" onclick="popupWindowInFrame('helpDeskForm', '150', '200')" title="IT Help Desk"><img src="icons/lifePreserver.png" height=12 width=12></a>&nbsp;&nbsp;&nbsp;&nbsp;
+					</div>	
+				</div>
+			</div>
+			
+			<div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all header bottomSpacerSmall messageSpacer">
+				<div class=smSpacer></div>
+				<div class="quarterSection floatLeft">
+					<div class=topSpacerSmall>
+						<p class="textVerySmall" style="margin-left:5px; font-size:65%;">
+							<a href="http://www.trusti2i.com/">Infrastructure Insights<br/>
+							2000 N. Central Expressway, Suite 208<br />
+							Plano, Texas 75074<br />
+							(972) 423-5110<br /></a>
+						</p>
+					</div>
+				</div>
+				
+				<div class="halfSection textCenter">
+					<div class="textHuge">Client Name</div>
+					<div class="textLarge">Additional Client Header</div>
+				</div>
+				
+				<div class="floatRight quarterSection textSmall">
+					<div class=floatRight>July 19, 2011 5:37pm&nbsp;</div>		
+				</div>
+				
+				<div class="fullWidth floatRight">
+					<ul id="nav">
+						<li class="navtop"><a href="#nogo1" class="navtop_link"><span>No Sub Menu</span></a></li>
+						<li class="navtop"><a href="#nogo2" id="products" class="navtop_link"><span class="down">Sub Menu&nbsp;<img src="icons/blueArrowDown.png" width=10 height=10 style='margin-top:2px;' /></span></a>
+							<ul class="sub">
+								<li><a href="#nogo3" class="fly">Cameras&nbsp;<img src="icons/blueArrow.png" width=10 height=10 style='margin-top:2px;' /></a>
+										<ul>
+											<li><a href="#nogo4">Nikon</a></li>
+											<li><a href="#nogo5">Minolta</a></li>
+											<li><a href="#nogo6">Pentax</a></li>
+										</ul>
+								</li>
+								<li class="mid"><a href="#nogo7" class="fly">Lenses&nbsp;<img src="icons/blueArrow.png" width=10 height=10 style='margin-top:2px;' /></a>
+										<ul>
+											<li><a href="#nogo8">Wide Angle</a></li>
+											<li><a href="#nogo9">Standard</a></li>
+											<li><a href="#nogo10">Telephoto</a></li>
+											<li><a href="#nogo11">Zoom</a></li>
+											<li><a href="#nogo15">Mirror</a></li>
+											<li><a href="#nogo16">Non standard</a></li>
+										</ul>
+								</li>
+								<li><a href="#nogo19">Flash Guns</a></li>
+								<li><a href="#nogo20">Tripods</a></li>
+								<li><a href="#nogo21">Filters</a></li>
+							</ul>
+						</li>
+						<li class="navtop"><a href="#nogo22" id="services" class="navtop_link"><span class="down">Sub Menu&nbsp;<img src="icons/blueArrowDown.png" width=10 height=10 style='margin-top:2px;' /></span></a>
+							<ul class="sub">
+								<li><a href="#nogo23">Printing</a></li>
+								<li><a href="#nogo24">Photo Framing</a></li>
+								<li><a href="#nogo25">Retouching</a></li>
+								<li><a href="#nogo26">Archiving</a></li>
+							</ul>
+						</li>
+						<li class="navtop"><a href="#nogo53" id="shop" class="navtop_link"><span class="down">Sub Menu&nbsp;<img src="icons/blueArrowDown.png" width=10 height=10 style='margin-top:2px;' /></span></a>
+							<ul class="sub">
+								<li><a href="#nogo54">Online</a></li>
+								<li><a href="#nogo55">Catalogue</a></li>
+								<li><a href="#nogo56">Mail Order</a></li>
+							</ul>
+						</li>
+						<li class="navtop"><a href="#nogo57" id="privacy" class="navtop_link"><span>Knowledge Base</span></a></li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="fullPanel topSpacerSmall">
+				<div class=sidePanel>
+					<div class="accordion">
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Quotes</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Orders</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Inventory</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Hosting</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Monitoring</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Tickets</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Insight</div></h3>
+						<ul class=verticalMenu>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>						
+						
+					</div>
+				</div>
+				<div class=mainPanel>
+					<div class=mainSection>
+						<div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+							<div class="textCenter topSpacerSmall bottomSpacerSmall">
+								Main Window Area
+							</div>
+						</div>
+						
+						<div class="mainBody bottomSpacerSmall">
+<div class="fullWidth floatLeft">
+<form class="formularx" id="vpnForm" method="GET" action="">
+<div style="float:right;">
+	<div class=floatLeft style="margin-right:10px;"><span class=textSmall>Store</span><br />
+		<input id=username name=username class="text validate[required] text-input" type="text" size="5" minlength="4" tabindex=20/>
+	</div>
+
+	<div class=floatLeft style="margin-right:10px;"><span class=textSmall>Terminal</span><br />
+		<input id=username name=username class="text validate[required] text-input" type="text" size="5" minlength="1" tabindex=20/>
+	</div>
+
+	<div class=floatLeft style="margin-right:1px;"><span class=textSmall>Date</span><br />
+		<input id=datepicker name=datepicker class="text validate[required,custom[date],past[NOW]] datepicker" type="text" size="10" minlength="1" tabindex=20/>
+	</div>
+	
+	<div class=floatLeft style="margin-right:20px;"><br />
+		<a href="#"><img class=tipVPNNotify src="icons/refreshBlue.png" height=26 width=26 style="margin-top:2px;"></a>
+	</div>
+	
+	<div class="mdSpacer"></div>
+</div>
+</div>
+</form>						
+
+<div style="width:98%; margin-left:1%; margin-right:1%; float:left;">
+	<table cellpadding="0" cellspacing="0" border="0" class="display textSmall" id="results"> 
+		<thead> 
+			<tr> 
+				<th width="10%">Store</th> 
+				<th width="10%">Terminal</th> 
+				<th width="10%">-3 Days</th> 
+				<th width="10%">-2 Days</th> 
+				<th width="10%">-1 Days</th>
+				<th width="10%">Date</th> 
+				<th width="10%">+1 Days</th> 
+				<th width="10%">+2 Days</th>
+				<th width="10%">+3 Days</th>
+			</tr> 
+		</thead> 
+		<tbody> 
+			<tr> 
+				<td colspan="6" class="dataTables_empty">Loading data from server</td> 
+			</tr> 
+		</tbody> 
+		<tfoot> 
+			<tr style="font-size:90%;"> 
+				<th width="10%">Store</th> 
+				<th width="10%">Terminal</th> 
+				<th width="10%">-3 Days</th> 
+				<th width="10%">-2 Days</th> 
+				<th width="10%">-1 Days</th>
+				<th width="10%">Date</th> 
+				<th width="10%">+1 Days</th> 
+				<th width="10%">+2 Days</th>
+				<th width="10%">+3 Days</th> 
+			</tr> 
+		</tfoot> 
+	</table>
+	<div class=mdSpacer></div>
+</div>
+
+						</div>
+						
+					</div>	
+				</div>
+			<div>
+
+			<div class=smDivider></div>
+			
+			<div class=footer>
+				<div class=fifthSection>
+					<ul class="footerList floatLeft">Infrastructure Insights<div class=smSpacer></div>
+						<li class="textSmall"><a class=tipTRIFIC href="#" title="TRIFIC">Our Company</a></li>
+						<li class="textSmall"><a class=tipCALM href="#" title="CALM">Option</a></li>
+						<li class="textSmall"><a class=tipInnovation href="#" title="Innovation">Option</a></li>
+					</ul>
+				</div>
+				<div class=fifthSection>
+					<ul class="footerList floatLeft">Professional Services<div class=smSpacer></div>
+						<li class="textSmall"><a href="#" target="_blank">Consulting</a></li>
+						<li class="textSmall"><a href="#" target="_blank">Infrastructure Design</a></li>
+						<li class="textSmall"><a href="#" target="_blank">Audits & Assessments</a></li>
+					</ul>
+				</div>
+				<div class=fifthSection>
+					<ul class="footerList floatLeft"><a href="#">Partners</a><div class=smSpacer></div>
+						<li class="textSmall"><a href="#" target="_blank">Force 10</a></li>
+						<li class="textSmall"><a href="#" target="_blank">Cisco</a></li>
+						<li class="textSmall"><a href="#" target="_blank">Dell</a></li>
+					</ul>
+				</div>
+				<div class=fifthSection>
+					<ul class="footerList floatLeft"><a href="#">Partners</a><div class=smSpacer></div>
+						<li class="textSmall"><a href="#" target="_blank">Force 10</a></li>
+						<li class="textSmall"><a href="#" target="_blank">Cisco</a></li>
+						<li class="textSmall"><a href="#" target="_blank">Dell</a></li>
+					</ul>
+				</div>
+				<div class=fifthSection>
+					<ul class="footerList floatLeft">Resources<div class=smSpacer></div>
+						<li class="textSmall"><a href="#" target="_blank">Certifications</a></li>
+						<li class="textSmall"><a href="#" target="_blank">Events</a></li>
+					</ul>
+				</div>
+			<div>
+		</div> <!-- Wrapper -->
+	</div> <!-- webpage -->
+	
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery-1.6.2.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.core.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.widget.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.mouse.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.draggable.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.position.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.resizable.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.dialog.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.accordion.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.button.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.datepicker.min.js"></script>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.tabs.min.js"></SCRIPT>
+
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.qtip.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/flexigrid.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/flexigrid.pack.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.validationEngine-en.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.validationEngine.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/hoverAccordian.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/stuHover.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.treeview.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.jcarousel.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.tablesorter.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.dataTables.min.js"></script>
+	
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsUtilityScripts.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsStandardHeaderToolTips.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsStandardFooterToolTips.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsStandardButtonToolTips.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsPopUpWindows.js"></script>
+	
+	
+	<script>
+	$("#results").dataTable( 
+			{
+				"bJQueryUI": true,
+				"bProcessing": true,
+				"bServerSide": false,
+				"sAjaxSource": "../cgi-bin/gersSalesTransactions.pl"
+			});
+	$(function() {
+		$( "#accordion" ).accordion({
+			event: "mouseover"
+		});
+	});
+	
+	$(function() {
+		$( ".myButtons button:first" ).button({
+            icons: {
+                primary: "ui-icon-locked"
+            }
+        }).next().button({
+            icons: {
+                primary: "ui-icon-locked"
+            }
+        }).next().button({
+            icons: {
+                primary: "ui-icon-gear",
+                secondary: "ui-icon-triangle-1-s"
+            }
+        }).next().button({
+            icons: {
+                primary: "ui-icon-gear",
+                secondary: "ui-icon-triangle-1-s"
+            },
+            text: false
+        });
+	});
+	
+	$(function() {
+		$( "#datepicker" ).datepicker({
+			dateFormat: "mm/dd/yy"
+		});
+	});
+	</script>
+	
+	<script>
+		jQueryUIDialogCreate("#dialog-modal", 400, 400);
+		
+		invokeHoverAccordionMenu(".accordion");
+		invokeTreeView("#browser1");
+		invokeTreeView("#browser2");
+		
+		
+		invokeFormValidationEngine("#sampleForm");
+		
+		blurLinks();
+		
+	</script>
+	
+	
+	
+	<script>	
+		$('.tip1').qtip
+		(
+			{
+				content: 
+				{
+					text: 'This is the address field.  It should contain the street address of the associate.<br>This field is required.',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-green ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.tip2').qtip
+		(
+			{
+				content: 
+				{
+					text: 'This is the address field.  It should contain the street address of the associate.<br>This field is required.',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.qtip1').qtip
+		(
+			{
+				content: 
+				{
+					text: 'This is the address field.  It should contain the street address of the associate.<br>This field is required.',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.tableAdd').qtip
+		(
+			{
+				content: 
+				{
+					text: 'Add new information to the table',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.tableDelete').qtip
+		(
+			{
+				content: 
+				{
+					text: 'Remove the current row from the table',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.tableSave').qtip
+		(
+			{
+				content: 
+				{
+					text: 'Save changes to the current row',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+	</script>
+
+	</body>
+
+</html>	

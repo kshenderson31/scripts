@@ -1,0 +1,59 @@
+	.textCenter
+	{
+		text-align		:	center;
+	}
+	.textUnderline
+	{
+		text-decoration		:	underline;
+	}
+	
+	.textHuge
+	{
+		font-size		:	125%;
+	}
+	.textLarge
+	{
+		font-size		:	110%;
+	}
+	.textMedium
+	{
+		font-size		:	90%;
+	}
+	.textSmaller			
+	{
+		font-size		:	85%
+	}
+	.textSmall			
+	{
+		font-size		:	80%
+	}
+	.textVerySmall			
+	{
+		font-size		:	75%
+	}
+	.textBold
+	{
+		font-weight		:	bold;
+	}
+	.textItalics
+	{
+		font-style		:	italic;
+	}
+	.textRed
+	{
+		color			: 	red;
+	}
+	
+	.floatLeft
+	{
+		float			:	left;
+	}
+	
+	.center
+	{
+		align			:	center;
+	}
+	.right
+	{
+		align			:	right;
+	}

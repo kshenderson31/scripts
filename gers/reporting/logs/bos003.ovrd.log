@@ -1,0 +1,132 @@
+
+(10367110) started: Thu Jan  2 15:09:08 EST 2014
+(10367110) Querying the database to see if this is the first Monday of the fiscal period
+(10367110) This is the first Monday of the fiscal period, getting all districts
+(10367110) /scripts/reporting/tmp/bos003.ovrd.results exists and is not empty
+(10367110) persisting MTD BOS report for district 9011 to /scripts/reporting/tmp/MTDDistBos9011.pdf
+(10367110) persisting MTD BOS report for district 0005 to /scripts/reporting/tmp/MTDDistBos0005.pdf
+(10367110) persisting MTD BOS report for district 0004 to /scripts/reporting/tmp/MTDDistBos0004.pdf
+(10367110) persisting MTD BOS report for district 0002 to /scripts/reporting/tmp/MTDDistBos0002.pdf
+(10367110) persisting MTD BOS report for district 0009 to /scripts/reporting/tmp/MTDDistBos0009.pdf
+(10367110) persisting MTD BOS report for district 0007 to /scripts/reporting/tmp/MTDDistBos0007.pdf
+(10367110) persisting MTD BOS report for district 0010 to /scripts/reporting/tmp/MTDDistBos0010.pdf
+(10367110) persisting MTD BOS report for district 0006 to /scripts/reporting/tmp/MTDDistBos0006.pdf
+(10367110) persisting MTD BOS report for district 0008 to /scripts/reporting/tmp/MTDDistBos0008.pdf
+(10367110) persisting MTD BOS report for district 0003 to /scripts/reporting/tmp/MTDDistBos0003.pdf
+(10367110) Creating /scripts/reporting/tmp/MTDDistBosReports_01022014_150947.zip
+(10367110) sending attachment email to ken.henderson@theparadiesshops.com
+(10367110) successfully sent email to ken.henderson@theparadiesshops.com
+(10367110) Cleaning up MTD District Bos pdf files
+(10367110) cleaning up /scripts/reporting/tmp/bos003.ovrd.results
+(10367110) finished Thu Jan  2 15:09:47 EST 2014
+
+(11100376) started: Thu Jan  2 15:20:31 EST 2014
+(11100376) Querying the database to see if this is the first Monday of the fiscal period
+(11100376) This is the first Monday of the fiscal period, getting all districts
+(11100376) /scripts/reporting/tmp/bos003.ovrd.results exists and is not empty
+(11100376) persisting MTD BOS report for district 9011 to /scripts/reporting/tmp/MTDDistBos9011.pdf
+(11100376) persisting MTD BOS report for district 0005 to /scripts/reporting/tmp/MTDDistBos0005.pdf
+(11100376) persisting MTD BOS report for district 0004 to /scripts/reporting/tmp/MTDDistBos0004.pdf
+(11100376) persisting MTD BOS report for district 0002 to /scripts/reporting/tmp/MTDDistBos0002.pdf
+(11100376) persisting MTD BOS report for district 0009 to /scripts/reporting/tmp/MTDDistBos0009.pdf
+(11100376) persisting MTD BOS report for district 0007 to /scripts/reporting/tmp/MTDDistBos0007.pdf
+(11100376) persisting MTD BOS report for district 0010 to /scripts/reporting/tmp/MTDDistBos0010.pdf
+(11100376) persisting MTD BOS report for district 0006 to /scripts/reporting/tmp/MTDDistBos0006.pdf
+(11100376) persisting MTD BOS report for district 0008 to /scripts/reporting/tmp/MTDDistBos0008.pdf
+(11100376) persisting MTD BOS report for district 0003 to /scripts/reporting/tmp/MTDDistBos0003.pdf
+(11100376) Creating /scripts/reporting/tmp/MTDDistBosReports_01022014_152108.zip
+(11100376) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(11100376) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(11100376) Cleaning up MTD District Bos pdf files
+(11100376) cleaning up /scripts/reporting/tmp/bos003.ovrd.results
+(11100376) finished Thu Jan  2 15:21:09 EST 2014
+
+(9969762) started: Thu Jan  2 15:45:01 EST 2014
+(9969762) Querying the database to see if this is the first Monday of the fiscal period
+(9969762) This is the first Monday of the fiscal period, getting all districts
+(9969762) /scripts/reporting/tmp/bos003.ovrd.results exists and is not empty
+(9969762) persisting MTD BOS report for district 9011 to /scripts/reporting/tmp/MTDDistBos9011.pdf
+(9969762) persisting MTD BOS report for district 0005 to /scripts/reporting/tmp/MTDDistBos0005.pdf
+(9969762) persisting MTD BOS report for district 0004 to /scripts/reporting/tmp/MTDDistBos0004.pdf
+(9969762) persisting MTD BOS report for district 0002 to /scripts/reporting/tmp/MTDDistBos0002.pdf
+(9969762) persisting MTD BOS report for district 0009 to /scripts/reporting/tmp/MTDDistBos0009.pdf
+(9969762) persisting MTD BOS report for district 0007 to /scripts/reporting/tmp/MTDDistBos0007.pdf
+(9969762) persisting MTD BOS report for district 0010 to /scripts/reporting/tmp/MTDDistBos0010.pdf
+(9969762) persisting MTD BOS report for district 0006 to /scripts/reporting/tmp/MTDDistBos0006.pdf
+(9969762) persisting MTD BOS report for district 0008 to /scripts/reporting/tmp/MTDDistBos0008.pdf
+(9969762) persisting MTD BOS report for district 0003 to /scripts/reporting/tmp/MTDDistBos0003.pdf
+(9969762) Creating /scripts/reporting/tmp/MTDDistBosReports_01022014_154540.zip
+(9969762) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(9969762) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(9969762) Cleaning up MTD District Bos pdf files
+(9969762) cleaning up /scripts/reporting/tmp/bos003.ovrd.results
+(9969762) finished Thu Jan  2 15:45:40 EST 2014
+
+(10715324) started: Thu Jan  2 19:01:45 EST 2014
+(10715324) Querying the database to see if this is the first Monday of the fiscal period
+(10715324) This is the first Monday of the fiscal period, getting all districts
+(10715324) /scripts/reporting/tmp/bos003.ovrd.results exists and is not empty
+(10715324) persisting MTD BOS report for district 9011 to /scripts/reporting/tmp/MTDDistBos9011.pdf
+(10715324) persisting MTD BOS report for district 0005 to /scripts/reporting/tmp/MTDDistBos0005.pdf
+(10715324) persisting MTD BOS report for district 0004 to /scripts/reporting/tmp/MTDDistBos0004.pdf
+(10715324) persisting MTD BOS report for district 0002 to /scripts/reporting/tmp/MTDDistBos0002.pdf
+(10715324) persisting MTD BOS report for district 0009 to /scripts/reporting/tmp/MTDDistBos0009.pdf
+(10715324) persisting MTD BOS report for district 0007 to /scripts/reporting/tmp/MTDDistBos0007.pdf
+(10715324) persisting MTD BOS report for district 0010 to /scripts/reporting/tmp/MTDDistBos0010.pdf
+(10715324) persisting MTD BOS report for district 0006 to /scripts/reporting/tmp/MTDDistBos0006.pdf
+(10715324) persisting MTD BOS report for district 0008 to /scripts/reporting/tmp/MTDDistBos0008.pdf
+(10715324) persisting MTD BOS report for district 0003 to /scripts/reporting/tmp/MTDDistBos0003.pdf
+(10715324) Creating /scripts/reporting/tmp/MTDDistBosReports_01022014_190228.zip
+(10715324) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10715324) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10715324) Cleaning up MTD District Bos pdf files
+(10715324) cleaning up /scripts/reporting/tmp/bos003.ovrd.results
+(10715324) finished Thu Jan  2 19:02:28 EST 2014
+
+(13840550) started: Tue Jan  7 13:49:19 EST 2014
+(13840550) Querying the database to see if this is the first Monday of the fiscal period
+(13840550) This is the first Monday of the fiscal period, getting all districts
+(13840550) /scripts/reporting/tmp/bos003.ovrd.results exists and is not empty
+(13840550) persisting MTD BOS report for district 9011 to /scripts/reporting/tmp/MTDDistBos9011.pdf
+(13840550) persisting MTD BOS report for district 0005 to /scripts/reporting/tmp/MTDDistBos0005.pdf
+(13840550) persisting MTD BOS report for district 0004 to /scripts/reporting/tmp/MTDDistBos0004.pdf
+(13840550) persisting MTD BOS report for district 0002 to /scripts/reporting/tmp/MTDDistBos0002.pdf
+(13840550) persisting MTD BOS report for district 0009 to /scripts/reporting/tmp/MTDDistBos0009.pdf
+(13840550) persisting MTD BOS report for district 0007 to /scripts/reporting/tmp/MTDDistBos0007.pdf
+(13840550) persisting MTD BOS report for district 0010 to /scripts/reporting/tmp/MTDDistBos0010.pdf
+(13840550) persisting MTD BOS report for district 0006 to /scripts/reporting/tmp/MTDDistBos0006.pdf
+(13840550) persisting MTD BOS report for district 0008 to /scripts/reporting/tmp/MTDDistBos0008.pdf
+(13840550) persisting MTD BOS report for district 0003 to /scripts/reporting/tmp/MTDDistBos0003.pdf
+(13840550) Creating /scripts/reporting/tmp/MTDDistBosReports_01072014_135004.zip
+(13840550) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13840550) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13840550) Cleaning up MTD District Bos pdf files
+(13840550) cleaning up /scripts/reporting/tmp/bos003.ovrd.results
+(13840550) finished Tue Jan  7 13:50:05 EST 2014
+
+(13971456) started: Tue Jan 28 09:00:50 EST 2014
+(13971456) Querying the database to see if this is the first Monday of the fiscal period
+(13971456) This is the first Monday of the fiscal period, getting all districts
+(13971456) /scripts/reporting/tmp/bos003.ovrd.results exists and is not empty
+(13971456) persisting MTD BOS report for district 9011 to /scripts/reporting/tmp/MTDDistBos9011.pdf
+(13971456) persisting MTD BOS report for district 0018 to /scripts/reporting/tmp/MTDDistBos0018.pdf
+(13971456) persisting MTD BOS report for district 0004 to /scripts/reporting/tmp/MTDDistBos0004.pdf
+(13971456) persisting MTD BOS report for district 0016 to /scripts/reporting/tmp/MTDDistBos0016.pdf
+(13971456) persisting MTD BOS report for district 0013 to /scripts/reporting/tmp/MTDDistBos0013.pdf
+(13971456) persisting MTD BOS report for district 0012 to /scripts/reporting/tmp/MTDDistBos0012.pdf
+(13971456) persisting MTD BOS report for district 0011 to /scripts/reporting/tmp/MTDDistBos0011.pdf
+(13971456) persisting MTD BOS report for district 0017 to /scripts/reporting/tmp/MTDDistBos0017.pdf
+(13971456) persisting MTD BOS report for district 0014 to /scripts/reporting/tmp/MTDDistBos0014.pdf
+(13971456) persisting MTD BOS report for district 0015 to /scripts/reporting/tmp/MTDDistBos0015.pdf
+(13971456) Creating /scripts/reporting/tmp/MTDDistBosReports_01282014_090329.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(13971456) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13971456) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13971456) Cleaning up MTD District Bos pdf files
+(13971456) cleaning up /scripts/reporting/tmp/bos003.ovrd.results
+(13971456) finished Tue Jan 28 09:03:29 EST 2014

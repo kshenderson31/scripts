@@ -1,0 +1,172 @@
+	form
+	{
+		margin-left			: 	3px;
+	}
+	label
+	{
+		text-align			:	left;
+		font-size			:	14px;
+		margin-left			:	1px;
+		margin-right			:	4px;
+		margin-top			:	3px;
+		margin-bottom			:	2px;
+		padding				:	3px;
+	}
+	fieldset
+	{
+		float				:	left;
+		border-style			:	solid;
+		border-width			:	1px;
+		border-color			:	#0B2C6B;
+	}
+	
+	div.formRow 
+	{
+		clear				: 	both;
+		padding-top			: 	2px;
+	}
+	div.formRow span.formLabel,
+	div.formRow div.formLabel
+	{
+		font-size			:	14px;
+		float				: 	left;
+		width				: 	100px;
+		text-align			: 	left;
+		padding-top	  	    	:	3px;
+		padding-left			:	3px;
+	}
+	div.formRow span.formData,
+	div.formRow div.formData 
+	{
+		float				: 	left;
+		width				: 	295px;
+		text-align			: 	left;
+	} 
+	
+	.text
+	{
+		font-size			:	14px;
+		background-color		:	#E7EBF7;
+		color				:	#0B2C6B;
+		margin-top			:	3px;
+		margin-bottom			:	2px;
+		margin-left			:	1px;
+		padding				:	3px;
+		border-style			:	solid;
+		border-width			:	1px;
+		border-color			:	#0B2C6B;
+		-moz-border-radius		: 	3px;
+		border-radius			: 	3px;
+	}
+	.textarea
+	{
+		font-size			:	14px;
+		font-family		:	arial, verdana, sans-serif;
+		background-color		:	#E7EBF7;
+		color				:	#0B2C6B;
+		margin-top			:	3px;
+		margin-bottom			:	2px;
+		padding				:	3px;
+		text-align			:	left;
+		border-style			:	solid;
+		border-width			:	1px;
+		border-color			:	#0B2C6B;
+		-moz-border-radius		: 	3px;
+		border-radius			: 	3px;
+	}
+	.select
+	{
+		font-size			:	11px;
+		background-color		:	#E7EBF7;
+		color				:	#0B2C6B;
+		margin-top			:	3px;
+		margin-bottom			:	2px;
+		margin-left			:	1px;
+		padding				:	3px;
+		border-style			:	solid;
+		border-width			:	1px;
+		border-color			:	#0B2C6B;
+		-moz-border-radius		: 	3px;
+		border-radius			: 	3px;
+	}
+	.checkboxes
+	{
+		font-size			:	14px;
+		margin-top			:	3px;
+		margin-bottom			:	2px;
+		margin-right			:	4px;
+		padding				:	3px;
+		border-style			:	solid;
+		border-width			:	1px;
+		border-color			:	#0B2C6B;
+		-moz-border-radius		: 	3px;
+		border-radius			: 	3px;
+	}
+	.radiobuttons
+	{
+		font-size			:	14px;
+		margin-top			:	3px;
+		margin-bottom			:	2px;
+		margin-right			:	4px;
+		padding				:	3px;
+		border-style			:	solid;
+		border-width			:	1px;
+		border-color			:	#0B2C6B;
+		-moz-border-radius		: 	3px;
+		border-radius			: 	3px;
+	}
+	
+	.buttonGroupLeft
+	{
+		float				:	left;
+		width				:	100%;
+		padding-top			:	5px;
+		padding-bottom			:	5px;
+		margin-left			:	10px;
+		margin-right			:	10px;
+	}
+	.buttonGroupRight
+	{
+		float				:	right;
+		width				:	100%;
+		padding-top			:	5px;
+		padding-bottom			:	5px;
+		margin-left			:	10px;
+		margin-right			:	10px;
+	}
+	
+	.buttonLeft
+	{	
+		float				:	right;
+		padding-left			:	5px;
+	}
+	.buttonRight
+	{	
+		float				:	right;
+		padding-right			:	5px;
+	}
+	
+	.formErrors
+	{
+		color				:	red;
+		background-color		:	#FFC1C1;
+	}
+	.formErrorLine
+	{
+		color				:	red;
+		font-style			:	italic;
+		font-size			:	11px;
+	}
+	
+	.tooltip 
+	{
+		background-color		:	#F7F7F7;
+		border				:	1px solid #0B2C6B;
+		padding				:	25px 25px 25px 25px;
+		width				:	200px;
+		display				:	none;
+		color				:	#0B2C6B;
+		text-align			:	left;
+		font-size			:	12px;
+		font-style			:	italic;
+	}

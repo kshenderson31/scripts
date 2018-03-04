@@ -1,0 +1,83 @@
+	table
+	{
+		
+		border-style		:	solid;
+		border-width		:	1px;
+		border-collapse		:	collapse;
+		border-color		:	#0B2C6B;
+		color			:	#0B2C6B;
+	}
+	tr
+	{
+		
+	}
+	
+	th
+	{
+		background-color	:	#B7CDEE;
+		color			:	#0B2C6B;
+		font-size		:	100%;
+		font-weight		:	normal;
+		padding-top		:	4px;
+		padding-bottom		:	4px;
+	}
+	td
+	{
+		color			:	#0B2C6B;
+		font-size		:	100%;
+		border-style		:	solid;
+		border-width		:	1px;
+		border-collapse		:	collapse;
+		border-color		:	#0B2C6B;
+		padding-top		:	2px;
+		padding-bottom		:	2px;
+		padding-left		:	3px;
+		padding-right		:	3px;
+	}
+	
+	.table
+	{
+		-moz-border-radius	: 	3px;
+		border-radius		: 	3px;
+	}
+	.noBorders
+	{
+		border-style		:	none;
+		border-width		:	0px;
+	}
+	.rowShading,
+	.rowShading .rowEntryOverflow .rowInputField
+	{
+		background-color	:	#B7CDEE;
+		color			:	#0B2C6B;
+	}
+	.rowError,
+	.rowError .rowEntryOverflow .rowInputField
+	{
+		background-color	:	#FFC1C1;
+		color			:	red;
+	}
+	.tableFunctions
+	{
+		margin-left		:	3px;
+		margin-right		:	2px;
+	}
+	
+	.rowEntryOverflow
+	{
+		overflow		:	hidden;
+	}
+	.rowInputField
+	{
+		width			:	100%;
+		color			:	#0B2C6B;
+		border-style		:	none;
+		border-width		:	0px;
+		padding			:	0px;
+	}
+	.flexigrid
+	{
+		width			:	98%;
+		margin-left		:	1%;
+	}
+	

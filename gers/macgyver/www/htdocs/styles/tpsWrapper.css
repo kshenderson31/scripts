@@ -1,0 +1,80 @@
+	.webpage
+	{
+		width			:	100%;
+		background-color	:	white;
+	}
+	.wrapper
+	{
+		width			:	1200px;
+		margin			:	0 auto;
+		font-size		:	14px;
+		font-family		:	arial, verdana, sans-serif;
+		font-weight     	:	normal;
+		color			:	#0B2C6B;
+	}
+	.popup 
+	{
+        position:absolute;
+        z-index:20000;
+        top: 0px;
+        left: 0px;
+        display: none;
+		background-color:white;
+		border: 1px solid;
+	}
+	.popupWrapper
+	{
+		width			:	800px;
+		margin			:	0 auto;
+		font-size		:	14px;
+		font-family		:	arial, verdana, sans-serif;
+		font-weight     	:	normal;
+		color			:	#0B2C6B;
+	}
+	
+	.fifthSection
+	{
+		float			:	left;
+		width			:	20%;
+	}
+	.quarterSection
+	{
+		float			:	left;
+		width			:	25%;
+	}
+	.halfSection
+	{
+		float			:	left;
+		width			:	50%;
+	}
+	.thirdSection
+	{
+		float			:	left;
+		width			:	33%;
+		margin-right		:	1px;
+	}
+	
+	#blanket 
+	{
+		background-color	:	#111;
+		opacity			: 	0.45;
+		filter			:	alpha(opacity=45);
+		position		:	absolute;
+		z-index			: 	9001;
+		top				:	0px;
+		left			:	0px;
+		width			:	100%;
+	 }
+	 .popupWindow
+	 {
+		padding			:	5px;
+	 }
+	 
+	 .floatLeft
+	 {
+		float			:	left;
+	 }
+	 .floatRight
+	 {
+		float			:	right;
+	 }

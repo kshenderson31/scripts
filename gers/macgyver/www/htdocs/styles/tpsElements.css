@@ -1,0 +1,22 @@
+	span
+	{
+		float			: left;
+	}
+	
+	a
+	{
+		text-decoration	:	none;
+		color			:	#0B2C6B;
+	}
+	a:hover
+	{
+		text-decoration	:	underline;
+	}
+	
+	img.centered 
+	{
+		display			: 	block;
+		margin-left		: 	auto;
+		margin-right	: 	auto 
+	}
+	

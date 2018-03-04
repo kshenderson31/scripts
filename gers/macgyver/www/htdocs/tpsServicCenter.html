@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+
+<HTML>
+	<HEAD>
+		<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<TITLE>IT Service Center LaunchPad</TITLE>
+		
+		<LINK rel="stylesheet" type="text/css" href="styles/tpsReset.css" />
+		<LINK rel="stylesheet" type="text/css" href="styles/tpsWrapper.css" />
+		<LINK rel="stylesheet" type="text/css" href="styles/tpsElements.css" />
+		<LINK rel="stylesheet" type="text/css" href="styles/tpsForms.css" />
+		<LINK rel="stylesheet" type="text/css" href="styles/tpsSpacers.css" />
+		<LINK rel="stylesheet" type="text/css" href="styles/tpsTables.css" />
+		<LINK rel="stylesheet" type="text/css" href="styles/tpsText.css" />
+		<LINK rel="stylesheet" type="text/css" href="styles/tpsUI.css" />
+		<LINK rel="stylesheet" type="text/css" href="styles/jquery.ui.all.css">
+		<LINK rel="stylesheet" type="text/css" href="styles/jquery.qtip.css" />
+		<LINK rel="stylesheet" type="text/css" href="styles/flexigrid.css">	
+		<LINK rel="stylesheet" type="text/css" href="styles/flexigrid.pack.css">	
+		<LINK rel="stylesheet" type="text/css" href="styles/validationEngine.jquery.css">	
+		<LINK rel="stylesheet" type="text/css" href="styles/template.css">	
+		<LINK rel="stylesheet" type="text/css" href="styles/pro_dropdown_2.css">
+		<LINK rel="stylesheet" type="text/css" href="styles/jquery.treeview.css">
+		<LINK rel="stylesheet" type="text/css" href="styles/carouselSkins.css">
+		<LINK rel="stylesheet" type="text/css" href="styles/jquery.tablesorter.css">
+		<LINK rel="stylesheet" type="text/css" href="styles/jquery.dataTables.css">
+		<LINK rel="stylesheet" type="text/css" href="styles/dhtmlxgrid.css">
+		<LINK rel="stylesheet" type="text/css" href="styles/dhtmlxgrid_dhx_skyblue.css">
+	</HEAD>
+
+	<BODY>
+	<DIV class="webpage">
+		<DIV class="wrapper messageSpacer">
+			
+			<DIV id="phoneList" style="width: 98%; margin-left: 1%; margin-right: 1%;" title="IT Service Center Contact List">
+				<DIV id="ptabs">
+					<UL>
+						<LI><A href="#ptab1">IT</A></LI>
+						<LI><A href="#ptab2">Vendors</A></LI>
+					</UL>
+			
+					<DIV id="ptab1">
+						<TABLE width="100%" cellpadding="0" cellspacing="0" border="0" class="phones textSmaller" id="phoneCenter"> 
+							<THEAD> 
+								<TR> 
+									<TH width="28%">Associate Name</TH> 
+									<TH width="14%">Extension</TH> 
+									<TH width="17%">Mobile Phone</TH> 
+									<TH width="17%">Home Phone</TH> 
+									<TH width="24%">Role</TH>
+								</TR> 
+							</THEAD> 
+							<TBODY>
+								<TR>
+									<TD></TD>
+									<TD></TD>
+									<TD class="dataTables_empty">Loading data from server</TD>
+									<TD></TD>
+									<TD></TD>
+								</TR> 
+							</TBODY> 
+							<TFOOT> 
+								<TR> 
+									<TH>Associate Name</TH> 
+									<TH>Extension</TH> 
+									<TH>Mobile Phone</TH> 
+									<TH>Home Phone</TH>
+									<TH>Role</TH> 
+								</TR> 
+							</TFOOT> 
+						</TABLE>
+					</DIV>
+				
+					<DIV id="ptab2">
+						<TABLE width="100%" cellpadding="0" cellspacing="0" border="0" class="phones textSmaller" id="phoneVendors"> 
+							<THEAD> 
+								<TR> 
+									<TH width="20%">Name</TH> 
+									<TH width="20%">Company</TH> 
+									<TH width="15%">Main Phone</TH> 
+									<TH width="15%">Office Phone</TH>
+									<TH width="15%">Mobile Phone</TH> 
+									<TH width="15%">Role</TH>
+								</TR> 
+							</THEAD> 
+							<TBODY>
+								<TR>
+									<TD></TD>
+									<TD></TD>
+									<TD></TD>
+									<TD class="dataTables_empty">Loading data from server</TD>
+									<TD></TD>
+									<TD></TD>
+								</TR> 
+							</TBODY> 
+							<TFOOT> 
+								<TR> 
+									<TH>Name</TH> 
+									<TH>Company</TH> 
+									<TH>Main Phone</TH> 
+									<TH>Office Phone</TH>
+									<TH>Mobile Phone</TH>
+									<TH>Role</TH> 
+								</TR> 
+							</TFOOT> 
+						</TABLE>
+	
+					</DIV>
+				</DIV>	
+			</DIV>
+
+			<DIV id="utilityOutput" title="Service Center Utility Output">
+				<DIV id="utilityHeader">&nbsp;</DIV>
+				<DIV id="utilityMessages">&nbsp;</DIV>
+			</DIV>
+			
+			<DIV id="confirmationPanel" title="Are You Sure?"></DIV>
+			
+			<DIV class="userInformation textSmall topSpacerSmall bottomSpacerSmall">
+				<DIV class="halfSection">&nbsp;</DIV>
+				<DIV class="halfSection">
+					<DIV id="standardLinks" class="floatRight"></DIV>	
+				</DIV>
+			</DIV>
+			
+			<DIV class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all header bottomSpacerSmall messageSpacer">
+				<DIV class="smSpacer"></DIV>
+				<DIV class="quarterSection floatLeft">
+					<A href="http://www.theparadiesshops.com" target="_blank"><IMG class="logo" src="images/logoTheParadiesShopsTransparent.png" height="30" width="30" title="The Paradies Shops" alt=""></A>
+					<DIV class="topSpacerMedium">
+						<SPAN>The Paradies Shops</SPAN><BR/>
+						<SPAN class="textSmall textItalics">Number 1 - Eighteen Consecutive Years</SPAN>
+					</DIV>
+				</DIV>
+				
+				<DIV class="halfSection textCenter">
+					<DIV class="textHuge">The Paradies Shops</DIV>
+					<DIV class="textLarge">Information Technology Service Center</DIV>
+				</DIV>
+				
+				<DIV class="floatRight quarterSection textSmall">
+					<DIV id="currentDate" class="floatRight"></DIV>		
+				</DIV>
+				
+				<DIV class="fullWidth floatRight">
+					<UL id="nav">
+						<LI class="navtop"><A href="#nogo2" id="products" class="navtop_link"><SPAN class="down">Hardware&nbsp;<IMG src="icons/blueArrowDown.png" width="10" height="10" style='margin-top: 2px;' alt=""/></SPAN></A>
+							<UL class="sub">
+								<LI><A href="#nogo3" class="fly">Register&nbsp;<IMG src="icons/blueArrow.png" width="10" height="10" style='margin-top: 2px;' alt=""/></A>
+										<UL>
+											<LI><A href="#nogo4">A</A></LI>
+											<LI><A href="#nogo5">B</A></LI>
+											<LI><A href="#nogo6">C</A></LI>
+											<LI><A href="#nogo6">D</A></LI>
+											<LI><A href="#nogo6">E</A></LI>
+											<LI><A href="#nogo6">F</A></LI>
+										</UL>
+								</LI>
+								<LI><A href="#nogo3" class="fly">Desktop&nbsp;<IMG src="icons/blueArrow.png" width="10" height="10" style='margin-top: 2px;' alt=""/></A>
+										<UL>
+											<LI><A href="#nogo4">A</A></LI>
+											<LI><A href="#nogo5">B</A></LI>
+											<LI><A href="#nogo6">C</A></LI>
+											<LI><A href="#nogo6">D</A></LI>
+											<LI><A href="#nogo6">E</A></LI>
+											<LI><A href="#nogo6">F</A></LI>
+										</UL>
+								</LI>
+								<LI><A href="#nogo3" class="fly">Laptop&nbsp;<IMG src="icons/blueArrow.png" width="10" height="10" style='margin-top: 2px;' alt=""/></A>
+										<UL>
+											<LI><A href="#nogo4">A</A></LI>
+											<LI><A href="#nogo5">B</A></LI>
+											<LI><A href="#nogo6">C</A></LI>
+											<LI><A href="#nogo6">D</A></LI>
+											<LI><A href="#nogo6">E</A></LI>
+											<LI><A href="#nogo6">F</A></LI>
+										</UL>
+								</LI>
+								<LI><A href="#nogo3" class="fly">Printer&nbsp;<IMG src="icons/blueArrow.png" width="10" height="10" style='margin-top: 2px;' alt=""/></A>
+										<UL>
+											<LI><A href="#nogo4">A</A></LI>
+											<LI><A href="#nogo5">B</A></LI>
+											<LI><A href="#nogo6">C</A></LI>
+											<LI><A href="#nogo6">D</A></LI>
+											<LI><A href="#nogo6">E</A></LI>
+											<LI><A href="#nogo6">F</A></LI>
+										</UL>
+								</LI>
+							</UL>
+						</LI>
+						<LI class="navtop"><A href="#nogo2" id="products" class="navtop_link"><SPAN class="down">Software&nbsp;<IMG src="icons/blueArrowDown.png" width="10" height="10" style='margin-top: 2px;' alt=""/></SPAN></A>
+							<UL class="sub">
+								<LI><A href="#nogo3" class="fly">Microsoft Office&nbsp;<IMG src="icons/blueArrow.png" width="10" height="10" style='margin-top: 2px;' alt=""/></A>
+										<UL>
+											<LI><A href="#nogo4">A</A></LI>
+											<LI><A href="#nogo5">B</A></LI>
+											<LI><A href="#nogo6">C</A></LI>
+											<LI><A href="#nogo6">D</A></LI>
+											<LI><A href="#nogo6">E</A></LI>
+											<LI><A href="#nogo6">F</A></LI>
+										</UL>
+								</LI>
+							</UL>
+						</LI>
+						<LI class="navtop"><A href="#nogo2" id="products" class="navtop_link"><SPAN class="down">Vendors&nbsp;<IMG src="icons/blueArrowDown.png" width="10" height="10" style='margin-top: 2px;' alt=""/></SPAN></A>
+							<UL class="sub">
+								<LI><A href="#nogo3" class="fly">Infrastructure Insights&nbsp;<IMG src="icons/blueArrow.png" width="10" height="10" style='margin-top: 2px;' alt=""/></A>
+										<UL>
+											<LI><A href="#nogo4">A</A></LI>
+											<LI><A href="#nogo5">B</A></LI>
+											<LI><A href="#nogo6">C</A></LI>
+											<LI><A href="#nogo6">D</A></LI>
+											<LI><A href="#nogo6">E</A></LI>
+											<LI><A href="#nogo6">F</A></LI>
+										</UL>
+								</LI>
+								<LI class="mid"><A href="#nogo7" class="fly">Postec&nbsp;<IMG src="icons/blueArrow.png" width="10" height="10" style='margin-top: 2px;' alt=""/></A>
+										<UL>
+											<LI><A href="#nogo4">A</A></LI>
+											<LI><A href="#nogo5">B</A></LI>
+											<LI><A href="#nogo6">C</A></LI>
+											<LI><A href="#nogo6">D</A></LI>
+											<LI><A href="#nogo6">E</A></LI>
+											<LI><A href="#nogo6">F</A></LI>
+										</UL>
+								</LI>
+								<LI class="mid"><A href="#nogo7" class="fly">Micros&nbsp;<IMG src="icons/blueArrow.png" width="10" height="10" style='margin-top: 2px;' alt=""/></A>
+										<UL>
+											<LI><A href="#nogo4">A</A></LI>
+											<LI><A href="#nogo5">B</A></LI>
+											<LI><A href="#nogo6">C</A></LI>
+											<LI><A href="#nogo6">D</A></LI>
+											<LI><A href="#nogo6">E</A></LI>
+											<LI><A href="#nogo6">F</A></LI>
+										</UL>
+								</LI>
+								<LI><A href="#nogo20">Vendor</A></LI>
+								<LI><A href="#nogo21">Vendor</A></LI>
+							</UL>
+						</LI>
+						<LI class="navtop"><A href="#nogo22" id="services" class="navtop_link"><SPAN class="down">Ticketing&nbsp;<IMG src="icons/blueArrowDown.png" width="10" height="10" style='margin-top: 2px;' alt=""/></SPAN></A>
+							<UL class="sub">
+								<LI><A href="https://support.trusti2i.net/support" target="_blank" title="ConnectWise">I2I-ConnectWise</A></LI>
+								<LI><A href="#nogo23">Postec</A></LI>
+								<LI><A href="#nogo24">Aerohive</A></LI>
+							</UL>
+						</LI>
+						<LI class="navtop"><A href="#nogo57" id="privacy" class="navtop_link"><SPAN>Locations</SPAN></A></LI>
+						<LI class="navtop"><A href="#nogo57" id="privacy" class="navtop_link"><SPAN>Stores</SPAN></A></LI>
+					</UL>
+				</DIV>
+			</DIV>
+			
+			<DIV id="messages"></DIV>
+			
+			<!--  					
+			<div class="errorMessage topSpacerSmall">
+				<div class=messageSpacer>
+				<div class=floatLeft>&nbsp;<img src="icons/error.png" height=14 width=14 /></div><span>&nbsp;&nbsp;Any error messages will be displayed here in this style</span>
+				</div>
+			</div>
+			<div class="warningMessage topSpacerSmall">
+				<div class=messageSpacer>
+					<div class=floatLeft>&nbsp;<img src="icons/warning.png" height=14 width=14 /></div><span>&nbsp;&nbsp;Warning messages will be displayed in this style</span>
+				</div>
+			</div>
+			<div class="successMessage topSpacerSmall">
+				<div class=messageSpacer>
+					<div class=floatLeft>&nbsp;<img src="icons/success.png" height=14 width=14 /></div><span>&nbsp;&nbsp;Success messages will be displayed in this style</span>
+				</div>
+			</div>
+			-->
+			
+			<DIV class="fullPanel topSpacerSmall">
+				<DIV class="sidePanel">
+					<DIV id="accordionMenu" class="accordion">
+						
+					</DIV>
+				</DIV>
+				
+				<DIV class="mainPanel">
+					<DIV class="mainSection">
+						<DIV class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+							<DIV id="mainHeader" class="textCenter topSpacerSmall bottomSpacerSmall">
+								IT Service Center Workspace
+							</DIV>
+						</DIV>
+						<DIV class="smSpacer"></DIV>
+						<DIV id="mainBody" class="fullPanel mainBody topSpacerSmall bottomSpacerSmall"></DIV>
+						<DIV class="smSpacer"></DIV>
+					</DIV>	
+				</DIV>
+			</DIV>
+
+			<DIV class="smDivider"></DIV>
+			<DIV id="pageFooter" class="footer"></DIV>
+		</DIV> <!-- Wrapper -->
+	</DIV> <!-- webpage -->
+
+	<SCRIPT  type="text/javascript" src="scripts/jquery-1.6.2.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.core.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.widget.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.mouse.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.draggable.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.position.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.resizable.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.dialog.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.accordion.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.button.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.datepicker.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.ui.tabs.min.js"></SCRIPT>
+
+	<SCRIPT  type="text/javascript" src="scripts/jquery.qtip.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/flexigrid.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/flexigrid.pack.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.validationEngine-en.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.validationEngine.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/hoverAccordian.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/stuHover.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.treeview.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.jcarousel.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.tablesorter.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.dataTables.min.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/jquery.dataTables.rowGrouping.js"></SCRIPT>
+	
+	<SCRIPT  type="text/javascript" src="scripts/tpsUtilityScripts.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/tpsStandardButtonToolTips.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/tpsPopUpWindows.js"></SCRIPT>
+	<SCRIPT  type="text/javascript" src="scripts/tpsServiceCenter.js"></SCRIPT>
+	
+	</BODY>
+
+</HTML>	

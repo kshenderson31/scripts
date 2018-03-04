@@ -1,0 +1,88 @@
+	.smDivider
+	{
+		float			:	left;
+		width			:	100%;
+		height			:	1px;
+		margin-top		:	2px;
+		margin-bottom	:	2px;
+		background-color:	#006295;
+	}
+	.mdDivider
+	{
+		float			:	left;
+		width			:	100%;
+		height			:	2px;
+		margin-top		:	4px;
+		margin-bottom	:	4px;
+		background-color:	#006295;
+	}
+	.lgDivider
+	{
+		float			:	left;
+		width			:	100%;
+		height			:	2px;
+		margin-top		:	6px;
+		margin-bottom	:	6px;
+		background-color:	#006295;
+	}
+
+	.tinySpacer
+	{
+		float			:	left;
+		width			:	100%;
+		height			:	2px;
+	}
+	.smSpacer
+	{
+		float			:	left;
+		width			:	100%;
+		height			:	1px;
+		margin-top		:	2px;
+		margin-bottom	:	2px;
+	}
+	.mdSpacer
+	{
+		float			:	left;
+		width			:	100%;
+		height			:	2px;
+		margin-top		:	4px;
+		margin-bottom	:	4px;
+	}
+	.lgSpacer
+	{
+		float			:	left;
+		width			:	100%;
+		height			:	2px;
+		margin-top		:	6px;
+		margin-bottom	:	6px;
+	}
+
+	.smExtender
+	{
+		float			:	left;
+		width			:	100%;
+		height			:	5px;
+	}
+	
+	.topSpacerSmall
+	{
+		margin-top		:	5px;
+	}
+	.topSpacerMedium
+	{
+		margin-top		:	10px;
+	}
+	
+	.bottomSpacerSmall
+	{
+		margin-bottom	:	5px;
+	}
+	.bottomSpacerMedium
+	{
+		margin-bottom	:	10px;
+	}
+	.messageSpacer
+	{
+		padding-top		:	2px;
+		padding-bottom	:	2px;
+	}

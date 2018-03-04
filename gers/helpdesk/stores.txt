@@ -1,0 +1,588 @@
+0020-FTL ISLAND BREEZE
+0023-FTL A1A  Travelmart
+0023-FTL A1A  Travelmart
+0025-FTL CNBC Landside T3
+0026-FTL New River News T3
+0027-FTL A1A Travel T4
+0028-FTL South 2 Kiosk
+0029-FTL Details
+0030-FTL Brighton
+0031-SAR News
+0032-SAR Dunkin Donut
+0033-SAR PGA
+0038-TAL News
+0039-TAL Airside
+0039-TAL Airside
+0044-JAX CNBC - C
+0045-JAX RCTM - C
+0046-JAX Brighton
+0047-JAX River City TM
+0048-JAX CNBC - A
+0052-JAX PGA
+0053-JAX NY Times Book
+0057-JAX Brooks Books
+0061- WPB 120 C-1
+0062-WPB 120 C-2
+0062-WPB 120 C-2
+0063- WPB Worth Ave News
+0064-WPB Expressions
+0067-WPB PGA
+0068-FTM Costal News
+0069-FTM Gift Shop
+0070-FTM PGA
+0071-FTM BOOKS & BEAN
+0072-FTM Beaches C9A
+0073-FTM CNBC C9A
+0074-FTM CNBC B18A
+0075-FTM Day at Beach
+0076-FTM Island Parad
+0078-FTM Brighton
+0084-FTM Shell Factor
+0085-FTM Books-Beans
+0086-FTM Brighton
+0087-FTM Beaches TR
+0088-FTM Travel/DD
+0091-PROV Market
+0093-PROV South News
+0094-PROV Books II
+0096-PROV BB
+0097-PROV Only in Road Island
+0099-PROV Brighton
+0100-PROV Rhode Island Bookstore
+0108-HTF Travelmart
+0111-HTF Shop 3
+0114-HTF Shop 6
+0117-HTF Travelmart
+0118-HTF CNBC
+0119-HTF Brooks Broth
+0120-HTF Electronic Kiosk
+0121-CVG T2
+0122-CVG A19 News
+0123-CVG B22 News/GI
+0124-CVG T-006 Airside
+0125-CVG Sue Conc C
+0126-CVG B01 News/GI
+0127-CVG A10 In-Line
+0128-CVG Kiosk
+0132-CVG Brooks Brothers
+0133-CVG CNBC
+0134-CVG CNBC B-40
+0135-CVG Brooks Brothers
+0136-CVG PGA
+0137-CVG News
+0138-CVG Bookstore
+0139-CVG News & Gifts
+0164-DET DTW:4-2B
+0175-DET PGA:Midfield
+0177-DET Brooks Brothers
+0180-DET Heritage Books
+0181-DET Motor City Books
+0182-DEL Kidzoo
+0185-DET Heritage Books
+0186-DET Books and News
+0191-FLINT
+0192-FLINT Kiosk
+0197-MEM Elvix
+0198-EME Explore
+0199-EME Kidzoo
+0200-EME Kiosk
+0201-EME Brighton
+0202-EME CNBC-Y
+0203-EME PGA
+0204-EME Gate C-7
+0205-EME Gate B-19
+0206-EME Gate B-34
+0207-EME Gate A-11
+0209-EME Baggage Claim
+0210-OKL CNBC
+0211-OKL Travelmart W
+0212-OKL Marketplace
+0213-OKL Big 12 Shop
+0214-OKL CNBC Express
+0215-OKL PGA
+0216-OKL Travelmart
+0222-SAV Airside
+0223-SAV Main
+0224-SAV PGA
+0225-SAV Hilton Head
+0231-CLSC Heritage
+0232-CLSC Marketplace
+0233-CLSC Airside
+0238-HRL Marketplace
+0240-MID Texas Market
+0245-DAL Two Podners
+0246-DAL Two Podners
+0247-DAL Two Podners
+0248-DAL Brooks Brothers
+0249-DAL Brooks Brothers
+0251-DAL BB/RC
+0252-DAL Shop 4
+0253-DAL Shop 6
+0254-DAL Details
+0255-DAL Marketplace
+0256-DAL Shop 13
+0257-DAL Shop 2-Tx
+0258-DAL Shop 14
+0260-DAL C33 #1
+0260-DAL C33 #1
+0265-DAL PGA 943
+0276-DAL Mern 599
+0277-DAL Mer 601
+0278-DAL Mer 602
+0279-DAL Mer Brighton
+0280-DAL Mer Sue Veni
+0281-DAL Mer Brighton
+0282-DAL Mer PGA
+0286-DAL Jethro Pugh
+0288-DAL Pugh TX MKT Kiosk
+0289-DAL Pugh 654
+0290-DAL Pugh 651
+0292-DAL Pugh
+0295-DAL Mercado Brighton
+0297-DAL Satellite Area Term E
+0297-DAL Term E Kiosk
+0300-KC Market Place
+0301-KC CNBC A-5
+0302-KC CNBC C-4
+0303-KC CNBC B-1
+0304-KC PGA
+0307-KC CNBC News A-2
+0308-KC CONC Kiosk
+0309-KC CNBC C2
+0311-KC CNBC A CONC
+0312-KC Marketplace B4
+0313-KC CNBC B5
+0314-KC B6 Plaza Book
+0315-KC Kiosk
+0316-STLO A-1
+0317-STLO B-2 (D-kiosk1)
+0318- STLO East PGA
+0319- STLO CNBC
+0320-STLO C-4
+0321-STLO A-1 Kiosk
+0322-STLO D-9 (D-kiosk2)
+0323-STLO D-kiosk4
+0324-STLO D-Kiosk3
+0326- STLO E-1
+0327-STLO E-2
+0328-STLO E-3
+0329-STLO LT-5
+0330-STLO LT-6
+0331-STLO LT-8
+0332-STLO LT-10
+0334-STLO PGA
+0335-STLO Brooks Brothers
+0336-STLO Brighton
+0337-STLO Explore
+0338-STLO Travelmart
+0345-COSP Marketplace
+0346-COSP Airside
+0347-COSP Travelmart
+0356-BAT Capital Mark
+0357-BAT Capital News
+0360-HUN Landside
+0361-HUN Airside
+0362-GBH PGA
+0363-GBH CNBC
+0364-GBH CNBC Kiosk
+0366-GBH Bayou City
+0367-GBH Brooks Brothers
+0368-GBH Kidzoo
+0369-GBH Bass Pro Shop
+0372-GBH Bayou City
+0375-GBH "D" News
+0376-GBH Brighton
+0377-GBH Explore
+0379-GBH CNBC A
+0380-GBH Hometown Fav
+0381-GBH Kiosk
+0384-GBH Sue Venier
+0385-GBH Marketplace
+0386-GBH Stelzig
+0387-GBH CNBC News
+0388-GBH Bayou A
+0389-BUR Lobby
+0390-BUR Just Plane N
+0392-BUR B3
+0394-BUR Pacific Coast
+0395-BUR CNBC
+0400-ORG Main
+0401-CNBC
+0402-John Wayne New
+0404-Beach Front News
+0405-Ocean City Travelmart
+0410-SAC Details
+0411-SAC Marketplace 1
+0412-SAC Kids Zoo
+0413-SAC Hometown
+0414-SAC News/Gift1
+0415-SAC PGA
+0416-SAC News/Gift 2
+0417-SAC Travelmart
+0419-SAC Brooks Brothers
+0420-SAC Travelmart B
+0421-SAC Healthy Living
+0422-SAC Visions of Eden
+0423-SAC News & Gifts
+0424-SAC Experience Sacramento
+0425-SAC CNBC News
+0426-SAC Brighton
+0427-SAC Lacoste
+0428-RENO Adventure
+0429-RENO Travelmart
+0430-RENO Ponderosa P
+0433-RENO PGA
+0434-RENO Explore
+0435-RENO CNBC News
+0436-RENO Brighton
+0437-RENO No Boundaries
+0441-PASP News
+0442-PASP Marketplace
+0444-PASP Desert News
+0445-PASP Kiosk
+0450-TUC East MarketP
+0451-TUC Airside 2 West
+0452-TUC E3 News
+0454-TUC PGA
+0456-TUC Trading Post
+0458-TUC Desert News
+0465-PHNX Desert Image
+0466-PHNX Desert Image
+0467-PHNX Book Store
+0468-PHNX PGA
+0470-PHNX T2 CNBC
+0471-PHNX CNBC
+0472-PHNX Brighton AI
+0473-PHNX Brighton LA
+0474-PHNX Desert Bree
+0475-PHNX Explore
+0476-PHNX Desert News
+0478-PHNX PGA Tour
+0481-PHNX T2 Press Ex
+0483-PHNX T2 Travelmart
+0485-MOL1
+0486-MOL Kiosk
+0493-DES Landside 1
+0494-DES Airside
+0501-MAD CNBC
+0502-MAD South Airside
+0503-MAD Travelmart
+0510-MIL CM6 Harley
+0511-MIL Third Wave N
+0512-MIL C1 CNBC
+0513-MIL CM8 Marketplace
+0514-MIL CM1 CNBC
+0515-MIL E1 CNBC
+0516-MIL D2 Travelmart
+0518-MIL PGA CM4
+0519-MIL News Shops
+0521-MIL News Shops
+0528-INDY Hoosier Marketplace
+0529-INDY Vera Bradley
+0530-INDY CNBC
+0536-INDY Civic Tra*
+0537-INDY BB
+0538-INDY Cultural
+0539-INDY CNBC
+0540-INDY Training
+0541-DTNO Book Store
+0542-DTNO Main Store
+0543-DTNO Wright Stop Travelmart
+0544-DTNO TWA Store
+0545-DTNO CNB Express
+0550-CLB CNBC
+0551-CLB Main
+0553-CLB American
+0554-CLB Delta
+0555-CLB Brooks Brothers
+0556-CLB Big Ten
+0557-CLB PGA
+0558-CLB Southwest
+0561-CLB CNBC News, B
+0562-Brighton
+0581-LVLE Lobby
+0582-LVLE Books
+0583-LOU Churchill Down Shop
+0584-LVLE Marketplace
+0585-LVLE The Last St
+0586-LVLE Finishline
+0587-LVLE Explore KY
+0588-LVLE CNBC
+0589-LVLE Brighton
+0590-LVLE Kiosk
+0592-LEX
+0594-LEX NY Times
+0618-KNX Marketplace
+0641-GRN Main
+0642-GRN North
+0643-GRN South
+0644-GRN PGA
+0656-RAL Southwest A
+0662-RAL Brighton
+0666-RAL Drugs & MO
+0667-RAL University
+0668-RAL Brighton C6
+0669-RAL PGA C2
+0670-RAL CNBC News C3
+0671-RAL Brooks Brothers
+0689-PMN Down E Marketplace
+0690-PMN Pro Book
+0694-ISLIP In-Line
+0695-ISLP Heritage B
+0696-ISLIP CNBC
+0697-ISLIP Travelmart
+0701-NYL Big Apple MA
+0704-NYL NY News
+0705-NYL Baggage
+0706-NYL NY Style
+0707-NYL Luggage
+0708-NYL PGA
+0709-NYL Books
+0710-NYL Brooks Brothers
+0711-NYL CNBC News
+0718-ALB Capital News
+0720-ALB Gift
+0721-ALB Books
+0735-NATL Marketplace
+0736-NATL Brooks Brothers
+0736-NATL Brooks Brothers
+0737-NATL PGA
+0738-NATL CNBC Center
+0739-NATL Travelmart
+0740-NATL CNBC North
+0742-NATL Bookstore
+0743-DULLES Brooks Brothers
+0746-DULLES CNBC
+0747-DULLES DC Express
+0750-PITT Brighton
+0751-PITT Baggage
+0751-PITT Kiosk
+0752-PITT Brooks Brothers
+0753-PITT News and Gifts
+0754-PITT Travelmart
+0755-PITT Sue Venier
+0756-PITT Travelmart
+0757-PITT News D
+0758-PITT News B-2
+0759-PITT PGA
+0760-PITT Micros
+0770-PHI Marketplace
+0771-PHI Marketplace
+0772-PHI PGA
+0784-POR Poor A Shop
+0786-POR Your NW Travelmart
+0789-POR Kiosk B
+0790-POR Travelmart N-Lobby
+0791-POR Travelmart C
+0791-POR Travelmart D
+0801-BOIS News
+0802-BOIS Marketplace
+0803-BOIS News Kiosk
+0810-TOR Local Colour
+0812-TOR Official Spo
+0813-TOR Canada Eh
+0816-TOR Marketplace
+0819-VAN Test Kiosk
+0821-VAN Mountain Sky
+0822-VAN PGA/Tundra
+0823-VAN Pacific Coast
+0826-VAN Pacific Rim
+0827-VAN Olympic St
+0828-VAN Lacoste
+0829-VAN Olyp Pier B
+0830-VAN Pacific Coast News
+0831-VAN Pacific Rim
+0832-VAN
+0833-VAN Shades of Time
+0869-LV Main
+0870-LV T-2
+0871-LV Brooks Brothers
+0872-LV PGA Tour
+0882-GYLD Marketplace
+0883-GYLD Details
+0884-GYLD PGA
+0886-GYLD Brighton
+0887-GYLD Pointe
+0888-GYLD Mallory SQ/Beads
+0901-TROP- Lobby
+0902-TROP- Markerplace
+0903-TROP Casino
+0904-TROP Comp Register
+0905-TROP Brooks Brothers
+0906-TROP Tower
+0910-Houston Hilton
+0920-TUL B Airside
+0921-TUL A Airside
+0922-TUL Java Dave's
+0923-TUL Travelmart
+0924-TUL Novel Ideas
+0925-TUL Marketplace
+0926-TUL Explore
+0931-ELPSaddle Blanket
+0932-ELPLNY Times Books & News
+0933-ELP CNBC-A Kiosk
+0934-ELP Plaza News
+0935-ELP Sun City Explorer
+0936-ELP CNBC
+0937-ELP Barnett Harley
+0955-SF CNBC
+0960-LB Business Journal
+0961-LB CNBC News
+0963-LB News Main
+0964-LB News Kiosk SO
+0969-LB Sweet Jill's South
+0970-PEN Landside-Main
+0971-PEN Airside
+0980-SPO NW Travelmart
+0981-SPO Inland NW Travelmart
+0982-SPO Riverfront
+0983-SPO CNBC News
+0985-SPO CNBC Upper A
+0986-SPO Simply North
+0987-SPO Auntie's Book
+0991-NWK Brooks Brothers
+0992-NWK CNBC SP #32
+0993-NWK CNBC Conc C
+0994-NWK CNBC Space 11
+0995-NWK News & Gift
+1002-FTL F Kiosk
+1003-FTL CNBC E
+1018-FTL CNBC News T4
+1022-FTL CNBC #1
+1060-WPB CNBC News
+1061-WPB Kiosk (front)
+1063-WPB Brighton
+1064-WPB New York Times
+1065-WPB Brooks Brothers Womens
+1066-WPB Tropical N
+1067-WPB Ocean Front News
+1068-WPB Coral Ocean Cove News
+1069-WPB
+1165-DET Pandora
+1166-DET Brightenton
+1167-DET CNBC
+1168-DET Spanx
+1169-DET NY Times
+1170-DET Dylan's Candy Bar
+1171-DET CNBC News Express
+1172-DET CNBC News
+1173-DET Tech For Takeoff
+1175-DET NBC News
+1176-DET Travelmart
+1375-GBH Stelzig
+1760-PHI CNBC News A
+1761-PHI CNBC News
+1762-PHI CNBC News
+1764-PHI Explore 3A3
+1765-PHI CNBC News
+1766-PHI News L24B
+1767-PHI CNBC News
+1771-PHI Top of C
+1772-PHI CNBC News
+1773-PHI Brighton
+1774-PHI Brooks Brothers
+1775-PHI Harley
+1776-PHI CNBC News
+1777-PHI Kiosk
+1780-PHI
+2000-JFK Brighton (37NC)
+2001-JFK WFAN (57CC)
+2002-JFK Blue Sky Trader
+2003-JFK CNBC (28CC)
+2005-JFK CNBC Express
+2006-JFK CNBC News (3T)
+2007-JFK Blue Sky Trader
+2008-JFK CNBC News (5NC)
+2010-JFK Heritage Books
+2011-JFK Pandora
+2017-ATLANTA Pandora
+2018-CNBC
+2019-Brooks Brothers
+2020-Shades of Time
+2021-Piedmont Park Travel
+2022-ATL NY Times
+2023-ATL Drugs and More
+2024-ATL Brighton ATR 2
+2025-ATL Brooks Brothers
+2026-ATL GA. Aquarum
+2027-ATL Brighton
+2028-ATL CNBC News
+2029-ATL Newsbeat
+2030-ATL CNBC
+2031-ATL Atlanta.net
+2032-ATL 11 Alive News
+2033-CNBC Express
+2034-Spanx
+2035-Swarovski
+2036-ATL NYT Books
+2037-Sweet Auburn Market
+2038-SGF Springfield RO
+2039-SGF Springfield CN
+2041-CNBC Pre Security
+2042-Kiosk Post Security
+2050-Winnipeg Red River News Express(Airside)
+2051-Winnipeg The Exchange/Toad Hill
+2052-Winnipeg CNBC News- Transborder
+2053-Winnipeg Red River News Express(Landside)
+2054-Winnipeg The Exchange News/Gifts
+2055-Winnipeg PGA Tour
+2056-Winnipeg Toad Hall Toys
+2061-BAL CNBC
+2063-BAL Brooks Brothers
+2070-Local News
+2071-Local News
+2072-CNBC
+2073-NYT Books
+2074-CNBC News
+2075-CNBC News
+2076-CNBC News
+2077-Marketplace
+2078-Marketplace
+2079-Shades of Time (CONC D)
+2080-Pandora Jewelry
+2081-Brighton
+2082-New South Travel
+2083-EA Sports
+2084-Shades of Time
+2085-Business Center
+2086-Charlette's Got A Lot
+2087-PGA
+2088-Brooks Brothers
+2089-Lacoste
+2090-E Kiosk
+3015-Asheville
+3016-Asheville
+3020-Jammin Java
+3021-Gourmet Mkt/Boars Head
+3022-CNBC News/Cafe
+3023-CNBC News/Cafe
+3024-CNBC
+3025-Ozark Tavren
+3027-NW Arkansas
+3030-SLC Red Onion Travelmart
+3031-SLC KSL Newsstand
+3032-SLC Sam Weller Book
+3033-SLC CNBC B Upper
+3034-SLC CNBC Express
+3035-SLC CNBC C
+3036-SLC CNBC D
+3037-SLC No Boundaries T2
+3038-SLC Desert News
+3039-SLC Kidzoo
+3040-SLC Visit SLC
+3041-SLC Brighton
+3042-SLC EA Sports
+3043-SLC Utah's Own
+3051-Bookstore
+3055-SAN Channel 10 News
+3056-SAN News
+3057-SAN CNBC News
+3058-SAN CNBC News Express
+3059-SAN NY Times Books
+3060-SAN Gaslamp Marketplace
+3061-SAN Shades of Time
+3063-SAN Brighton
+3064-SAN PGA
+3080-ORD Brighton
+3081-ORD Brooks Brothers
+619-KNX Smoky Mtn.

@@ -1,0 +1,258 @@
+	.logo
+	{
+		float			:	left;
+		margin-top		:	10px;
+		margin-left		: 	10px;
+		margin-right		:	5px;
+	}
+
+	.blankMessage
+	{
+		width			:	100%;
+		float			:	left;
+		font-style		:	italic;
+		padding-top		:	3px;
+		padding-bottom		:	3px;
+	}
+	.errorMessage
+	{
+		width			:	100%;
+		float			:	left;
+		background-color	:	#fed;
+		color			:	red;
+		font-style		:	italic;
+		border-style		:	solid;
+		border-width		:	1px;
+		border-color		:	red;
+		-moz-border-radius	: 	3px;
+		border-radius		: 	3px;
+		padding-top			:	3px;
+		padding-bottom		:	3px;
+	}
+	.panelErrors
+	{
+		width			:	100%;
+		float			:	left;
+		color			:	red;
+		font-style		:	italic;
+		border-style		:	solid;
+		padding-top		:	4px;
+		padding-bottom		:	4px;
+	}
+	.warningMessage
+	{
+		width			:	100%;
+		float			:	left;
+		background-color	:	#F0F8FF;
+		font-style		:	italic;
+		border-style		:	solid;
+		border-width		:	1px;
+		border-color		:	#2C5115;
+		-moz-border-radius	: 	3px;
+		border-radius		: 	3px;
+		padding-top		:	3px;
+		padding-bottom		:	3px;	}
+	.successMessage
+	{
+		width			:	100%;
+		float			:	left;
+		background-color	:	#E7FBE7;
+		font-style		:	italic;
+		border-style		:	solid;
+		border-width		:	1px;
+		border-color		:	#2A8A15;
+		-moz-border-radius	: 	3px;
+		border-radius		: 	3px;
+		padding-top		:	3px;
+		padding-bottom		:	3px;
+}
+	
+	.header
+	{
+		float			:	left;
+		width           	:	100%;
+		background-color	:	#0B2C6B;
+		color			:	#DFE3EE;
+		-moz-border-radius	: 	3px;
+		border-radius		: 	3px;
+	}
+	.footer
+	{
+		float			:	left;
+		width           	:	100%;
+	}
+	.footerList,
+	.footerList li
+	{
+		padding 		: 	2px;
+	}
+	.userInformation
+	{
+		float			:	right;
+		width			:	100%;
+		font-style		:	italic;
+	}
+	
+	.horizontalMenu
+	{	
+		width			:	100%;
+		display			:	block;
+		list-style-type		:	none;
+		overflow		:	hidden;
+		
+	}
+	.horizontalMenu li,
+	.horizontalMenu li a:link,
+	.horizontalMenu li a:visited
+	{	
+		float			:	right;
+		text-decoration		:	none;
+		background-color	:	#0B2C6B; 
+		color			:	#DFE3EE;
+		padding-top		:	1px;
+		padding-bottom		:	1px;
+		padding-right		:	4px;
+		padding-left		:	1px;
+		overflow		:	hidden;
+		display			:	block;
+	}
+	.horizontalMenu li a:hover
+	{	
+		float			:	right;
+		text-decoration		:	none;
+		color			:	#DFE3EE; 
+		background-color	:	#0B2C6B;
+		padding-top		:	1px;
+		padding-bottom		:	1px;
+		padding-right		:	4px;
+		padding-left		:	1px;
+		overflow		:	hidden;
+		display			:	block;
+		-moz-border-radius	: 	3px;
+		border-radius		: 	3px;
+	}
+	
+	.accordionMenuItem
+	{
+		padding-left		:	18px;
+		font-weight		:	bold;
+		overflow		:	hidden;
+	}
+	.accordionMenuList
+	{	
+		font-size		:	95%;
+		text-align		:	left;
+		list-style-type		:	none;
+		text-decoration		:	none;
+		padding-left		:	0px;
+		overflow		:	hidden;
+	}
+	
+	li.accordionMenuListSelection a,
+	li.accordionMenuListSelection a:link,
+	li.accordionMenuListSelection a:visited
+	{
+		width			:	100%;
+		display			:	block;
+		padding-left		:	0px;
+		padding-top		:	1px;
+		padding-bottom		:	2px;
+		text-decoration		:	none;
+		color			:	#0B2C6B;
+		overflow		:	hidden;
+	}
+	li.accordionMenuListSelection a:hover
+	{
+		width			:	100%;
+		display			:	block;
+		background-color	:	#0B2C6B; 
+		color			:	#DFE3EE;
+		padding-left		:	0px;
+		padding-top		:	1px;
+		padding-bottom		:	2px;
+		font-weight		:	bold;
+		text-decoration		:	none;
+		overflow		:	hidden;
+		-moz-border-radius	: 	4px;
+		border-radius		: 	4px;
+	}
+		
+	.fullPanel
+	{
+		float			:	left;
+		width			:	100%;
+	}
+	.sidePanel	
+	{
+		float			:	left;
+		width			:	15%;
+	}
+	.sideSection
+	{
+		float				:	left;
+		width				:	100%;
+		border-style		:	solid;
+		border-width		:	1px;
+		border-color		:	#0B2C6B;
+		background-color	:	#F7F7F7;
+		-moz-border-radius	: 	3px;
+		border-radius		: 	3px;
+	}
+	
+	.mainPanel
+	{
+		float				:	right;
+		width				:	84%;
+		margin-left			:	10px;
+	}
+	.mainSection
+	{
+		float				:	left;
+		width				:	100%;
+		border-style		:	none;
+		border-width		:	0px;
+		border-color		:	#0B2C6B;
+		background-color	:	#F7F7F7;
+		-moz-border-radius	: 	3px;
+		border-radius		: 	3px;
+	}
+	.mainBody
+	{
+		float			:	left;
+		width			:	100%;
+		margin-top		:	1px;
+		margin-bottom		:	1px;
+		padding			:	3px;
+	}
+	
+	.panelHeader
+	{
+		float			:	left;
+		width			:	100%;
+		border-style		:	none;
+		border-width		:	0px;
+		-moz-border-radius	: 	3px;
+		border-radius		: 	3px;
+		background-color	:	#0B2C6B; 
+		color			:	#DFE3EE;
+		text-align		:	center;
+		padding-top		:	1px;
+		padding-bottom		:	1px;
+	}
+	
+	.floatRight
+	{
+		float			:	right;
+	}
+	
+	.fullWidth
+	{
+		float			:	left;
+		width			:	100%;
+	}
+	.centerContent
+	{
+		margin			:	0 auto;
+	}
+	
+	

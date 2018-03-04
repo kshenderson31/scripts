@@ -1,0 +1,2067 @@
+
+(22327482) started: Fri Oct 11 15:09:55 EDT 2013
+(22327482) Querying the database for all retail centers
+(22327482) /scripts/reporting/tmp/bos001.results exists and is not empty
+(22327482) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos0020.pdf
+(22327482) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9011.pdf
+(22327482) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(22327482) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(22327482) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(22327482) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(22327482) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(22327482) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(22327482) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(22327482) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(22327482) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(22327482) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(22327482) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(22327482) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(22327482) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(22327482) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(22327482) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(22327482) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9110.pdf
+(22327482) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(22327482) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(22327482) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(22327482) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(22327482) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(22327482) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(22327482) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(22327482) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(22327482) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9215.pdf
+(22327482) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9230.pdf
+(22327482) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(22327482) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(22327482) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(22327482) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9312, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9312.pdf
+(22327482) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(22327482) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(22327482) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(22327482) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(22327482) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(22327482) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(22327482) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9404.pdf
+(22327482) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(22327482) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(22327482) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(22327482) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(22327482) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(22327482) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(22327482) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(22327482) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(22327482) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(22327482) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(22327482) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(22327482) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(22327482) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(22327482) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(22327482) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(22327482) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(22327482) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(22327482) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(22327482) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(22327482) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(22327482) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(22327482) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(22327482) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(22327482) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9615.pdf
+(22327482) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(22327482) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(22327482) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(22327482) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(22327482) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(22327482) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(22327482) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(22327482) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(22327482) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(22327482) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9706.pdf
+(22327482) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(22327482) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(22327482) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(22327482) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9751.pdf
+(22327482) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(22327482) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(22327482) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(22327482) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(22327482) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(22327482) removing /scripts/reporting/tmp/Bos9800.pdf
+(22327482) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(22327482) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(22327482) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(22327482) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(22327482) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(22327482) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(22327482) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(22327482) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(22327482) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(22327482) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(22327482) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(22327482) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(22327482) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(22327482) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(22327482) Creating /scripts/reporting/tmp/BosReports_10112013_151532.zip
+(22327482) sending attachment email to lane.putnel@theparadiesshops.com
+(22327482) successfully sent email to lane.putnel@theparadiesshops.com
+(22327482) Cleaning up Bos pdf files
+(22327482) cleaning up /scripts/reporting/tmp/bos001.results
+(22327482) finished Fri Oct 11 15:15:34 EDT 2013
+
+(14823550) started: Fri Oct 11 16:43:32 EDT 2013
+(14823550) Querying the database to see if this is the first Monday of the fiscal period
+(14823550) This is not the first Monday of the fiscal period, exiting
+
+(22364328) started: Fri Oct 11 16:43:43 EDT 2013
+(22364328) Querying the database to see if this is the first Monday of the fiscal period
+(22364328) This is not the first Monday of the fiscal period, exiting
+
+(12509342) started: Mon Jan  6 04:00:00 EST 2014
+(12509342) Querying the database to see if this is the first Monday of the fiscal period
+(12509342) This is not the first Monday of the fiscal period, exiting
+
+(14434404) started: Mon Jan 13 04:00:00 EST 2014
+(14434404) Querying the database to see if this is the first Monday of the fiscal period
+(14434404) This is not the first Monday of the fiscal period, exiting
+
+(12316884) started: Mon Jan 20 04:00:00 EST 2014
+(12316884) Querying the database to see if this is the first Monday of the fiscal period
+(12316884) This is not the first Monday of the fiscal period, exiting
+
+(14282898) started: Mon Jan 27 04:00:00 EST 2014
+(14282898) Querying the database to see if this is the first Monday of the fiscal period
+(14282898) This is not the first Monday of the fiscal period, exiting
+
+(14467114) started: Mon Jan 27 14:45:37 EST 2014
+(14467114) Querying the database to see if this is the first Monday of the fiscal period
+(14467114) This is not the first Monday of the fiscal period, exiting
+
+(14876818) started: Mon Jan 27 15:21:34 EST 2014
+(14876818) Querying the database to see if this is the first Monday of the fiscal period
+bos001.sh: line 136: [: too many arguments
+(14876818) This is the first Monday of the fiscal period, querying the database for all retail centers
+(14876818) /scripts/reporting/tmp/bos001.results exists and is not empty
+(14876818) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos0020.pdf
+(14876818) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9011.pdf
+(14876818) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(14876818) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(14876818) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(14876818) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(14876818) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(14876818) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(14876818) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(14876818) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(14876818) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(14876818) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(14876818) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(14876818) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(14876818) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(14876818) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(14876818) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(14876818) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9110.pdf
+(14876818) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(14876818) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(14876818) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(14876818) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(14876818) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(14876818) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(14876818) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(14876818) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(14876818) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9215.pdf
+(14876818) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9230.pdf
+(14876818) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(14876818) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(14876818) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(14876818) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(14876818) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9315.pdf
+(14876818) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(14876818) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(14876818) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(14876818) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(14876818) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(14876818) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(14876818) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9404.pdf
+(14876818) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(14876818) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(14876818) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(14876818) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(14876818) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(14876818) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(14876818) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(14876818) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(14876818) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(14876818) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(14876818) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(14876818) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(14876818) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(14876818) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(14876818) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(14876818) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(14876818) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(14876818) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(14876818) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(14876818) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(14876818) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(14876818) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(14876818) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(14876818) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9615.pdf
+(14876818) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(14876818) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(14876818) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(14876818) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(14876818) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(14876818) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(14876818) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(14876818) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(14876818) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(14876818) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9706.pdf
+(14876818) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(14876818) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(14876818) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(14876818) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9751.pdf
+(14876818) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(14876818) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(14876818) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(14876818) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(14876818) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(14876818) removing /scripts/reporting/tmp/Bos9800.pdf
+(14876818) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(14876818) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(14876818) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(14876818) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(14876818) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(14876818) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(14876818) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(14876818) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(14876818) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(14876818) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(14876818) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(14876818) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(14876818) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(14876818) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(14876818) Creating /scripts/reporting/tmp/BosReports_01272014_152705.zip
+bos001.sh: line 209: jar: command not found
+(14876818) ** ERROR: An error occurred creating /scripts/reporting/tmp/BosReports_01272014_152705.zip, RC=127
+
+(14360744) started: Mon Jan 27 16:33:29 EST 2014
+(14360744) Querying the database to see if this is the first Monday of the fiscal period
+/scripts/reporting/bos001.sh: line 136: [: too many arguments
+(14360744) This is the first Monday of the fiscal period, querying the database for all retail centers
+(14360744) /scripts/reporting/tmp/bos001.results exists and is not empty
+(14360744) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos0020.pdf
+(14360744) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9011.pdf
+(14360744) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(14360744) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(14360744) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(14360744) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(14360744) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(14360744) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(14360744) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(14360744) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(14360744) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(14360744) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(14360744) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(14360744) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(14360744) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(14360744) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(14360744) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(14360744) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9110.pdf
+(14360744) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(14360744) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(14360744) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(14360744) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(14360744) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(14360744) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(14360744) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(14360744) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(14360744) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9215.pdf
+(14360744) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9230.pdf
+(14360744) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(14360744) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(14360744) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(14360744) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(14360744) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9315.pdf
+(14360744) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(14360744) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(14360744) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(14360744) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(14360744) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(14360744) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(14360744) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9404.pdf
+(14360744) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(14360744) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(14360744) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(14360744) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(14360744) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(14360744) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(14360744) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(14360744) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(14360744) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(14360744) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(14360744) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(14360744) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(14360744) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(14360744) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(14360744) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(14360744) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(14360744) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(14360744) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(14360744) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(14360744) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(14360744) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(14360744) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(14360744) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(14360744) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9615.pdf
+(14360744) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(14360744) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(14360744) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(14360744) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(14360744) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(14360744) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(14360744) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(14360744) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(14360744) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(14360744) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9706.pdf
+(14360744) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(14360744) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(14360744) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(14360744) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9751.pdf
+(14360744) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(14360744) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(14360744) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(14360744) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(14360744) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(14360744) removing /scripts/reporting/tmp/Bos9800.pdf
+(14360744) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(14360744) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(14360744) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(14360744) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(14360744) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(14360744) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(14360744) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(14360744) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(14360744) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(14360744) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(14360744) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(14360744) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(14360744) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(14360744) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(14360744) Creating /scripts/reporting/tmp/BosReports_01272014_163859.zip
+/scripts/reporting/bos001.sh: line 209: jar: command not found
+(14360744) ** ERROR: An error occurred creating /scripts/reporting/tmp/BosReports_01272014_163859.zip, RC=127
+
+(14717180) started: Mon Jan 27 16:53:49 EST 2014
+(14717180) Querying the database to see if this is the first Monday of the fiscal period
+/scripts/reporting/bos001.sh: line 136: [: too many arguments
+(14717180) This is the first Monday of the fiscal period, querying the database for all retail centers
+(14717180) /scripts/reporting/tmp/bos001.results exists and is not empty
+(14717180) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos0020.pdf
+(14717180) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9011.pdf
+(14717180) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(14717180) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(14717180) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(14717180) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(14717180) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(14717180) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(14717180) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(14717180) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(14717180) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(14717180) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(14717180) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(14717180) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(14717180) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(14717180) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(14717180) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(14717180) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9110.pdf
+(14717180) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(14717180) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(14717180) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(14717180) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(14717180) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(14717180) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(14717180) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(14717180) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(14717180) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9215.pdf
+(14717180) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9230.pdf
+(14717180) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(14717180) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(14717180) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(14717180) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(14717180) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9315.pdf
+(14717180) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(14717180) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(14717180) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(14717180) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(14717180) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(14717180) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(14717180) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9404.pdf
+(14717180) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(14717180) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(14717180) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(14717180) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(14717180) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(14717180) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(14717180) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(14717180) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(14717180) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(14717180) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(14717180) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(14717180) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(14717180) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(14717180) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(14717180) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(14717180) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(14717180) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(14717180) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(14717180) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(14717180) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(14717180) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(14717180) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(14717180) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(14717180) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9615.pdf
+(14717180) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(14717180) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(14717180) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(14717180) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(14717180) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(14717180) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(14717180) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(14717180) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(14717180) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(14717180) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9706.pdf
+(14717180) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(14717180) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(14717180) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(14717180) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9751.pdf
+(14717180) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(14717180) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(14717180) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(14717180) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(14717180) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(14717180) removing /scripts/reporting/tmp/Bos9800.pdf
+(14717180) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(14717180) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(14717180) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(14717180) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(14717180) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(14717180) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(14717180) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(14717180) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(14717180) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(14717180) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(14717180) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(14717180) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(14717180) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(14717180) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(14717180) Creating /scripts/reporting/tmp/BosReports_01272014_170148.zip
+/scripts/reporting/bos001.sh: line 209: jar: command not found
+(14717180) ** ERROR: An error occurred creating /scripts/reporting/tmp/BosReports_01272014_170148.zip, RC=127
+
+(13570082) started: Mon Jan 27 17:03:27 EST 2014
+(13570082) Querying the database to see if this is the first Monday of the fiscal period
+/scripts/reporting/bos001.sh: line 136: [: too many arguments
+(13570082) This is the first Monday of the fiscal period, querying the database for all retail centers
+(13570082) /scripts/reporting/tmp/bos001.results exists and is not empty
+(13570082) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos0020.pdf
+(13570082) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9011.pdf
+(13570082) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(13570082) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(13570082) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(13570082) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(13570082) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(13570082) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(13570082) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(13570082) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(13570082) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(13570082) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(13570082) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(13570082) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(13570082) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(13570082) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(13570082) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(13570082) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9110.pdf
+(13570082) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(13570082) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(13570082) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(13570082) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(13570082) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(13570082) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(13570082) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(13570082) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(13570082) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9215.pdf
+(13570082) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9230.pdf
+(13570082) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(13570082) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(13570082) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(13570082) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(13570082) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9315.pdf
+(13570082) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(13570082) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(13570082) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(13570082) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(13570082) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(13570082) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(13570082) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9404.pdf
+(13570082) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(13570082) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(13570082) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(13570082) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(13570082) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(13570082) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(13570082) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(13570082) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(13570082) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(13570082) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(13570082) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(13570082) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(13570082) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(13570082) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(13570082) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(13570082) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(13570082) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(13570082) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(13570082) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(13570082) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(13570082) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(13570082) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(13570082) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(13570082) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9615.pdf
+(13570082) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(13570082) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(13570082) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(13570082) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(13570082) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(13570082) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(13570082) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(13570082) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(13570082) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(13570082) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9706.pdf
+(13570082) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(13570082) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(13570082) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(13570082) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9751.pdf
+(13570082) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(13570082) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(13570082) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(13570082) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(13570082) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(13570082) removing /scripts/reporting/tmp/Bos9800.pdf
+(13570082) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(13570082) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(13570082) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(13570082) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(13570082) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(13570082) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(13570082) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(13570082) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(13570082) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(13570082) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(13570082) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(13570082) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(13570082) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(13570082) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(13570082) Creating /scripts/reporting/tmp/BosReports_01272014_170952.zip
+/scripts/reporting/bos001.sh: line 209: jar: command not found
+(13570082) ** ERROR: An error occurred creating /scripts/reporting/tmp/BosReports_01272014_170952.zip, RC=127
+
+(15536244) started: Mon Jan 27 17:29:45 EST 2014
+(15536244) Querying the database to see if this is the first Monday of the fiscal period
+/scripts/reporting/bos001.sh: line 136: [: too many arguments
+(15536244) This is the first Monday of the fiscal period, querying the database for all retail centers
+(15536244) /scripts/reporting/tmp/bos001.results exists and is not empty
+(15536244) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos0020.pdf
+(15536244) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9011.pdf
+(15536244) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(15536244) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(15536244) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(15536244) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(15536244) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(15536244) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(15536244) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(15536244) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(15536244) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(15536244) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(15536244) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(15536244) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(15536244) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(15536244) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(15536244) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(15536244) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9110.pdf
+(15536244) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(15536244) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(15536244) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(15536244) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(15536244) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(15536244) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(15536244) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(15536244) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(15536244) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9215.pdf
+(15536244) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9230.pdf
+(15536244) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(15536244) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(15536244) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(15536244) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(15536244) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9315.pdf
+(15536244) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(15536244) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(15536244) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(15536244) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(15536244) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(15536244) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(15536244) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9404.pdf
+(15536244) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(15536244) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(15536244) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(15536244) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(15536244) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(15536244) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(15536244) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(15536244) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(15536244) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(15536244) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(15536244) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(15536244) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(15536244) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(15536244) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(15536244) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(15536244) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(15536244) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(15536244) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(15536244) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(15536244) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(15536244) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(15536244) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(15536244) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(15536244) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9615.pdf
+(15536244) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(15536244) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(15536244) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(15536244) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(15536244) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(15536244) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(15536244) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(15536244) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(15536244) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(15536244) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9706.pdf
+(15536244) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(15536244) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(15536244) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(15536244) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9751.pdf
+(15536244) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(15536244) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(15536244) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(15536244) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(15536244) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(15536244) removing /scripts/reporting/tmp/Bos9800.pdf
+(15536244) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(15536244) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(15536244) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(15536244) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(15536244) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(15536244) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(15536244) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(15536244) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(15536244) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(15536244) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(15536244) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(15536244) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(15536244) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(15536244) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(15536244) Creating /scripts/reporting/tmp/BosReports_01272014_173901.zip
+/scripts/reporting/bos001.sh: line 209: /gers/prod/jre_1.4.2/sh/java/jar: A parameter must be a directory.
+(15536244) ** ERROR: An error occurred creating /scripts/reporting/tmp/BosReports_01272014_173901.zip, RC=126
+
+(14082230) started: Tue Jan 28 07:45:15 EST 2014
+(14082230) Querying the database to see if this is the first Monday of the fiscal period
+bos001.sh: line 136: [: too many arguments
+(14082230) This is the first Monday of the fiscal period, querying the database for all retail centers
+(14082230) /scripts/reporting/tmp/bos001.results exists and is not empty
+(14082230) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos0020.pdf
+(14082230) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9011.pdf
+(14082230) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(14082230) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(14082230) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(14082230) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(14082230) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(14082230) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(14082230) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(14082230) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(14082230) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(14082230) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(14082230) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(14082230) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(14082230) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(14082230) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(14082230) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(14082230) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9110.pdf
+(14082230) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(14082230) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(14082230) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(14082230) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(14082230) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(14082230) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(14082230) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(14082230) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(14082230) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9215.pdf
+(14082230) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9230.pdf
+(14082230) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(14082230) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(14082230) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(14082230) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(14082230) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9315.pdf
+(14082230) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(14082230) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(14082230) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(14082230) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(14082230) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(14082230) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(14082230) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9404.pdf
+(14082230) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(14082230) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(14082230) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(14082230) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(14082230) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(14082230) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(14082230) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(14082230) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(14082230) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(14082230) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(14082230) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(14082230) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(14082230) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(14082230) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(14082230) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(14082230) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(14082230) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(14082230) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(14082230) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(14082230) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(14082230) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(14082230) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(14082230) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(14082230) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9615.pdf
+(14082230) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(14082230) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(14082230) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(14082230) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(14082230) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(14082230) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(14082230) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(14082230) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(14082230) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(14082230) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9706.pdf
+(14082230) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(14082230) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(14082230) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(14082230) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9751.pdf
+(14082230) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(14082230) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(14082230) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(14082230) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(14082230) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(14082230) removing /scripts/reporting/tmp/Bos9800.pdf
+(14082230) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(14082230) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(14082230) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(14082230) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(14082230) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(14082230) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(14082230) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(14082230) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(14082230) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(14082230) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(14082230) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(14082230) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(14082230) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(14082230) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(14082230) Creating /scripts/reporting/tmp/BosReports_01282014_075423.zip
+bos001.sh: line 209: /gers/prod/jre_1.4.2/sh/java/jar: A parameter must be a directory.
+(14082230) ** ERROR: An error occurred creating /scripts/reporting/tmp/BosReports_01282014_075423.zip, RC=126
+
+(14430414) started: Tue Jan 28 08:11:04 EST 2014
+(14430414) Querying the database to see if this is the first Monday of the fiscal period
+bos001.sh: line 136: [: too many arguments
+(14430414) This is the first Monday of the fiscal period, querying the database for all retail centers
+(14430414) /scripts/reporting/tmp/bos001.results exists and is not empty
+(14430414) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos0020.pdf
+(14430414) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9011.pdf
+(14430414) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(14430414) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(14430414) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(14430414) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(14430414) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(14430414) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(14430414) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(14430414) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(14430414) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(14430414) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(14430414) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(14430414) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(14430414) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(14430414) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(14430414) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(14430414) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9110.pdf
+(14430414) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(14430414) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(14430414) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(14430414) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(14430414) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(14430414) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(14430414) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(14430414) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(14430414) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9215.pdf
+(14430414) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9230.pdf
+(14430414) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(14430414) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(14430414) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(14430414) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(14430414) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9315.pdf
+(14430414) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(14430414) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(14430414) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(14430414) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(14430414) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(14430414) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(14430414) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9404.pdf
+(14430414) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(14430414) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(14430414) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(14430414) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(14430414) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(14430414) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(14430414) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(14430414) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(14430414) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(14430414) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(14430414) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(14430414) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(14430414) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(14430414) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(14430414) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(14430414) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(14430414) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(14430414) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(14430414) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(14430414) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(14430414) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(14430414) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(14430414) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(14430414) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9615.pdf
+(14430414) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(14430414) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(14430414) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(14430414) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(14430414) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(14430414) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(14430414) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(14430414) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(14430414) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(14430414) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9706.pdf
+(14430414) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(14430414) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(14430414) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(14430414) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9751.pdf
+(14430414) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(14430414) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(14430414) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(14430414) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(14430414) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(14430414) removing /scripts/reporting/tmp/Bos9800.pdf
+(14430414) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(14430414) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(14430414) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(14430414) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(14430414) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(14430414) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(14430414) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(14430414) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(14430414) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(14430414) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(14430414) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(14430414) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(14430414) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(14430414) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(14430414) Creating /scripts/reporting/tmp/BosReports_01282014_081810.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(14430414) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(14430414) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(14430414) Cleaning up Bos pdf files
+(14430414) cleaning up /scripts/reporting/tmp/bos001.results
+(14430414) finished Tue Jan 28 08:18:10 EST 2014
+
+(12927168) started: Mon Feb  3 04:00:00 EST 2014
+(12927168) Querying the database to see if this is the first Monday of the fiscal period
+/scripts/reporting/bos001.sh: line 136: [: too many arguments
+(12927168) This is the first Monday of the fiscal period, querying the database for all retail centers
+(12927168) /scripts/reporting/tmp/bos001.results exists and is not empty
+(12927168) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos0020.pdf
+(12927168) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9011.pdf
+(12927168) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(12927168) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(12927168) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(12927168) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(12927168) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(12927168) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(12927168) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(12927168) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(12927168) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(12927168) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(12927168) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(12927168) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(12927168) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(12927168) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(12927168) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(12927168) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9110.pdf
+(12927168) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(12927168) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(12927168) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(12927168) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(12927168) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(12927168) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(12927168) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(12927168) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(12927168) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9215.pdf
+(12927168) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9230.pdf
+(12927168) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(12927168) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(12927168) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(12927168) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(12927168) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9315.pdf
+(12927168) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(12927168) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(12927168) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(12927168) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(12927168) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(12927168) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(12927168) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9404.pdf
+(12927168) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(12927168) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(12927168) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(12927168) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(12927168) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(12927168) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(12927168) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(12927168) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(12927168) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(12927168) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(12927168) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(12927168) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(12927168) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(12927168) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(12927168) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(12927168) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(12927168) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(12927168) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(12927168) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(12927168) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(12927168) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(12927168) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(12927168) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(12927168) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9615.pdf
+(12927168) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(12927168) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(12927168) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(12927168) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(12927168) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(12927168) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(12927168) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(12927168) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(12927168) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(12927168) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9706.pdf
+(12927168) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(12927168) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(12927168) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(12927168) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9751.pdf
+(12927168) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(12927168) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(12927168) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(12927168) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(12927168) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(12927168) removing /scripts/reporting/tmp/Bos9800.pdf
+(12927168) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(12927168) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(12927168) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(12927168) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(12927168) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(12927168) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(12927168) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(12927168) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(12927168) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(12927168) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(12927168) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(12927168) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(12927168) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(12927168) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(12927168) Creating /scripts/reporting/tmp/BosReports_02032014_040825.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(12927168) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12927168) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12927168) Cleaning up Bos pdf files
+(12927168) cleaning up /scripts/reporting/tmp/bos001.results
+(12927168) finished Mon Feb  3 04:08:26 EST 2014
+
+(15294578) started: Mon Feb 10 04:00:00 EST 2014
+(15294578) Querying the database to see if this is the first Monday of the fiscal period
+/scripts/reporting/bos001.sh: line 136: [: too many arguments
+(15294578) This is the first Monday of the fiscal period, querying the database for all retail centers
+(15294578) /scripts/reporting/tmp/bos001.results exists and is not empty
+(15294578) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos0020.pdf
+(15294578) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9011.pdf
+(15294578) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(15294578) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(15294578) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(15294578) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(15294578) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(15294578) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(15294578) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(15294578) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(15294578) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(15294578) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(15294578) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(15294578) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(15294578) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(15294578) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(15294578) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(15294578) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9110.pdf
+(15294578) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(15294578) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(15294578) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(15294578) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(15294578) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(15294578) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(15294578) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(15294578) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(15294578) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9215.pdf
+(15294578) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9230.pdf
+(15294578) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(15294578) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(15294578) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(15294578) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(15294578) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9315.pdf
+(15294578) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(15294578) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(15294578) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(15294578) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(15294578) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(15294578) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(15294578) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9404.pdf
+(15294578) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(15294578) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(15294578) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(15294578) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(15294578) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(15294578) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(15294578) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(15294578) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(15294578) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(15294578) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(15294578) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(15294578) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(15294578) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(15294578) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(15294578) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(15294578) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(15294578) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(15294578) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(15294578) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(15294578) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(15294578) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(15294578) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(15294578) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(15294578) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9615.pdf
+(15294578) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(15294578) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(15294578) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(15294578) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(15294578) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(15294578) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(15294578) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(15294578) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(15294578) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(15294578) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9706.pdf
+(15294578) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(15294578) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(15294578) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(15294578) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9751.pdf
+(15294578) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(15294578) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(15294578) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(15294578) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(15294578) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(15294578) removing /scripts/reporting/tmp/Bos9800.pdf
+(15294578) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(15294578) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(15294578) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(15294578) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(15294578) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(15294578) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(15294578) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(15294578) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(15294578) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(15294578) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(15294578) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(15294578) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(15294578) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(15294578) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(15294578) Creating /scripts/reporting/tmp/BosReports_02102014_040836.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(15294578) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(15294578) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(15294578) Cleaning up Bos pdf files
+(15294578) cleaning up /scripts/reporting/tmp/bos001.results
+(15294578) finished Mon Feb 10 04:08:38 EST 2014
+
+(13762762) started: Mon Feb 17 04:00:00 EST 2014
+(13762762) Querying the database to see if this is the first Monday of the fiscal period
+/scripts/reporting/bos001.sh: line 136: [: too many arguments
+(13762762) This is the first Monday of the fiscal period, querying the database for all retail centers
+(13762762) /scripts/reporting/tmp/bos001.results exists and is not empty
+(13762762) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos0020.pdf
+(13762762) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9011.pdf
+(13762762) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(13762762) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(13762762) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(13762762) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(13762762) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(13762762) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(13762762) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(13762762) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(13762762) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(13762762) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(13762762) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(13762762) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(13762762) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(13762762) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(13762762) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(13762762) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9110.pdf
+(13762762) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(13762762) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(13762762) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(13762762) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(13762762) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(13762762) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(13762762) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(13762762) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(13762762) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9215.pdf
+(13762762) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9230.pdf
+(13762762) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(13762762) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(13762762) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(13762762) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(13762762) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9315.pdf
+(13762762) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(13762762) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(13762762) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(13762762) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(13762762) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(13762762) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(13762762) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9404.pdf
+(13762762) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(13762762) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(13762762) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(13762762) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(13762762) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(13762762) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(13762762) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(13762762) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(13762762) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(13762762) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(13762762) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(13762762) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(13762762) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(13762762) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(13762762) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(13762762) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(13762762) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(13762762) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(13762762) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(13762762) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(13762762) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(13762762) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(13762762) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(13762762) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9615.pdf
+(13762762) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(13762762) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(13762762) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(13762762) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(13762762) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(13762762) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(13762762) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(13762762) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(13762762) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(13762762) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9706.pdf
+(13762762) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(13762762) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(13762762) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9750, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9750.pdf
+(13762762) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9751.pdf
+(13762762) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(13762762) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(13762762) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(13762762) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(13762762) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(13762762) removing /scripts/reporting/tmp/Bos9800.pdf
+(13762762) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(13762762) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(13762762) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(13762762) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(13762762) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(13762762) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(13762762) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(13762762) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(13762762) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(13762762) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(13762762) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(13762762) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(13762762) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(13762762) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(13762762) Creating /scripts/reporting/tmp/BosReports_02172014_040804.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(13762762) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13762762) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13762762) Cleaning up Bos pdf files
+(13762762) cleaning up /scripts/reporting/tmp/bos001.results
+(13762762) finished Mon Feb 17 04:08:05 EST 2014
+
+(17408180) started: Mon Feb 24 04:00:00 EST 2014
+(17408180) Querying the database to see if this is the first Monday of the fiscal period
+(17408180) This is not the first Monday of the fiscal period, exiting
+
+(10870918) started: Mon Mar  3 04:00:00 EST 2014
+(10870918) Querying the database to see if this is the first Monday of the fiscal period
+(10870918) Querying the database for all retail centers
+(10870918) /scripts/reporting/tmp/bos001.results exists and is not empty
+(10870918) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos0020.pdf
+(10870918) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9011.pdf
+(10870918) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9027, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9027.pdf
+(10870918) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9030, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9030.pdf
+(10870918) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9031, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9031.pdf
+(10870918) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(10870918) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(10870918) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(10870918) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9038, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9038.pdf
+(10870918) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(10870918) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(10870918) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(10870918) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9056, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9056.pdf
+(10870918) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9059, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9059.pdf
+(10870918) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(10870918) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9090, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9090.pdf
+(10870918) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9101, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9101.pdf
+(10870918) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9110.pdf
+(10870918) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9120, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9120.pdf
+(10870918) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9130, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9130.pdf
+(10870918) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(10870918) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9200, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9200.pdf
+(10870918) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9204, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9204.pdf
+(10870918) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(10870918) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(10870918) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(10870918) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9215.pdf
+(10870918) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9230.pdf
+(10870918) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9250, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9250.pdf
+(10870918) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9281, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9281.pdf
+(10870918) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(10870918) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(10870918) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9315.pdf
+(10870918) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(10870918) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9351, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9351.pdf
+(10870918) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9352, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9352.pdf
+(10870918) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(10870918) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(10870918) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9391, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9391.pdf
+(10870918) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9404.pdf
+(10870918) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(10870918) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9407, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9407.pdf
+(10870918) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(10870918) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(10870918) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(10870918) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(10870918) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(10870918) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(10870918) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9450, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9450.pdf
+(10870918) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9460, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9460.pdf
+(10870918) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(10870918) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(10870918) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9500, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9500.pdf
+(10870918) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(10870918) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(10870918) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(10870918) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9535, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9535.pdf
+(10870918) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9550, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9550.pdf
+(10870918) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(10870918) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(10870918) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9599, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9599.pdf
+(10870918) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(10870918) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(10870918) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9615.pdf
+(10870918) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9619, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9619.pdf
+(10870918) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9630, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9630.pdf
+(10870918) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(10870918) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(10870918) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(10870918) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(10870918) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(10870918) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9700, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9700.pdf
+(10870918) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9704, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9704.pdf
+(10870918) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9706.pdf
+(10870918) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(10870918) persisting BOS report for 9720 to /scripts/reporting/tmp/Bos9720.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9720, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9720.pdf
+(10870918) persisting BOS report for 9721 to /scripts/reporting/tmp/Bos9721.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9721, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9721.pdf
+(10870918) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(10870918) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9750, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9750.pdf
+(10870918) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9751.pdf
+(10870918) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(10870918) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(10870918) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9780, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9780.pdf
+(10870918) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9800.pdf
+(10870918) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(10870918) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9815, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9815.pdf
+(10870918) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(10870918) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(10870918) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9859, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9859.pdf
+(10870918) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(10870918) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(10870918) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(10870918) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(10870918) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(10870918) ** ERROR: An error occurred generating BOS report for 9921, RC=1
+(10870918) removing /scripts/reporting/tmp/Bos9921.pdf
+(10870918) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(10870918) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(10870918) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(10870918) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(10870918) Creating /scripts/reporting/tmp/BosReports_03032014_040739.zip
+(10870918) sending attachment email to lane.putnel@theparadiesshops.com
+(10870918) successfully sent email to lane.putnel@theparadiesshops.com
+(10870918) Cleaning up Bos pdf files
+(10870918) cleaning up /scripts/reporting/tmp/bos001.results
+(10870918) finished Mon Mar  3 04:07:41 EST 2014
+
+(12578946) started: Mon Mar  3 10:39:25 EST 2014
+(12578946) Querying the database to see if this is the first Monday of the fiscal period
+(12578946) Querying the database for all retail centers
+(12578946) /scripts/reporting/tmp/bos001.results exists and is not empty
+(12578946) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos0020.pdf
+(12578946) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9011.pdf
+(12578946) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9027, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9027.pdf
+(12578946) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9030, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9030.pdf
+(12578946) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9031, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9031.pdf
+(12578946) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(12578946) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(12578946) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(12578946) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9038, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9038.pdf
+(12578946) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(12578946) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(12578946) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(12578946) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9056, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9056.pdf
+(12578946) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9059, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9059.pdf
+(12578946) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(12578946) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9090, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9090.pdf
+(12578946) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9101, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9101.pdf
+(12578946) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9110.pdf
+(12578946) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9120, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9120.pdf
+(12578946) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9130, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9130.pdf
+(12578946) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(12578946) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9200, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9200.pdf
+(12578946) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9204, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9204.pdf
+(12578946) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(12578946) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(12578946) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(12578946) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9215.pdf
+(12578946) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9230.pdf
+(12578946) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9250, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9250.pdf
+(12578946) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9281, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9281.pdf
+(12578946) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(12578946) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(12578946) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9315.pdf
+(12578946) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(12578946) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9351, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9351.pdf
+(12578946) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9352, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9352.pdf
+(12578946) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(12578946) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(12578946) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9391, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9391.pdf
+(12578946) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9404.pdf
+(12578946) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(12578946) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9407, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9407.pdf
+(12578946) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(12578946) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(12578946) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(12578946) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(12578946) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(12578946) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(12578946) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9450, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9450.pdf
+(12578946) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9460, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9460.pdf
+(12578946) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(12578946) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(12578946) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9500, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9500.pdf
+(12578946) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(12578946) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(12578946) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(12578946) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9535, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9535.pdf
+(12578946) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9550, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9550.pdf
+(12578946) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(12578946) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(12578946) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9599, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9599.pdf
+(12578946) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(12578946) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(12578946) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9615.pdf
+(12578946) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9619, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9619.pdf
+(12578946) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9630, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9630.pdf
+(12578946) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(12578946) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(12578946) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(12578946) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(12578946) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(12578946) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9700, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9700.pdf
+(12578946) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9704, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9704.pdf
+(12578946) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9706.pdf
+(12578946) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(12578946) persisting BOS report for 9720 to /scripts/reporting/tmp/Bos9720.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9720, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9720.pdf
+(12578946) persisting BOS report for 9721 to /scripts/reporting/tmp/Bos9721.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9721, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9721.pdf
+(12578946) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(12578946) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9750, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9750.pdf
+(12578946) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9751.pdf
+(12578946) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(12578946) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(12578946) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9780, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9780.pdf
+(12578946) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9800.pdf
+(12578946) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(12578946) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9815, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9815.pdf
+(12578946) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(12578946) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(12578946) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9859, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9859.pdf
+(12578946) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(12578946) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(12578946) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(12578946) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(12578946) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(12578946) ** ERROR: An error occurred generating BOS report for 9921, RC=1
+(12578946) removing /scripts/reporting/tmp/Bos9921.pdf
+(12578946) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(12578946) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(12578946) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(12578946) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(12578946) Creating /scripts/reporting/tmp/BosReports_03032014_104719.zip
+/scripts/reporting/bos001.sh: line 208: jar: command not found
+(12578946) ** ERROR: An error occurred creating /scripts/reporting/tmp/BosReports_03032014_104719.zip, RC=127
+
+(12820668) started: Mon Mar  3 14:10:00 EST 2014
+(12820668) Querying the database to see if this is the first Monday of the fiscal period
+(12820668) Querying the database for all retail centers
+(12820668) /scripts/reporting/tmp/bos001.results exists and is not empty
+(12820668) persisting BOS report for 0020 to /scripts/reporting/tmp/Bos0020.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 0020, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos0020.pdf
+(12820668) persisting BOS report for 9011 to /scripts/reporting/tmp/Bos9011.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9011, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9011.pdf
+(12820668) persisting BOS report for 9027 to /scripts/reporting/tmp/Bos9027.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9027, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9027.pdf
+(12820668) persisting BOS report for 9030 to /scripts/reporting/tmp/Bos9030.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9030, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9030.pdf
+(12820668) persisting BOS report for 9031 to /scripts/reporting/tmp/Bos9031.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9031, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9031.pdf
+(12820668) persisting BOS report for 9034 to /scripts/reporting/tmp/Bos9034.pdf
+(12820668) persisting BOS report for 9035 to /scripts/reporting/tmp/Bos9035.pdf
+(12820668) persisting BOS report for 9037 to /scripts/reporting/tmp/Bos9037.pdf
+(12820668) persisting BOS report for 9038 to /scripts/reporting/tmp/Bos9038.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9038, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9038.pdf
+(12820668) persisting BOS report for 9041 to /scripts/reporting/tmp/Bos9041.pdf
+(12820668) persisting BOS report for 9046 to /scripts/reporting/tmp/Bos9046.pdf
+(12820668) persisting BOS report for 9053 to /scripts/reporting/tmp/Bos9053.pdf
+(12820668) persisting BOS report for 9056 to /scripts/reporting/tmp/Bos9056.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9056, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9056.pdf
+(12820668) persisting BOS report for 9059 to /scripts/reporting/tmp/Bos9059.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9059, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9059.pdf
+(12820668) persisting BOS report for 9080 to /scripts/reporting/tmp/Bos9080.pdf
+(12820668) persisting BOS report for 9090 to /scripts/reporting/tmp/Bos9090.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9090, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9090.pdf
+(12820668) persisting BOS report for 9101 to /scripts/reporting/tmp/Bos9101.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9101, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9101.pdf
+(12820668) persisting BOS report for 9110 to /scripts/reporting/tmp/Bos9110.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9110, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9110.pdf
+(12820668) persisting BOS report for 9120 to /scripts/reporting/tmp/Bos9120.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9120, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9120.pdf
+(12820668) persisting BOS report for 9130 to /scripts/reporting/tmp/Bos9130.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9130, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9130.pdf
+(12820668) persisting BOS report for 9140 to /scripts/reporting/tmp/Bos9140.pdf
+(12820668) persisting BOS report for 9200 to /scripts/reporting/tmp/Bos9200.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9200, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9200.pdf
+(12820668) persisting BOS report for 9204 to /scripts/reporting/tmp/Bos9204.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9204, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9204.pdf
+(12820668) persisting BOS report for 9208 to /scripts/reporting/tmp/Bos9208.pdf
+(12820668) persisting BOS report for 9210 to /scripts/reporting/tmp/Bos9210.pdf
+(12820668) persisting BOS report for 9212 to /scripts/reporting/tmp/Bos9212.pdf
+(12820668) persisting BOS report for 9215 to /scripts/reporting/tmp/Bos9215.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9215, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9215.pdf
+(12820668) persisting BOS report for 9230 to /scripts/reporting/tmp/Bos9230.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9230, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9230.pdf
+(12820668) persisting BOS report for 9250 to /scripts/reporting/tmp/Bos9250.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9250, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9250.pdf
+(12820668) persisting BOS report for 9281 to /scripts/reporting/tmp/Bos9281.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9281, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9281.pdf
+(12820668) persisting BOS report for 9310 to /scripts/reporting/tmp/Bos9310.pdf
+(12820668) persisting BOS report for 9312 to /scripts/reporting/tmp/Bos9312.pdf
+(12820668) persisting BOS report for 9315 to /scripts/reporting/tmp/Bos9315.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9315, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9315.pdf
+(12820668) persisting BOS report for 9321 to /scripts/reporting/tmp/Bos9321.pdf
+(12820668) persisting BOS report for 9351 to /scripts/reporting/tmp/Bos9351.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9351, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9351.pdf
+(12820668) persisting BOS report for 9352 to /scripts/reporting/tmp/Bos9352.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9352, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9352.pdf
+(12820668) persisting BOS report for 9370 to /scripts/reporting/tmp/Bos9370.pdf
+(12820668) persisting BOS report for 9390 to /scripts/reporting/tmp/Bos9390.pdf
+(12820668) persisting BOS report for 9391 to /scripts/reporting/tmp/Bos9391.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9391, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9391.pdf
+(12820668) persisting BOS report for 9404 to /scripts/reporting/tmp/Bos9404.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9404, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9404.pdf
+(12820668) persisting BOS report for 9405 to /scripts/reporting/tmp/Bos9405.pdf
+(12820668) persisting BOS report for 9407 to /scripts/reporting/tmp/Bos9407.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9407, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9407.pdf
+(12820668) persisting BOS report for 9410 to /scripts/reporting/tmp/Bos9410.pdf
+(12820668) persisting BOS report for 9412 to /scripts/reporting/tmp/Bos9412.pdf
+(12820668) persisting BOS report for 9415 to /scripts/reporting/tmp/Bos9415.pdf
+(12820668) persisting BOS report for 9417 to /scripts/reporting/tmp/Bos9417.pdf
+(12820668) persisting BOS report for 9425 to /scripts/reporting/tmp/Bos9425.pdf
+(12820668) persisting BOS report for 9436 to /scripts/reporting/tmp/Bos9436.pdf
+(12820668) persisting BOS report for 9450 to /scripts/reporting/tmp/Bos9450.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9450, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9450.pdf
+(12820668) persisting BOS report for 9460 to /scripts/reporting/tmp/Bos9460.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9460, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9460.pdf
+(12820668) persisting BOS report for 9479 to /scripts/reporting/tmp/Bos9479.pdf
+(12820668) persisting BOS report for 9480 to /scripts/reporting/tmp/Bos9480.pdf
+(12820668) persisting BOS report for 9500 to /scripts/reporting/tmp/Bos9500.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9500, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9500.pdf
+(12820668) persisting BOS report for 9509 to /scripts/reporting/tmp/Bos9509.pdf
+(12820668) persisting BOS report for 9515 to /scripts/reporting/tmp/Bos9515.pdf
+(12820668) persisting BOS report for 9525 to /scripts/reporting/tmp/Bos9525.pdf
+(12820668) persisting BOS report for 9535 to /scripts/reporting/tmp/Bos9535.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9535, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9535.pdf
+(12820668) persisting BOS report for 9550 to /scripts/reporting/tmp/Bos9550.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9550, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9550.pdf
+(12820668) persisting BOS report for 9562 to /scripts/reporting/tmp/Bos9562.pdf
+(12820668) persisting BOS report for 9575 to /scripts/reporting/tmp/Bos9575.pdf
+(12820668) persisting BOS report for 9599 to /scripts/reporting/tmp/Bos9599.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9599, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9599.pdf
+(12820668) persisting BOS report for 9600 to /scripts/reporting/tmp/Bos9600.pdf
+(12820668) persisting BOS report for 9609 to /scripts/reporting/tmp/Bos9609.pdf
+(12820668) persisting BOS report for 9615 to /scripts/reporting/tmp/Bos9615.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9615, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9615.pdf
+(12820668) persisting BOS report for 9619 to /scripts/reporting/tmp/Bos9619.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9619, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9619.pdf
+(12820668) persisting BOS report for 9630 to /scripts/reporting/tmp/Bos9630.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9630, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9630.pdf
+(12820668) persisting BOS report for 9635 to /scripts/reporting/tmp/Bos9635.pdf
+(12820668) persisting BOS report for 9640 to /scripts/reporting/tmp/Bos9640.pdf
+(12820668) persisting BOS report for 9650 to /scripts/reporting/tmp/Bos9650.pdf
+(12820668) persisting BOS report for 9675 to /scripts/reporting/tmp/Bos9675.pdf
+(12820668) persisting BOS report for 9690 to /scripts/reporting/tmp/Bos9690.pdf
+(12820668) persisting BOS report for 9700 to /scripts/reporting/tmp/Bos9700.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9700, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9700.pdf
+(12820668) persisting BOS report for 9704 to /scripts/reporting/tmp/Bos9704.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9704, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9704.pdf
+(12820668) persisting BOS report for 9706 to /scripts/reporting/tmp/Bos9706.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9706, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9706.pdf
+(12820668) persisting BOS report for 9713 to /scripts/reporting/tmp/Bos9713.pdf
+(12820668) persisting BOS report for 9720 to /scripts/reporting/tmp/Bos9720.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9720, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9720.pdf
+(12820668) persisting BOS report for 9721 to /scripts/reporting/tmp/Bos9721.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9721, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9721.pdf
+(12820668) persisting BOS report for 9725 to /scripts/reporting/tmp/Bos9725.pdf
+(12820668) persisting BOS report for 9750 to /scripts/reporting/tmp/Bos9750.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9750, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9750.pdf
+(12820668) persisting BOS report for 9751 to /scripts/reporting/tmp/Bos9751.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9751, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9751.pdf
+(12820668) persisting BOS report for 9770 to /scripts/reporting/tmp/Bos9770.pdf
+(12820668) persisting BOS report for 9775 to /scripts/reporting/tmp/Bos9775.pdf
+(12820668) persisting BOS report for 9780 to /scripts/reporting/tmp/Bos9780.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9780, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9780.pdf
+(12820668) persisting BOS report for 9800 to /scripts/reporting/tmp/Bos9800.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9800, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9800.pdf
+(12820668) persisting BOS report for 9801 to /scripts/reporting/tmp/Bos9801.pdf
+(12820668) persisting BOS report for 9815 to /scripts/reporting/tmp/Bos9815.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9815, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9815.pdf
+(12820668) persisting BOS report for 9828 to /scripts/reporting/tmp/Bos9828.pdf
+(12820668) persisting BOS report for 9850 to /scripts/reporting/tmp/Bos9850.pdf
+(12820668) persisting BOS report for 9859 to /scripts/reporting/tmp/Bos9859.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9859, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9859.pdf
+(12820668) persisting BOS report for 9875 to /scripts/reporting/tmp/Bos9875.pdf
+(12820668) persisting BOS report for 9880 to /scripts/reporting/tmp/Bos9880.pdf
+(12820668) persisting BOS report for 9915 to /scripts/reporting/tmp/Bos9915.pdf
+(12820668) persisting BOS report for 9918 to /scripts/reporting/tmp/Bos9918.pdf
+(12820668) persisting BOS report for 9921 to /scripts/reporting/tmp/Bos9921.pdf
+(12820668) ** ERROR: An error occurred generating BOS report for 9921, RC=1
+(12820668) removing /scripts/reporting/tmp/Bos9921.pdf
+(12820668) persisting BOS report for 9954 to /scripts/reporting/tmp/Bos9954.pdf
+(12820668) persisting BOS report for 9956 to /scripts/reporting/tmp/Bos9956.pdf
+(12820668) persisting BOS report for 9972 to /scripts/reporting/tmp/Bos9972.pdf
+(12820668) persisting BOS report for 9973 to /scripts/reporting/tmp/Bos9973.pdf
+(12820668) Creating /scripts/reporting/tmp/BosReports_03032014_141607.zip
+(12820668) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12820668) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12820668) Cleaning up Bos pdf files
+(12820668) cleaning up /scripts/reporting/tmp/bos001.results
+(12820668) finished Mon Mar  3 14:16:08 EST 2014

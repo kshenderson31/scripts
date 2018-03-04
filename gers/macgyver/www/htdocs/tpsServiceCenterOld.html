@@ -1,0 +1,652 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>IT Service Center LaunchPad</title>
+		
+		<link rel="stylesheet" type="text/css" href="styles/tpsReset.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsWrapper.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsElements.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsForms.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsSpacers.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsTables.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsText.css" />
+		<link rel="stylesheet" type="text/css" href="styles/tpsUI.css" />
+		<link rel="stylesheet" type="text/css" href="styles/jquery.ui.all.css">
+		<link rel="stylesheet" type="text/css" href="styles/jquery.qtip.css" />
+		<link rel="stylesheet" type="text/css" href="styles/flexigrid.css">	
+		<link rel="stylesheet" type="text/css" href="styles/flexigrid.pack.css">	
+		<link rel="stylesheet" type="text/css" href="styles/validationEngine.jquery.css">	
+		<link rel="stylesheet" type="text/css" href="styles/template.css">	
+		<link rel="stylesheet" type="text/css" href="styles/pro_dropdown_2.css">
+
+		
+		<style type="text/css">
+			#helpDeskForm 
+			{
+				position			: 	absolute;
+				float				:	left;
+				background-color	:	#F7F7F7;
+				width				:	800px;
+				height				:	500px;
+				z-index				: 	9002;
+				-moz-border-radius	: 	3px;
+				border-radius		: 	3px;
+				border-style		:	solid;
+				border-width		:	1px;
+				border-color		:	#0B2C6B;
+			}
+			
+			#outputForm 
+			{
+				position			: 	absolute;
+				float				:	left;
+				background-color	:	#F7F7F7;
+				width				:	1000px;
+				height				:	600px;
+				z-index				: 	9002;
+				-moz-border-radius	: 	3px;
+				border-radius		: 	3px;
+				border-style		:	solid;
+				border-width		:	1px;
+				border-color		:	#0B2C6B;
+			}
+			 
+		</style>
+	</head>
+
+	<body>
+	<div class=webpage>
+		<div class="wrapper messageSpacer">
+			<div id="dialog-modal" title="Service Center Phone List">
+				<table width="100%">
+					<tr><th>Name</th><th>Extension</th><th>Home Phone</th><th>Mobile</th></tr>
+					<tr class="textSmall"><td>Ken Henderson</td><td align="center">3315</td><td align="center">(770) 337-2725</td><td align="center">(678) 579-2209</td></tr>
+				</table>
+			</div>
+
+			<div id="outputForm" title="Process Output Listing">
+					
+			</div>
+			
+			
+			<div class="userInformation textSmall topSpacerSmall bottomSpacerSmall">
+				<div class="halfSection">&nbsp;</div>
+				<div class=halfSection>
+					<div class=floatRight>
+						<a class=tipAccessTPS href="http://www.accesstps.com/default.aspx" target="_blank" title="AccessTPS">AccessTPS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a class=tipBoardingPass href="http://www.accesstps.com/default.aspx" target="_blank" title="Boarding Pass">Boarding Pass</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a class=tipNagios href="#">Nagios</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a class=tipPRTG href="#">PRTG</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="#" onclick="jQueryUIDialogOpen('#dialog-modal')">Phone List</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="#" onclick="openPopUpWindow('http://www.google.com', 'myGoogle', 600, 600)">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a class=tipHelpDesk href="http://172.20.8.243/SupportCenter" target="_blank" title="IT Help Desk"><img src="icons/lifePreserver.png" height=12 width=12></a>&nbsp;&nbsp;&nbsp;&nbsp;
+					</div>	
+				</div>
+			</div>
+			
+			<div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all header bottomSpacerSmall messageSpacer">
+				<div class=smSpacer></div>
+				<div class="quarterSection floatLeft">
+					<a href="http://www.theparadiesshops.com" target="_blank"><img class="logo" src="images/logoTheParadiesShopsTransparent.png" height=30 width=30 title="The Paradies Shops"></a>
+					<div class=topSpacerMedium>
+						<span>The Paradies Shops</span><br/>
+						<span class="textSmall textItalics">Number 1 - Eighteen Consecutive Years</span>
+					</div>
+				</div>
+				
+				<div class="halfSection textCenter">
+					<div class="textHuge">The Paradies Shops</div>
+					<div class="textLarge">Information Technology Service Center</div>
+				</div>
+				
+				<div class="floatRight quarterSection textSmall">
+					<div class=floatRight>
+						<SCRIPT LANGUAGE="JavaScript">
+						var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+						var monthNames=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+						var now = new Date();
+						document.write(dayNames[now.getDay()]+", "+monthNames[now.getMonth()]+" "+now.getDate() + ", " + now.getFullYear())
+						</SCRIPT>
+						&nbsp;
+					</div>		
+				</div>
+				
+				<div class="fullWidth floatRight">
+					<ul id="nav">
+						<li class="navtop"><a href="#nogo1" class="navtop_link"><span>No Sub Menu</span></a></li>
+						<li class="navtop"><a href="#nogo2" id="products" class="navtop_link"><span class="down">Hardware&nbsp;<img src="icons/blueArrowDown.png" width=10 height=10 style='margin-top:2px;' /></span></a>
+							<ul class="sub">
+								<li><a href="#nogo3" class="fly">Registers&nbsp;<img src="icons/blueArrow.png" width=10 height=10 style='margin-top:2px;' /></a>
+										<ul>
+											<li><a href="#nogo4">PC</a></li>
+											<li><a href="#nogo5">Monitor</a></li>
+											<li><a href="#nogo6">Scanner</a></li>
+											<li><a href="#nogo6">Paypass</a></li>
+											<li><a href="#nogo6">Other</a></li>
+											<li><a href="#nogo6">Other</a></li>
+										</ul>
+								</li>
+								<li class="mid"><a href="#nogo7" class="fly">Desktop&nbsp;<img src="icons/blueArrow.png" width=10 height=10 style='margin-top:2px;' /></a>
+										<ul>
+											<li><a href="#nogo8">Unit</a></li>
+											<li><a href="#nogo9">Monitor</a></li>
+										</ul>
+								</li>
+								<li><a href="#nogo19">Scan Gun</a></li>
+								<li><a href="#nogo20">Other</a></li>
+								<li><a href="#nogo21">Other</a></li>
+							</ul>
+						</li>
+						<li class="navtop"><a href="#nogo22" id="services" class="navtop_link"><span class="down">Infrastructure Insights&nbsp;<img src="icons/blueArrowDown.png" width=10 height=10 style='margin-top:2px;' /></span></a>
+							<ul class="sub">
+								<li><a href="#nogo23">Request VPN Bounce</a></li>
+								<li><a href="#nogo24">Request Something Else</a></li>
+								<li><a href="#nogo25">Request Another One</a></li>
+							</ul>
+						</li>
+						<li class="navtop"><a href="#nogo22" id="services" class="navtop_link"><span class="down">Micros&nbsp;<img src="icons/blueArrowDown.png" width=10 height=10 style='margin-top:2px;' /></span></a>
+							<ul class="sub">
+								<li><a href="#nogo54">Option 1</a></li>
+								<li><a href="#nogo55">Option 2</a></li>
+								<li><a href="#nogo56">Option 3</a></li>
+							</ul>
+						</li>
+						<li class="navtop"><a href="#nogo53" id="shop" class="navtop_link"><span class="down">Postec&nbsp;<img src="icons/blueArrowDown.png" width=10 height=10 style='margin-top:2px;' /></span></a>
+							<ul class="sub">
+								<li><a href="#nogo54">Option 1</a></li>
+								<li><a href="#nogo55">Option 2</a></li>
+								<li><a href="#nogo56">Option 3</a></li>
+							</ul>
+						</li>
+						<li class="navtop"><a href="#nogo57" id="privacy" class="navtop_link"><span>No Sub Menu</span></a></li>
+					</ul>
+				</div>
+			</div>
+			
+			<div id="messages"> 
+			
+			</div>
+			
+			<!--  					
+			<div class="errorMessage topSpacerSmall">
+				<div class=messageSpacer>
+				<div class=floatLeft>&nbsp;<img src="icons/error.png" height=14 width=14 /></div><span>&nbsp;&nbsp;Any error messages will be displayed here in this style</span>
+				</div>
+			</div>
+			<div class="warningMessage topSpacerSmall">
+				<div class=messageSpacer>
+					<div class=floatLeft>&nbsp;<img src="icons/warning.png" height=14 width=14 /></div><span>&nbsp;&nbsp;Warning messages will be displayed in this style</span>
+				</div>
+			</div>
+			<div class="successMessage topSpacerSmall">
+				<div class=messageSpacer>
+					<div class=floatLeft>&nbsp;<img src="icons/success.png" height=14 width=14 /></div><span>&nbsp;&nbsp;Success messages will be displayed in this style</span>
+				</div>
+			</div>
+			-->
+			
+			<div class="fullPanel topSpacerSmall">
+				<div class=sidePanel>
+					<div id="accordionMenu" class="accordion">
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;GERS</div></h3>
+						<ul class=accordionMenulList>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Polling</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Startup</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Shutdown</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Great Plains</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;XBR</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Triversity</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Micros</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Hardware</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Registers</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Scanners</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>	
+
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Genesis</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>	
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Network</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>	
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Servers</div></h3>
+						<ul>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>						
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Security</div></h3>
+						<ul class=verticalMenu>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;VPN Account</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>
+						
+						<h3><div class="accordionMenuItem topSpacerSmall bottomSpacerSmall">&nbsp;Knowledge</div></h3>
+						<ul class=verticalMenu>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+							<li class=accordionMenuListSelection><a href="#">&nbsp;&nbsp;Menu Option</a></li>
+						</ul>						
+						
+					</div>
+				</div>
+				
+				<div class=mainPanel>
+					<div class=mainSection>
+						<div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+							<div id="mainHeader" class="textCenter topSpacerSmall bottomSpacerSmall">
+								Dallas VPN Account Utility
+							</div>
+						</div>
+						
+						<div id="mainBody" class="mainBody bottomSpacerSmall">
+							<form class="formularx" id="sampleForm" method="POST" action="">
+								<div class="formRow">
+									<div class="formLabel"><div class="smSpacer"></div>Device</div>
+									<div class="formData">
+										<select id=action name=action class="select validate[required]" tabindex=40>
+											<option value="10.0.254.17" selected="selected">Dallas VPN</option>
+											<option value="10.0.254.17">Lab VPN</option>
+										</select>
+									</div>
+								</div>
+								
+								<div class="formRow">
+									<div class="formLabel"><div class="smSpacer"></div>Action</div>
+									<div class="formData">
+										<select id=action name=action class="select validate[required]" tabindex=40>
+											<option value="a" selected="selected">Add Account</option>
+											<option value="d">Remove Account</option>
+											<option value="x">Verify Account</option>
+										</select>
+									</div>
+								</div>
+								
+								<div class="formRow">
+									<div class="formLabel"><div class="smSpacer"></div>Profile&nbsp;
+										<img class=tip1 src="icons/info.png" height=12 width=12 alt="xxx">
+									</div>
+									<div class="formData">
+										<select id=profile name=profile class="select validate[required]" tabindex=40>
+											<option value="default" selected="selected">Default</option>
+											<option value="it">Information Technology</option>
+											<option value="lp">Loss Prevention</option>
+										</select>
+									</div>
+								</div>
+								
+								<div class="formRow">
+									<div class="formLabel"><div class=floatLeft><div class="smSpacer"></div>Username</div>&nbsp;
+										<img class=tip1 src="icons/info.png" height=12 width=12 alt="xxx">
+									</div>
+									<div class="formData"><input id=username name=username class="text validate[required] text-input" type="text" size="40" minlength="5" tabindex=20/></div>
+								</div>
+								
+								<div class="formRow">
+									<div class="formLabel"><div class="smSpacer"></div>Notify?&nbsp;
+										<img class=tip1 src="icons/info.png" height=12 width=12 alt="xxx">
+									</div>
+									<div class="formData">
+										<select id=notify name=notify class="select validate[required]" tabindex=40>
+											<option value="y" selected="selected">Yes</option>
+											<option value="n">No</option>
+										</select>
+									</div>
+								</div>
+								
+								<div class="formRow">
+									<div class="formLabel">Alternate<br />Address&nbsp;
+										<img class=tip1 src="icons/info.png" height=12 width=12 alt="xxx">
+									</div>
+									<div class="formData"><input id=email name=email class="text validate[custom[email]]" type="text" size="40" tabindex=35/></div>
+								</div>
+								
+								<div class="myButtons buttonGroupRight">
+									<button class="buttonLeft buttonSubmit" onclick="jQueryUIDialogOpen('#outputForm')">Submit</button>&nbsp;
+									<button class="buttonRight buttonCancel">Cancel</button>&nbsp;
+								</div>						
+							</form> 
+						</div>
+					</div>	
+				</div>
+			</div>
+
+			<div class=smDivider></div>
+			
+			<div class=footer>
+				<div class=fifthSection>
+				    <div class=floatLeft>
+						&nbsp;
+					</div>
+					<ul class="footerList floatRight">Section I<div class=smSpacer></div>
+						<li class="textSmall"><a class=tipTRIFIC href="#" title="TRIFIC">TRIFIC</a></li>
+						<li class="textSmall"><a class=tipCALM href="#" title="CALM">CALM</a></li>
+						<li class="textSmall"><a class=tipInnovation href="#" title="Innovation">Innovation</a></li>
+					</ul>
+				</div>
+				<div class=fifthSection>
+					<ul class="footerList floatRight">Section II<div class=smSpacer></div>
+						<li class="textSmall"><a href="http://www.accesstps.com/sites/human_resources/site_files/Employment%20Policy/policy.aspx" target="_blank">Employment Policy</a></li>
+						<li class="textSmall"><a href="http://www.accesstps.com/sites/human_resources/Associate%20Handbook/Forms/AllItems.aspx" target="_blank">Associate Handbook</a></li>
+						<li class="textSmall"><a href="#">FAQ</a></li>
+					</ul>
+				</div>
+				<div class=fifthSection>
+					<ul class="footerList floatRight">Section III<div class=smSpacer></div>
+						<li class="textSmall"><a href="#">IT Help Desk</a></li>
+						<li class="textSmall"><a href="#">Human Resources</a></li>
+						<li class="textSmall"><a href="#">Finance</a></li>
+					</ul>
+				</div>
+				<div class=fifthSection>
+					<ul class="footerList floatRight">Quick Links<div class=smSpacer></div>
+						<li class="textSmall"><a href="http://www.accesstps.com/time/" target="_blank">TPS Time</a></li>
+						<li class="textSmall"><a href="#">Paradies Terminology</a></li>
+						<li class="textSmall"><a href="#">FAQ</a></li>
+					</ul>
+				</div>
+				<div class=fifthSection>
+					<div class=floatRight>
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div> <!-- Wrapper -->
+	</div> <!-- webpage -->
+	
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery-1.6.2.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.core.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.widget.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.mouse.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.draggable.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.position.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.resizable.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.dialog.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.accordion.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.button.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.ui.datepicker.min.js"></script>
+
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.qtip.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/flexigrid.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/flexigrid.pack.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.validationEngine-en.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.validationEngine.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/hoverAccordian.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/stuHover.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.treeview.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.jcarousel.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.tablesorter.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.dataTables.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/jquery.dataTables.rowGrouping.js"></script>
+	
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsUtilityScripts.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsStandardHeaderToolTips.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsStandardFooterToolTips.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsStandardButtonToolTips.js"></script>
+	<script language="JavaScript" type="text/javascript" src="scripts/tpsPopUpWindows.js"></script>
+	
+	<script>
+	$(function() {
+		$( "#accordion" ).accordion({
+			event: "mouseover"
+		});
+	});
+	
+	$(function() {
+		$( ".myButtons button:first" ).button({
+            icons: {
+                primary: "ui-icon-locked"
+            }
+        }).next().button({
+            icons: {
+                primary: "ui-icon-locked"
+            }
+        }).next().button({
+            icons: {
+                primary: "ui-icon-gear",
+                secondary: "ui-icon-triangle-1-s"
+            }
+        }).next().button({
+            icons: {
+                primary: "ui-icon-gear",
+                secondary: "ui-icon-triangle-1-s"
+            },
+            text: false
+        });
+	});
+	
+	$(function() {
+		$( ".datepicker" ).datepicker({
+			dateFormat: "yy-mm-dd"
+		});
+	});
+	</script>
+	
+	<script>
+		jQueryUIDialogCreate("#dialog-modal", 400, 400);
+		jQueryUIDialogCreate("#outputForm", 1000, 600);
+		
+		invokeHoverAccordionMenu(".accordion");
+		
+		invokeFormValidationEngine("#sampleForm");
+		
+		blurLinks();
+		
+	</script>
+	
+	<script>	
+		$('.tip1').qtip
+		(
+			{
+				content: 
+				{
+					text: 'This is the address field.  It should contain the street address of the associate.<br>This field is required.',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-green ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.tip2').qtip
+		(
+			{
+				content: 
+				{
+					text: 'This is the address field.  It should contain the street address of the associate.<br>This field is required.',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.qtip1').qtip
+		(
+			{
+				content: 
+				{
+					text: 'This is the address field.  It should contain the street address of the associate.<br>This field is required.',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.tableAdd').qtip
+		(
+			{
+				content: 
+				{
+					text: 'Add new information to the table',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.tableDelete').qtip
+		(
+			{
+				content: 
+				{
+					text: 'Remove the current row from the table',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+		$('.tableSave').qtip
+		(
+			{
+				content: 
+				{
+					text: 'Save changes to the current row',
+					title: 
+					{
+						text: function(api) 
+						{
+							return $(this).attr('alt');
+						}
+					}
+				},
+				show : { event: 'mouseenter' },
+				hide : { event: 'mouseleave' },
+				position: 
+				{
+					viewport: $(window)
+				},
+				style :
+				{
+					classes: 'ui-tooltip-blue ui-tooltip-rounded ui-tooltip-shadow'
+				}
+			}
+		);
+	</script>
+
+	</body>
+
+</html>	

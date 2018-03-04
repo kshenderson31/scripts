@@ -1,0 +1,114 @@
+# @(#)08	1.15.1.3  src/bos/usr/sbin/cron/root, cmdcntl, bos520 2/11/94 17:19:47
+# IBM_PROLOG_BEGIN_TAG 
+# This is an automatically generated prolog. 
+#  
+# bos520 src/bos/usr/sbin/cron/root 1.15.1.3 
+#  
+# Licensed Materials - Property of IBM 
+#  
+# (C) COPYRIGHT International Business Machines Corp. 1989,1994 
+# All Rights Reserved 
+#  
+# US Government Users Restricted Rights - Use, duplication or 
+# disclosure restricted by GSA ADP Schedule Contract with IBM Corp. 
+#  
+# IBM_PROLOG_END_TAG 
+#
+# COMPONENT_NAME: (CMDCNTL) commands needed for basic system needs
+#
+# FUNCTIONS: 
+#
+# ORIGINS: 27
+#
+# (C) COPYRIGHT International Business Machines Corp. 1989,1994
+# All Rights Reserved
+# Licensed Materials - Property of IBM
+#
+# US Government Users Restricted Rights - Use, duplication or
+# disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+#
+#0 3 * * * /usr/sbin/skulker
+#45 2 * * 0 /usr/lib/spell/compress
+#45 23 * * * ulimit 5000; /usr/lib/smdemon.cleanu > /dev/null
+0 11 * * * /usr/bin/errclear -d S,O 30
+0 12 * * * /usr/bin/errclear -d H 90
+0 15 * * *  /usr/lib/ras/dumpcheck >/dev/null 2>&1
+0 0 * * * find /gers/genret -name "f60runm_dump*" -ctime +2 -exec rm {} \; 
+0 0 * * * find /tmp -name "AAA*.TMP" -ctime +1 -exec rm {} \; 
+0 0 * * * find /gers/rman_backups/[A-Z]* -type f -mtime +14 -exec rm {} \;
+0 0 * * * find /g/par/log_mailer.sent.?????? -type f -mtime +45 -exec rm {} \;
+0 0 * * * find /gers/nurev/t[mr][cp] -type f -mtime +7 -exec rm {} \;
+#8,38 * * * * /gers/genret/menu/sup/mac/monarch -t 80 genret >> /gers/genret/trc/monarch_`date +\%b_\%d`.trc 2>&1
+#adding midnite so the alert logs will roll over-GERS GMG 3/31/03
+59 23 * * * /gers/genret/menu/sup/mac/midnite
+#adding killidle entry RAD 5-9-05
+30 * * * * /gers/genret/menu/sup/mac/killidle 60 2>/dev/null
+#######
+0 20 * * * /gers/genret/adhoc/MSTR_RUN.ksh
+45 18 * * * /gers/genret/adhoc/leegin.ksh
+00 11 * * 1 /gers/genret/adhoc/HUD852.ksh
+0 10 * * * /gers/genret/adhoc/CH852.ksh
+30 9 * * 1 /gers/genret/adhoc/TNG852.ksh
+45 15 * * 1 /gers/genret/adhoc/CMGstr.ksh
+30 14 * * 1 /gers/genret/adhoc/TIME852.ksh
+30 15 * * 1 /gers/genret/adhoc/CMG852.ksh
+30 12 * * * /gers/genret/adhoc/HAR852.ksh
+0 14 * * 1 /gers/genret/adhoc/BAL852.ksh
+30 8 * * * /gers/genret/adhoc/USA852.ksh
+45 8 * * 1 /gers/genret/adhoc/TIF852.ksh
+15 9 * * 1 /gers/genret/adhoc/GEM852.ksh
+30 9 * * 1 /gers/genret/adhoc/WLF852.ksh
+0 2 * * 1 /gers/genret/adhoc/CTSstr.ksh
+15 2 * * 1 /gers/genret/adhoc/CTS852.ksh
+0 8 * * * /gers/genret/adhoc/NX852.ksh
+* 22 * * 0 /gers/genret/adhoc/TAR.ksh
+0 9 * * * /gers/genret/adhoc/NEW852.ksh
+30 10 * * * /gers/genret/adhoc/KBL852.ksh
+0 11 * * * /gers/genret/adhoc/FT852.ksh
+30 11 * * 1 /gers/genret/adhoc/DOW852.ksh
+0 4 * * 1 /gers/genret/adhoc/DH852.ksh
+0 8 * * * /gers/genret/adhoc/FGX852.ksh
+15 8 * * 1 /gers/genret/adhoc/GLI852.ksh
+45 7 * * 1 /gers/genret/adhoc/RPM852.ksh
+0 19 * * * /gers/genret/adhoc/micros.ksh
+15 14 * * 1 /gers/genret/adhoc/HYS852.ksh
+15 9 * * 1 /gers/genret/adhoc/BB852.ksh
+10 8 * * 1 /gers/genret/adhoc/HAM852.ksh
+40 10 * * * /gers/genret/adhoc/NWT852.ksh
+40 11 * * 1 /gers/genret/adhoc/NWT852a.ksh
+00 13 * * 1 /gers/genret/adhoc/SKG852.ksh
+30 11 * * * /gers/genret/adhoc/PAN852.ksh
+30 12 * * * /gers/genret/adhoc/PAN852a.ksh
+00 15 * * * /gers/genret/adhoc/MAG852.ksh
+################################################
+# genret 
+#0 0,4,8,12,16,20 * * * /gers/genret/menu/sup/mac/dwm.watchdog bounce
+#0 2,6,10,14,18,22 * * * /gers/genret/menu/sup/mac/dwm.watchdog restore
+#30 12  * * 3 /gers/genret/menu/sup/mac/dwm.watchdog swap
+#
+#
+0,10,20,30,40,50 * * * * perl /g/bin/TERMINATOR.pl > /dev/null 2>&1 
+10,40 * * * * /gers/genret/adhoc/CLEANUP_TMP.pl
+0 1,3,5,7,9,11,13,15,17,19,21,23 * * * /g/bin/log_mailer -f RMAN-00569 -F
+# MPG Power Navigator data collector Version 1.92
+1,16,31,46 * * * * /usr/local/mpg/start_nmon_now -f -q
+25 4 * * * /usr/local/mpg/cend.sh -c /usr/local/mpg/pn.config
+35 4 * * * /usr/local/mpg/pndcm.sh -c /usr/local/mpg/pn.config clean
+30 4 * * * /usr/local/mpg/rackdata.sh -c /usr/local/mpg/pn.config
+30 5 2 * * cd /usr/local/mpg; /usr/local/mpg/pndchk.sh 
+0 5 * * * cd /usr/local/mpg; ./pngetinfo.sh -qa
+55 23 * * * /var/perf/pm/bin/pmcfg  >/dev/null 2>&1     #Enable PM Data Collection
+# SSA warning : Deleting the next two lines may cause errors in redundant
+# SSA warning : hardware to go undetected.
+01 5 * * * /usr/lpp/diagnostics/bin/run_ssa_ela 1>/dev/null 2>/dev/null
+0 * * * * /usr/lpp/diagnostics/bin/run_ssa_healthcheck 1>/dev/null 2>/dev/null
+# SSA warning : Deleting the next line may allow enclosure hardware errors to go undetected
+30 * * * * /usr/lpp/diagnostics/bin/run_ssa_encl_healthcheck 1>/dev/null 2>/dev/null
+# SSA warning : Deleting the next line may allow link speed exceptions to go undetected
+30 4 * * * /usr/lpp/diagnostics/bin/run_ssa_link_speed 1>/dev/null 2>/dev/null
+
+## This script runs every 30 minutes to kill defunct processes. It is used to reduce the chances of running out of GER sessions.
+0,15,30,45 * * * * perl /scripts/killDefunctProcesses.pl
+
+## This script pings all known network locations and saves history in /var/log
+0 22 * * * perl /scripts/vpn.pl -c1

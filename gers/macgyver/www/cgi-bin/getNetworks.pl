@@ -1,0 +1,66 @@
+#!C:/strawberry/perl/bin/perl.exe
+use strict;
+use warnings;
+
+use CGI;
+use DBI;
+use DBD::mysql;
+
+our $conn;
+our $json;
+our $cgi=CGI->new;
+
+print $cgi->header(-type => "application/json", -charset => "utf-8");
+
+if($conn=getDatabaseConnection("net", "root", 'tiger31'))
+{
+	#buildInventory($conn);
+	buildJSON($conn);
+
+	$conn->disconnect();
+}
+
+print $json;
+
+exit 0;
+
+
+sub getDatabaseConnection
+{
+	our $db=shift;
+	our $un=shift;
+	our $pw=shift;
+	our $connection;
+	
+	if(!($connection=DBI->connect("DBI:mysql:$db", $un, $pw)))
+	{
+		$json=sprintf('"status":"ER", "msg":"Error Connecting to Database, Contact Support Staff with the information below<br />%s"', $DBI::errstr);
+		return 0;
+	}
+	
+	return $connection;
+}
+
+sub buildJSON
+{
+	our $connection=shift;
+	our $statement=$conn->prepare("SELECT networkHostAddress, networkSubNetMask, networkInternalManagementAddress, networkExternalManagementAddress, networkLocationName, networkAreaName FROM net.network ORDER BY networkHostAddress LIMIT 1000");
+	our($host, $subnet, $internal, $external, $location, $area);
+	our $text;
+	our $ix=0;
+	
+	$statement->execute();
+
+	$statement->bind_columns(undef, \$host, \$subnet, \$internal, \$external, \$location, \$area);
+	
+	while($statement->fetchrow())
+	{
+		$text.=', ' if $ix>0;
+		$text.=sprintf('["%s","%s","%s","%s","%s", "%s"]', $host, $subnet, $internal, $external, $location, $area);
+		$ix++;
+	}
+	
+	$json=sprintf('{"sEcho":%d, "iTotalRecords":%d, "iTotalDisplayRecords":%d, "aoColumns": [ {"sTitle": "Host", "sWidth": "60px", "bSortable": "false" }, { "sTitle": "Subnet" , "sType": "mytext", "sWidth": "60px"}, { "sTitle": "Inside" , "sWidth": "60px" }, { "sWidth": "60", "sTitle": "Outside" }, { "sWidth": "160px", "sTitle": "Location" }, { "sWidth": "160px", "sTitle": "Area" }], "aaData": [%s]}', 20, $ix, $ix, $text);
+	
+	$statement->finish;	
+}

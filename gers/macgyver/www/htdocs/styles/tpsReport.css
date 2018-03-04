@@ -1,0 +1,112 @@
+	td, th
+	{
+		padding			:	3px;
+		font-weight		:	normal;
+	}
+	th
+	{
+		font-size		:	95%;
+		font-weight		:	bold;
+	}
+	td
+	{
+		font-size		:	100%;
+	}
+	
+	.tables
+	{
+		width			: 	100%;
+		border-style	:	none;
+		border-width	:	0px;
+		border-collapse	:	collapse;
+		cellpadding		: 	5px;
+		font-size		:	100%;
+	}
+	
+	.borders
+	{
+		width			:	100%;
+		border-style	: 	solid;
+		border-width	:	1px;
+		border-collapse	:	collapse;
+		border-color	:	#3B5998; 
+		cellpadding		: 	5px;
+	}
+	.noBorders
+	{
+		border-style	: 	none;
+		border-width	:	0px;
+		border-collapse	:	collapse;
+	}
+	.topBorders
+	{
+		width			:	100%;
+		border-style	: 	solid none none none;
+		border-width	:	1px;
+		border-collapse	:	collapse;
+		border-color	:	#3B5998; 
+		cellpadding		: 	5px;
+	}
+	.bottomBorders
+	{
+		width			:	100%;
+		border-style	: 	none none solid none;
+		border-width	:	1px;
+		border-collapse	:	collapse;
+		border-color	:	#3B5998; 
+		cellpadding		: 	5px;
+	}
+	
+	.addBorder
+	{
+		border-style	: 	solid;
+		border-width	:	1px;
+		border-collapse	:	collapse;
+		border-color	:	#3B5998;
+	}
+	
+	.shaded
+	{
+		background-color:	#DFE3EE; 
+	}
+	.reverse
+	{
+		background-color:	#3B5998; 
+		color			:	#DFE3EE;
+	}
+	
+	.logo
+	{
+		margin-left		:	5px;
+		margin-right	:	5px;
+		margin-top		:	5px;
+		margin-bottom	:	5px;
+	}
+	.images
+	{
+		margin-left		:	5px;
+		margin-right	:	5px;
+		margin-top		:	5px;
+		margin-bottom	:	5px;
+	}
+	
+	.textLarge
+	{
+		font-size		:	110%;
+	}
+	.textSmall			
+	{
+		font-size		:	80%
+	}
+	.textBold
+	{
+		font-weight		:	bold;
+	}
+	.textItalics
+	{
+		font-style		:	italics;
+	}
+	.textRed
+	{
+		color			: 	red;
+	}

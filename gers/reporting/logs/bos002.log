@@ -1,0 +1,643 @@
+
+(11940066) started: Mon Jan  6 04:30:00 EST 2014
+(11940066) Querying the database to see if this is the first Monday of the fiscal period
+(11940066) This is not the first Monday of the fiscal period, exiting
+
+(13844732) started: Mon Jan 13 04:30:00 EST 2014
+(13844732) Querying the database to see if this is the first Monday of the fiscal period
+(13844732) This is not the first Monday of the fiscal period, exiting
+
+(9896050) started: Mon Jan 20 04:30:00 EST 2014
+(9896050) Querying the database to see if this is the first Monday of the fiscal period
+(9896050) This is not the first Monday of the fiscal period, exiting
+
+(13983806) started: Mon Jan 27 04:30:00 EST 2014
+(13983806) Querying the database to see if this is the first Monday of the fiscal period
+(13983806) This is the first Monday of the fiscal period, querying the database for all retail centers
+(13983806) /scripts/reporting/tmp/bos002.results exists and is not empty
+(13983806) persisting BOS report for 0020 to /scripts/reporting/tmp/YTDBos0020.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 0020, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos0020.pdf
+(13983806) persisting BOS report for 9011 to /scripts/reporting/tmp/YTDBos9011.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9011, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9011.pdf
+(13983806) persisting BOS report for 9027 to /scripts/reporting/tmp/YTDBos9027.pdf
+(13983806) persisting BOS report for 9030 to /scripts/reporting/tmp/YTDBos9030.pdf
+(13983806) persisting BOS report for 9031 to /scripts/reporting/tmp/YTDBos9031.pdf
+(13983806) persisting BOS report for 9034 to /scripts/reporting/tmp/YTDBos9034.pdf
+(13983806) persisting BOS report for 9035 to /scripts/reporting/tmp/YTDBos9035.pdf
+(13983806) persisting BOS report for 9037 to /scripts/reporting/tmp/YTDBos9037.pdf
+(13983806) persisting BOS report for 9038 to /scripts/reporting/tmp/YTDBos9038.pdf
+(13983806) persisting BOS report for 9041 to /scripts/reporting/tmp/YTDBos9041.pdf
+(13983806) persisting BOS report for 9046 to /scripts/reporting/tmp/YTDBos9046.pdf
+(13983806) persisting BOS report for 9053 to /scripts/reporting/tmp/YTDBos9053.pdf
+(13983806) persisting BOS report for 9056 to /scripts/reporting/tmp/YTDBos9056.pdf
+(13983806) persisting BOS report for 9059 to /scripts/reporting/tmp/YTDBos9059.pdf
+(13983806) persisting BOS report for 9080 to /scripts/reporting/tmp/YTDBos9080.pdf
+(13983806) persisting BOS report for 9090 to /scripts/reporting/tmp/YTDBos9090.pdf
+(13983806) persisting BOS report for 9101 to /scripts/reporting/tmp/YTDBos9101.pdf
+(13983806) persisting BOS report for 9110 to /scripts/reporting/tmp/YTDBos9110.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9110, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9110.pdf
+(13983806) persisting BOS report for 9120 to /scripts/reporting/tmp/YTDBos9120.pdf
+(13983806) persisting BOS report for 9130 to /scripts/reporting/tmp/YTDBos9130.pdf
+(13983806) persisting BOS report for 9140 to /scripts/reporting/tmp/YTDBos9140.pdf
+(13983806) persisting BOS report for 9200 to /scripts/reporting/tmp/YTDBos9200.pdf
+(13983806) persisting BOS report for 9204 to /scripts/reporting/tmp/YTDBos9204.pdf
+(13983806) persisting BOS report for 9208 to /scripts/reporting/tmp/YTDBos9208.pdf
+(13983806) persisting BOS report for 9210 to /scripts/reporting/tmp/YTDBos9210.pdf
+(13983806) persisting BOS report for 9212 to /scripts/reporting/tmp/YTDBos9212.pdf
+(13983806) persisting BOS report for 9215 to /scripts/reporting/tmp/YTDBos9215.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9215, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9215.pdf
+(13983806) persisting BOS report for 9230 to /scripts/reporting/tmp/YTDBos9230.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9230, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9230.pdf
+(13983806) persisting BOS report for 9250 to /scripts/reporting/tmp/YTDBos9250.pdf
+(13983806) persisting BOS report for 9281 to /scripts/reporting/tmp/YTDBos9281.pdf
+(13983806) persisting BOS report for 9310 to /scripts/reporting/tmp/YTDBos9310.pdf
+(13983806) persisting BOS report for 9312 to /scripts/reporting/tmp/YTDBos9312.pdf
+(13983806) persisting BOS report for 9315 to /scripts/reporting/tmp/YTDBos9315.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9315, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9315.pdf
+(13983806) persisting BOS report for 9321 to /scripts/reporting/tmp/YTDBos9321.pdf
+(13983806) persisting BOS report for 9351 to /scripts/reporting/tmp/YTDBos9351.pdf
+(13983806) persisting BOS report for 9352 to /scripts/reporting/tmp/YTDBos9352.pdf
+(13983806) persisting BOS report for 9370 to /scripts/reporting/tmp/YTDBos9370.pdf
+(13983806) persisting BOS report for 9390 to /scripts/reporting/tmp/YTDBos9390.pdf
+(13983806) persisting BOS report for 9391 to /scripts/reporting/tmp/YTDBos9391.pdf
+(13983806) persisting BOS report for 9404 to /scripts/reporting/tmp/YTDBos9404.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9404, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9404.pdf
+(13983806) persisting BOS report for 9405 to /scripts/reporting/tmp/YTDBos9405.pdf
+(13983806) persisting BOS report for 9407 to /scripts/reporting/tmp/YTDBos9407.pdf
+(13983806) persisting BOS report for 9410 to /scripts/reporting/tmp/YTDBos9410.pdf
+(13983806) persisting BOS report for 9412 to /scripts/reporting/tmp/YTDBos9412.pdf
+(13983806) persisting BOS report for 9415 to /scripts/reporting/tmp/YTDBos9415.pdf
+(13983806) persisting BOS report for 9417 to /scripts/reporting/tmp/YTDBos9417.pdf
+(13983806) persisting BOS report for 9425 to /scripts/reporting/tmp/YTDBos9425.pdf
+(13983806) persisting BOS report for 9436 to /scripts/reporting/tmp/YTDBos9436.pdf
+(13983806) persisting BOS report for 9450 to /scripts/reporting/tmp/YTDBos9450.pdf
+(13983806) persisting BOS report for 9460 to /scripts/reporting/tmp/YTDBos9460.pdf
+(13983806) persisting BOS report for 9479 to /scripts/reporting/tmp/YTDBos9479.pdf
+(13983806) persisting BOS report for 9480 to /scripts/reporting/tmp/YTDBos9480.pdf
+(13983806) persisting BOS report for 9500 to /scripts/reporting/tmp/YTDBos9500.pdf
+(13983806) persisting BOS report for 9509 to /scripts/reporting/tmp/YTDBos9509.pdf
+(13983806) persisting BOS report for 9515 to /scripts/reporting/tmp/YTDBos9515.pdf
+(13983806) persisting BOS report for 9525 to /scripts/reporting/tmp/YTDBos9525.pdf
+(13983806) persisting BOS report for 9535 to /scripts/reporting/tmp/YTDBos9535.pdf
+(13983806) persisting BOS report for 9550 to /scripts/reporting/tmp/YTDBos9550.pdf
+(13983806) persisting BOS report for 9562 to /scripts/reporting/tmp/YTDBos9562.pdf
+(13983806) persisting BOS report for 9575 to /scripts/reporting/tmp/YTDBos9575.pdf
+(13983806) persisting BOS report for 9599 to /scripts/reporting/tmp/YTDBos9599.pdf
+(13983806) persisting BOS report for 9600 to /scripts/reporting/tmp/YTDBos9600.pdf
+(13983806) persisting BOS report for 9609 to /scripts/reporting/tmp/YTDBos9609.pdf
+(13983806) persisting BOS report for 9615 to /scripts/reporting/tmp/YTDBos9615.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9615, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9615.pdf
+(13983806) persisting BOS report for 9619 to /scripts/reporting/tmp/YTDBos9619.pdf
+(13983806) persisting BOS report for 9630 to /scripts/reporting/tmp/YTDBos9630.pdf
+(13983806) persisting BOS report for 9635 to /scripts/reporting/tmp/YTDBos9635.pdf
+(13983806) persisting BOS report for 9640 to /scripts/reporting/tmp/YTDBos9640.pdf
+(13983806) persisting BOS report for 9650 to /scripts/reporting/tmp/YTDBos9650.pdf
+(13983806) persisting BOS report for 9675 to /scripts/reporting/tmp/YTDBos9675.pdf
+(13983806) persisting BOS report for 9690 to /scripts/reporting/tmp/YTDBos9690.pdf
+(13983806) persisting BOS report for 9700 to /scripts/reporting/tmp/YTDBos9700.pdf
+(13983806) persisting BOS report for 9704 to /scripts/reporting/tmp/YTDBos9704.pdf
+(13983806) persisting BOS report for 9706 to /scripts/reporting/tmp/YTDBos9706.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9706, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9706.pdf
+(13983806) persisting BOS report for 9713 to /scripts/reporting/tmp/YTDBos9713.pdf
+(13983806) persisting BOS report for 9725 to /scripts/reporting/tmp/YTDBos9725.pdf
+(13983806) persisting BOS report for 9750 to /scripts/reporting/tmp/YTDBos9750.pdf
+(13983806) persisting BOS report for 9751 to /scripts/reporting/tmp/YTDBos9751.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9751, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9751.pdf
+(13983806) persisting BOS report for 9770 to /scripts/reporting/tmp/YTDBos9770.pdf
+(13983806) persisting BOS report for 9775 to /scripts/reporting/tmp/YTDBos9775.pdf
+(13983806) persisting BOS report for 9780 to /scripts/reporting/tmp/YTDBos9780.pdf
+(13983806) persisting BOS report for 9800 to /scripts/reporting/tmp/YTDBos9800.pdf
+(13983806) ** ERROR: An error occurred generating YTD BOS report for 9800, RC=1
+(13983806) removing /scripts/reporting/tmp/YTDBos9800.pdf
+(13983806) persisting BOS report for 9801 to /scripts/reporting/tmp/YTDBos9801.pdf
+(13983806) persisting BOS report for 9815 to /scripts/reporting/tmp/YTDBos9815.pdf
+(13983806) persisting BOS report for 9828 to /scripts/reporting/tmp/YTDBos9828.pdf
+(13983806) persisting BOS report for 9850 to /scripts/reporting/tmp/YTDBos9850.pdf
+(13983806) persisting BOS report for 9859 to /scripts/reporting/tmp/YTDBos9859.pdf
+(13983806) persisting BOS report for 9875 to /scripts/reporting/tmp/YTDBos9875.pdf
+(13983806) persisting BOS report for 9880 to /scripts/reporting/tmp/YTDBos9880.pdf
+(13983806) persisting BOS report for 9915 to /scripts/reporting/tmp/YTDBos9915.pdf
+(13983806) persisting BOS report for 9918 to /scripts/reporting/tmp/YTDBos9918.pdf
+(13983806) persisting BOS report for 9921 to /scripts/reporting/tmp/YTDBos9921.pdf
+(13983806) persisting BOS report for 9954 to /scripts/reporting/tmp/YTDBos9954.pdf
+(13983806) persisting BOS report for 9956 to /scripts/reporting/tmp/YTDBos9956.pdf
+(13983806) persisting BOS report for 9972 to /scripts/reporting/tmp/YTDBos9972.pdf
+(13983806) persisting BOS report for 9973 to /scripts/reporting/tmp/YTDBos9973.pdf
+(13983806) Creating /scripts/reporting/tmp/YTDBosReports_01272014_043533.zip
+(13983806) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13983806) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13983806) Cleaning up YTD Bos pdf files
+(13983806) cleaning up /scripts/reporting/tmp/bos002.results
+(13983806) finished Mon Jan 27 04:35:34 EST 2014
+
+(15130672) started: Mon Jan 27 16:18:11 EST 2014
+(15130672) Querying the database to see if this is the first Monday of the fiscal period
+(15130672) This is the first Monday of the fiscal period, querying the database for all retail centers
+(15130672) /scripts/reporting/tmp/bos002.results exists and is not empty
+(15130672) persisting BOS report for 0020 to /scripts/reporting/tmp/YTDBos0020.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 0020, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos0020.pdf
+(15130672) persisting BOS report for 9011 to /scripts/reporting/tmp/YTDBos9011.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9011, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9011.pdf
+(15130672) persisting BOS report for 9027 to /scripts/reporting/tmp/YTDBos9027.pdf
+(15130672) persisting BOS report for 9030 to /scripts/reporting/tmp/YTDBos9030.pdf
+(15130672) persisting BOS report for 9031 to /scripts/reporting/tmp/YTDBos9031.pdf
+(15130672) persisting BOS report for 9034 to /scripts/reporting/tmp/YTDBos9034.pdf
+(15130672) persisting BOS report for 9035 to /scripts/reporting/tmp/YTDBos9035.pdf
+(15130672) persisting BOS report for 9037 to /scripts/reporting/tmp/YTDBos9037.pdf
+(15130672) persisting BOS report for 9038 to /scripts/reporting/tmp/YTDBos9038.pdf
+(15130672) persisting BOS report for 9041 to /scripts/reporting/tmp/YTDBos9041.pdf
+(15130672) persisting BOS report for 9046 to /scripts/reporting/tmp/YTDBos9046.pdf
+(15130672) persisting BOS report for 9053 to /scripts/reporting/tmp/YTDBos9053.pdf
+(15130672) persisting BOS report for 9056 to /scripts/reporting/tmp/YTDBos9056.pdf
+(15130672) persisting BOS report for 9059 to /scripts/reporting/tmp/YTDBos9059.pdf
+(15130672) persisting BOS report for 9080 to /scripts/reporting/tmp/YTDBos9080.pdf
+(15130672) persisting BOS report for 9090 to /scripts/reporting/tmp/YTDBos9090.pdf
+(15130672) persisting BOS report for 9101 to /scripts/reporting/tmp/YTDBos9101.pdf
+(15130672) persisting BOS report for 9110 to /scripts/reporting/tmp/YTDBos9110.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9110, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9110.pdf
+(15130672) persisting BOS report for 9120 to /scripts/reporting/tmp/YTDBos9120.pdf
+(15130672) persisting BOS report for 9130 to /scripts/reporting/tmp/YTDBos9130.pdf
+(15130672) persisting BOS report for 9140 to /scripts/reporting/tmp/YTDBos9140.pdf
+(15130672) persisting BOS report for 9200 to /scripts/reporting/tmp/YTDBos9200.pdf
+(15130672) persisting BOS report for 9204 to /scripts/reporting/tmp/YTDBos9204.pdf
+(15130672) persisting BOS report for 9208 to /scripts/reporting/tmp/YTDBos9208.pdf
+(15130672) persisting BOS report for 9210 to /scripts/reporting/tmp/YTDBos9210.pdf
+(15130672) persisting BOS report for 9212 to /scripts/reporting/tmp/YTDBos9212.pdf
+(15130672) persisting BOS report for 9215 to /scripts/reporting/tmp/YTDBos9215.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9215, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9215.pdf
+(15130672) persisting BOS report for 9230 to /scripts/reporting/tmp/YTDBos9230.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9230, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9230.pdf
+(15130672) persisting BOS report for 9250 to /scripts/reporting/tmp/YTDBos9250.pdf
+(15130672) persisting BOS report for 9281 to /scripts/reporting/tmp/YTDBos9281.pdf
+(15130672) persisting BOS report for 9310 to /scripts/reporting/tmp/YTDBos9310.pdf
+(15130672) persisting BOS report for 9312 to /scripts/reporting/tmp/YTDBos9312.pdf
+(15130672) persisting BOS report for 9315 to /scripts/reporting/tmp/YTDBos9315.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9315, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9315.pdf
+(15130672) persisting BOS report for 9321 to /scripts/reporting/tmp/YTDBos9321.pdf
+(15130672) persisting BOS report for 9351 to /scripts/reporting/tmp/YTDBos9351.pdf
+(15130672) persisting BOS report for 9352 to /scripts/reporting/tmp/YTDBos9352.pdf
+(15130672) persisting BOS report for 9370 to /scripts/reporting/tmp/YTDBos9370.pdf
+(15130672) persisting BOS report for 9390 to /scripts/reporting/tmp/YTDBos9390.pdf
+(15130672) persisting BOS report for 9391 to /scripts/reporting/tmp/YTDBos9391.pdf
+(15130672) persisting BOS report for 9404 to /scripts/reporting/tmp/YTDBos9404.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9404, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9404.pdf
+(15130672) persisting BOS report for 9405 to /scripts/reporting/tmp/YTDBos9405.pdf
+(15130672) persisting BOS report for 9407 to /scripts/reporting/tmp/YTDBos9407.pdf
+(15130672) persisting BOS report for 9410 to /scripts/reporting/tmp/YTDBos9410.pdf
+(15130672) persisting BOS report for 9412 to /scripts/reporting/tmp/YTDBos9412.pdf
+(15130672) persisting BOS report for 9415 to /scripts/reporting/tmp/YTDBos9415.pdf
+(15130672) persisting BOS report for 9417 to /scripts/reporting/tmp/YTDBos9417.pdf
+(15130672) persisting BOS report for 9425 to /scripts/reporting/tmp/YTDBos9425.pdf
+(15130672) persisting BOS report for 9436 to /scripts/reporting/tmp/YTDBos9436.pdf
+(15130672) persisting BOS report for 9450 to /scripts/reporting/tmp/YTDBos9450.pdf
+(15130672) persisting BOS report for 9460 to /scripts/reporting/tmp/YTDBos9460.pdf
+(15130672) persisting BOS report for 9479 to /scripts/reporting/tmp/YTDBos9479.pdf
+(15130672) persisting BOS report for 9480 to /scripts/reporting/tmp/YTDBos9480.pdf
+(15130672) persisting BOS report for 9500 to /scripts/reporting/tmp/YTDBos9500.pdf
+(15130672) persisting BOS report for 9509 to /scripts/reporting/tmp/YTDBos9509.pdf
+(15130672) persisting BOS report for 9515 to /scripts/reporting/tmp/YTDBos9515.pdf
+(15130672) persisting BOS report for 9525 to /scripts/reporting/tmp/YTDBos9525.pdf
+(15130672) persisting BOS report for 9535 to /scripts/reporting/tmp/YTDBos9535.pdf
+(15130672) persisting BOS report for 9550 to /scripts/reporting/tmp/YTDBos9550.pdf
+(15130672) persisting BOS report for 9562 to /scripts/reporting/tmp/YTDBos9562.pdf
+(15130672) persisting BOS report for 9575 to /scripts/reporting/tmp/YTDBos9575.pdf
+(15130672) persisting BOS report for 9599 to /scripts/reporting/tmp/YTDBos9599.pdf
+(15130672) persisting BOS report for 9600 to /scripts/reporting/tmp/YTDBos9600.pdf
+(15130672) persisting BOS report for 9609 to /scripts/reporting/tmp/YTDBos9609.pdf
+(15130672) persisting BOS report for 9615 to /scripts/reporting/tmp/YTDBos9615.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9615, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9615.pdf
+(15130672) persisting BOS report for 9619 to /scripts/reporting/tmp/YTDBos9619.pdf
+(15130672) persisting BOS report for 9630 to /scripts/reporting/tmp/YTDBos9630.pdf
+(15130672) persisting BOS report for 9635 to /scripts/reporting/tmp/YTDBos9635.pdf
+(15130672) persisting BOS report for 9640 to /scripts/reporting/tmp/YTDBos9640.pdf
+(15130672) persisting BOS report for 9650 to /scripts/reporting/tmp/YTDBos9650.pdf
+(15130672) persisting BOS report for 9675 to /scripts/reporting/tmp/YTDBos9675.pdf
+(15130672) persisting BOS report for 9690 to /scripts/reporting/tmp/YTDBos9690.pdf
+(15130672) persisting BOS report for 9700 to /scripts/reporting/tmp/YTDBos9700.pdf
+(15130672) persisting BOS report for 9704 to /scripts/reporting/tmp/YTDBos9704.pdf
+(15130672) persisting BOS report for 9706 to /scripts/reporting/tmp/YTDBos9706.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9706, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9706.pdf
+(15130672) persisting BOS report for 9713 to /scripts/reporting/tmp/YTDBos9713.pdf
+(15130672) persisting BOS report for 9725 to /scripts/reporting/tmp/YTDBos9725.pdf
+(15130672) persisting BOS report for 9750 to /scripts/reporting/tmp/YTDBos9750.pdf
+(15130672) persisting BOS report for 9751 to /scripts/reporting/tmp/YTDBos9751.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9751, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9751.pdf
+(15130672) persisting BOS report for 9770 to /scripts/reporting/tmp/YTDBos9770.pdf
+(15130672) persisting BOS report for 9775 to /scripts/reporting/tmp/YTDBos9775.pdf
+(15130672) persisting BOS report for 9780 to /scripts/reporting/tmp/YTDBos9780.pdf
+(15130672) persisting BOS report for 9800 to /scripts/reporting/tmp/YTDBos9800.pdf
+(15130672) ** ERROR: An error occurred generating YTD BOS report for 9800, RC=1
+(15130672) removing /scripts/reporting/tmp/YTDBos9800.pdf
+(15130672) persisting BOS report for 9801 to /scripts/reporting/tmp/YTDBos9801.pdf
+(15130672) persisting BOS report for 9815 to /scripts/reporting/tmp/YTDBos9815.pdf
+(15130672) persisting BOS report for 9828 to /scripts/reporting/tmp/YTDBos9828.pdf
+(15130672) persisting BOS report for 9850 to /scripts/reporting/tmp/YTDBos9850.pdf
+(15130672) persisting BOS report for 9859 to /scripts/reporting/tmp/YTDBos9859.pdf
+(15130672) persisting BOS report for 9875 to /scripts/reporting/tmp/YTDBos9875.pdf
+(15130672) persisting BOS report for 9880 to /scripts/reporting/tmp/YTDBos9880.pdf
+(15130672) persisting BOS report for 9915 to /scripts/reporting/tmp/YTDBos9915.pdf
+(15130672) persisting BOS report for 9918 to /scripts/reporting/tmp/YTDBos9918.pdf
+(15130672) persisting BOS report for 9921 to /scripts/reporting/tmp/YTDBos9921.pdf
+(15130672) persisting BOS report for 9954 to /scripts/reporting/tmp/YTDBos9954.pdf
+(15130672) persisting BOS report for 9956 to /scripts/reporting/tmp/YTDBos9956.pdf
+(15130672) persisting BOS report for 9972 to /scripts/reporting/tmp/YTDBos9972.pdf
+(15130672) persisting BOS report for 9973 to /scripts/reporting/tmp/YTDBos9973.pdf
+(15130672) Creating /scripts/reporting/tmp/YTDBosReports_01272014_162346.zip
+bos002.sh: line 208: jar: command not found
+(15130672) ** ERROR: An error occurred creating /scripts/reporting/tmp/YTDBosReports_01272014_162346.zip, RC=127
+
+(12369924) started: Mon Feb  3 04:30:00 EST 2014
+(12369924) Querying the database to see if this is the first Monday of the fiscal period
+(12369924) This is not the first Monday of the fiscal period, exiting
+
+(15298602) started: Mon Feb 10 04:30:00 EST 2014
+(15298602) Querying the database to see if this is the first Monday of the fiscal period
+(15298602) This is not the first Monday of the fiscal period, exiting
+
+(12148952) started: Mon Feb 17 04:30:00 EST 2014
+(12148952) Querying the database to see if this is the first Monday of the fiscal period
+(12148952) This is not the first Monday of the fiscal period, exiting
+
+(15032540) started: Mon Feb 24 04:30:00 EST 2014
+(15032540) Querying the database to see if this is the first Monday of the fiscal period
+(15032540) This is not the first Monday of the fiscal period, exiting
+
+(10883288) started: Mon Mar  3 04:30:00 EST 2014
+(10883288) Querying the database to see if this is the first Monday of the fiscal period
+(10883288) This is the first Monday of the fiscal period, querying the database for all retail centers
+(10883288) /scripts/reporting/tmp/bos002.results exists and is not empty
+(10883288) persisting BOS report for 0020 to /scripts/reporting/tmp/YTDBos0020.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 0020, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos0020.pdf
+(10883288) persisting BOS report for 9011 to /scripts/reporting/tmp/YTDBos9011.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9011, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9011.pdf
+(10883288) persisting BOS report for 9027 to /scripts/reporting/tmp/YTDBos9027.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9027, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9027.pdf
+(10883288) persisting BOS report for 9030 to /scripts/reporting/tmp/YTDBos9030.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9030, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9030.pdf
+(10883288) persisting BOS report for 9031 to /scripts/reporting/tmp/YTDBos9031.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9031, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9031.pdf
+(10883288) persisting BOS report for 9034 to /scripts/reporting/tmp/YTDBos9034.pdf
+(10883288) persisting BOS report for 9035 to /scripts/reporting/tmp/YTDBos9035.pdf
+(10883288) persisting BOS report for 9037 to /scripts/reporting/tmp/YTDBos9037.pdf
+(10883288) persisting BOS report for 9038 to /scripts/reporting/tmp/YTDBos9038.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9038, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9038.pdf
+(10883288) persisting BOS report for 9041 to /scripts/reporting/tmp/YTDBos9041.pdf
+(10883288) persisting BOS report for 9046 to /scripts/reporting/tmp/YTDBos9046.pdf
+(10883288) persisting BOS report for 9053 to /scripts/reporting/tmp/YTDBos9053.pdf
+(10883288) persisting BOS report for 9056 to /scripts/reporting/tmp/YTDBos9056.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9056, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9056.pdf
+(10883288) persisting BOS report for 9059 to /scripts/reporting/tmp/YTDBos9059.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9059, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9059.pdf
+(10883288) persisting BOS report for 9080 to /scripts/reporting/tmp/YTDBos9080.pdf
+(10883288) persisting BOS report for 9090 to /scripts/reporting/tmp/YTDBos9090.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9090, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9090.pdf
+(10883288) persisting BOS report for 9101 to /scripts/reporting/tmp/YTDBos9101.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9101, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9101.pdf
+(10883288) persisting BOS report for 9110 to /scripts/reporting/tmp/YTDBos9110.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9110, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9110.pdf
+(10883288) persisting BOS report for 9120 to /scripts/reporting/tmp/YTDBos9120.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9120, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9120.pdf
+(10883288) persisting BOS report for 9130 to /scripts/reporting/tmp/YTDBos9130.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9130, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9130.pdf
+(10883288) persisting BOS report for 9140 to /scripts/reporting/tmp/YTDBos9140.pdf
+(10883288) persisting BOS report for 9200 to /scripts/reporting/tmp/YTDBos9200.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9200, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9200.pdf
+(10883288) persisting BOS report for 9204 to /scripts/reporting/tmp/YTDBos9204.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9204, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9204.pdf
+(10883288) persisting BOS report for 9208 to /scripts/reporting/tmp/YTDBos9208.pdf
+(10883288) persisting BOS report for 9210 to /scripts/reporting/tmp/YTDBos9210.pdf
+(10883288) persisting BOS report for 9212 to /scripts/reporting/tmp/YTDBos9212.pdf
+(10883288) persisting BOS report for 9215 to /scripts/reporting/tmp/YTDBos9215.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9215, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9215.pdf
+(10883288) persisting BOS report for 9230 to /scripts/reporting/tmp/YTDBos9230.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9230, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9230.pdf
+(10883288) persisting BOS report for 9250 to /scripts/reporting/tmp/YTDBos9250.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9250, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9250.pdf
+(10883288) persisting BOS report for 9281 to /scripts/reporting/tmp/YTDBos9281.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9281, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9281.pdf
+(10883288) persisting BOS report for 9310 to /scripts/reporting/tmp/YTDBos9310.pdf
+(10883288) persisting BOS report for 9312 to /scripts/reporting/tmp/YTDBos9312.pdf
+(10883288) persisting BOS report for 9315 to /scripts/reporting/tmp/YTDBos9315.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9315, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9315.pdf
+(10883288) persisting BOS report for 9321 to /scripts/reporting/tmp/YTDBos9321.pdf
+(10883288) persisting BOS report for 9351 to /scripts/reporting/tmp/YTDBos9351.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9351, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9351.pdf
+(10883288) persisting BOS report for 9352 to /scripts/reporting/tmp/YTDBos9352.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9352, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9352.pdf
+(10883288) persisting BOS report for 9370 to /scripts/reporting/tmp/YTDBos9370.pdf
+(10883288) persisting BOS report for 9390 to /scripts/reporting/tmp/YTDBos9390.pdf
+(10883288) persisting BOS report for 9391 to /scripts/reporting/tmp/YTDBos9391.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9391, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9391.pdf
+(10883288) persisting BOS report for 9404 to /scripts/reporting/tmp/YTDBos9404.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9404, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9404.pdf
+(10883288) persisting BOS report for 9405 to /scripts/reporting/tmp/YTDBos9405.pdf
+(10883288) persisting BOS report for 9407 to /scripts/reporting/tmp/YTDBos9407.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9407, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9407.pdf
+(10883288) persisting BOS report for 9410 to /scripts/reporting/tmp/YTDBos9410.pdf
+(10883288) persisting BOS report for 9412 to /scripts/reporting/tmp/YTDBos9412.pdf
+(10883288) persisting BOS report for 9415 to /scripts/reporting/tmp/YTDBos9415.pdf
+(10883288) persisting BOS report for 9417 to /scripts/reporting/tmp/YTDBos9417.pdf
+(10883288) persisting BOS report for 9425 to /scripts/reporting/tmp/YTDBos9425.pdf
+(10883288) persisting BOS report for 9436 to /scripts/reporting/tmp/YTDBos9436.pdf
+(10883288) persisting BOS report for 9450 to /scripts/reporting/tmp/YTDBos9450.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9450, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9450.pdf
+(10883288) persisting BOS report for 9460 to /scripts/reporting/tmp/YTDBos9460.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9460, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9460.pdf
+(10883288) persisting BOS report for 9479 to /scripts/reporting/tmp/YTDBos9479.pdf
+(10883288) persisting BOS report for 9480 to /scripts/reporting/tmp/YTDBos9480.pdf
+(10883288) persisting BOS report for 9500 to /scripts/reporting/tmp/YTDBos9500.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9500, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9500.pdf
+(10883288) persisting BOS report for 9509 to /scripts/reporting/tmp/YTDBos9509.pdf
+(10883288) persisting BOS report for 9515 to /scripts/reporting/tmp/YTDBos9515.pdf
+(10883288) persisting BOS report for 9525 to /scripts/reporting/tmp/YTDBos9525.pdf
+(10883288) persisting BOS report for 9535 to /scripts/reporting/tmp/YTDBos9535.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9535, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9535.pdf
+(10883288) persisting BOS report for 9550 to /scripts/reporting/tmp/YTDBos9550.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9550, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9550.pdf
+(10883288) persisting BOS report for 9562 to /scripts/reporting/tmp/YTDBos9562.pdf
+(10883288) persisting BOS report for 9575 to /scripts/reporting/tmp/YTDBos9575.pdf
+(10883288) persisting BOS report for 9599 to /scripts/reporting/tmp/YTDBos9599.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9599, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9599.pdf
+(10883288) persisting BOS report for 9600 to /scripts/reporting/tmp/YTDBos9600.pdf
+(10883288) persisting BOS report for 9609 to /scripts/reporting/tmp/YTDBos9609.pdf
+(10883288) persisting BOS report for 9615 to /scripts/reporting/tmp/YTDBos9615.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9615, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9615.pdf
+(10883288) persisting BOS report for 9619 to /scripts/reporting/tmp/YTDBos9619.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9619, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9619.pdf
+(10883288) persisting BOS report for 9630 to /scripts/reporting/tmp/YTDBos9630.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9630, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9630.pdf
+(10883288) persisting BOS report for 9635 to /scripts/reporting/tmp/YTDBos9635.pdf
+(10883288) persisting BOS report for 9640 to /scripts/reporting/tmp/YTDBos9640.pdf
+(10883288) persisting BOS report for 9650 to /scripts/reporting/tmp/YTDBos9650.pdf
+(10883288) persisting BOS report for 9675 to /scripts/reporting/tmp/YTDBos9675.pdf
+(10883288) persisting BOS report for 9690 to /scripts/reporting/tmp/YTDBos9690.pdf
+(10883288) persisting BOS report for 9700 to /scripts/reporting/tmp/YTDBos9700.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9700, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9700.pdf
+(10883288) persisting BOS report for 9704 to /scripts/reporting/tmp/YTDBos9704.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9704, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9704.pdf
+(10883288) persisting BOS report for 9706 to /scripts/reporting/tmp/YTDBos9706.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9706, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9706.pdf
+(10883288) persisting BOS report for 9713 to /scripts/reporting/tmp/YTDBos9713.pdf
+(10883288) persisting BOS report for 9720 to /scripts/reporting/tmp/YTDBos9720.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9720, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9720.pdf
+(10883288) persisting BOS report for 9721 to /scripts/reporting/tmp/YTDBos9721.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9721, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9721.pdf
+(10883288) persisting BOS report for 9725 to /scripts/reporting/tmp/YTDBos9725.pdf
+(10883288) persisting BOS report for 9750 to /scripts/reporting/tmp/YTDBos9750.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9750, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9750.pdf
+(10883288) persisting BOS report for 9751 to /scripts/reporting/tmp/YTDBos9751.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9751, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9751.pdf
+(10883288) persisting BOS report for 9770 to /scripts/reporting/tmp/YTDBos9770.pdf
+(10883288) persisting BOS report for 9775 to /scripts/reporting/tmp/YTDBos9775.pdf
+(10883288) persisting BOS report for 9780 to /scripts/reporting/tmp/YTDBos9780.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9780, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9780.pdf
+(10883288) persisting BOS report for 9800 to /scripts/reporting/tmp/YTDBos9800.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9800, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9800.pdf
+(10883288) persisting BOS report for 9801 to /scripts/reporting/tmp/YTDBos9801.pdf
+(10883288) persisting BOS report for 9815 to /scripts/reporting/tmp/YTDBos9815.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9815, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9815.pdf
+(10883288) persisting BOS report for 9828 to /scripts/reporting/tmp/YTDBos9828.pdf
+(10883288) persisting BOS report for 9850 to /scripts/reporting/tmp/YTDBos9850.pdf
+(10883288) persisting BOS report for 9859 to /scripts/reporting/tmp/YTDBos9859.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9859, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9859.pdf
+(10883288) persisting BOS report for 9875 to /scripts/reporting/tmp/YTDBos9875.pdf
+(10883288) persisting BOS report for 9880 to /scripts/reporting/tmp/YTDBos9880.pdf
+(10883288) persisting BOS report for 9915 to /scripts/reporting/tmp/YTDBos9915.pdf
+(10883288) persisting BOS report for 9918 to /scripts/reporting/tmp/YTDBos9918.pdf
+(10883288) persisting BOS report for 9921 to /scripts/reporting/tmp/YTDBos9921.pdf
+(10883288) ** ERROR: An error occurred generating YTD BOS report for 9921, RC=1
+(10883288) removing /scripts/reporting/tmp/YTDBos9921.pdf
+(10883288) persisting BOS report for 9954 to /scripts/reporting/tmp/YTDBos9954.pdf
+(10883288) persisting BOS report for 9956 to /scripts/reporting/tmp/YTDBos9956.pdf
+(10883288) persisting BOS report for 9972 to /scripts/reporting/tmp/YTDBos9972.pdf
+(10883288) persisting BOS report for 9973 to /scripts/reporting/tmp/YTDBos9973.pdf
+(10883288) Creating /scripts/reporting/tmp/YTDBosReports_03032014_043449.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(10883288) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10883288) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10883288) Cleaning up YTD Bos pdf files
+(10883288) cleaning up /scripts/reporting/tmp/bos002.results
+(10883288) finished Mon Mar  3 04:34:50 EST 2014
+
+(12132490) started: Mon Mar  3 19:00:00 EST 2014
+(12132490) Querying the database to see if this is the first Monday of the fiscal period
+(12132490) This is the first Monday of the fiscal period, querying the database for all retail centers
+(12132490) /scripts/reporting/tmp/bos002.results exists and is not empty
+(12132490) persisting BOS report for 0020 to /scripts/reporting/tmp/YTDBos0020.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 0020, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos0020.pdf
+(12132490) persisting BOS report for 9011 to /scripts/reporting/tmp/YTDBos9011.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9011, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9011.pdf
+(12132490) persisting BOS report for 9027 to /scripts/reporting/tmp/YTDBos9027.pdf
+(12132490) persisting BOS report for 9030 to /scripts/reporting/tmp/YTDBos9030.pdf
+(12132490) persisting BOS report for 9031 to /scripts/reporting/tmp/YTDBos9031.pdf
+(12132490) persisting BOS report for 9034 to /scripts/reporting/tmp/YTDBos9034.pdf
+(12132490) persisting BOS report for 9035 to /scripts/reporting/tmp/YTDBos9035.pdf
+(12132490) persisting BOS report for 9037 to /scripts/reporting/tmp/YTDBos9037.pdf
+(12132490) persisting BOS report for 9038 to /scripts/reporting/tmp/YTDBos9038.pdf
+(12132490) persisting BOS report for 9041 to /scripts/reporting/tmp/YTDBos9041.pdf
+(12132490) persisting BOS report for 9046 to /scripts/reporting/tmp/YTDBos9046.pdf
+(12132490) persisting BOS report for 9053 to /scripts/reporting/tmp/YTDBos9053.pdf
+(12132490) persisting BOS report for 9056 to /scripts/reporting/tmp/YTDBos9056.pdf
+(12132490) persisting BOS report for 9059 to /scripts/reporting/tmp/YTDBos9059.pdf
+(12132490) persisting BOS report for 9080 to /scripts/reporting/tmp/YTDBos9080.pdf
+(12132490) persisting BOS report for 9090 to /scripts/reporting/tmp/YTDBos9090.pdf
+(12132490) persisting BOS report for 9101 to /scripts/reporting/tmp/YTDBos9101.pdf
+(12132490) persisting BOS report for 9110 to /scripts/reporting/tmp/YTDBos9110.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9110, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9110.pdf
+(12132490) persisting BOS report for 9120 to /scripts/reporting/tmp/YTDBos9120.pdf
+(12132490) persisting BOS report for 9130 to /scripts/reporting/tmp/YTDBos9130.pdf
+(12132490) persisting BOS report for 9140 to /scripts/reporting/tmp/YTDBos9140.pdf
+(12132490) persisting BOS report for 9200 to /scripts/reporting/tmp/YTDBos9200.pdf
+(12132490) persisting BOS report for 9204 to /scripts/reporting/tmp/YTDBos9204.pdf
+(12132490) persisting BOS report for 9208 to /scripts/reporting/tmp/YTDBos9208.pdf
+(12132490) persisting BOS report for 9210 to /scripts/reporting/tmp/YTDBos9210.pdf
+(12132490) persisting BOS report for 9212 to /scripts/reporting/tmp/YTDBos9212.pdf
+(12132490) persisting BOS report for 9215 to /scripts/reporting/tmp/YTDBos9215.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9215, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9215.pdf
+(12132490) persisting BOS report for 9230 to /scripts/reporting/tmp/YTDBos9230.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9230, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9230.pdf
+(12132490) persisting BOS report for 9250 to /scripts/reporting/tmp/YTDBos9250.pdf
+(12132490) persisting BOS report for 9281 to /scripts/reporting/tmp/YTDBos9281.pdf
+(12132490) persisting BOS report for 9310 to /scripts/reporting/tmp/YTDBos9310.pdf
+(12132490) persisting BOS report for 9312 to /scripts/reporting/tmp/YTDBos9312.pdf
+(12132490) persisting BOS report for 9315 to /scripts/reporting/tmp/YTDBos9315.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9315, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9315.pdf
+(12132490) persisting BOS report for 9321 to /scripts/reporting/tmp/YTDBos9321.pdf
+(12132490) persisting BOS report for 9351 to /scripts/reporting/tmp/YTDBos9351.pdf
+(12132490) persisting BOS report for 9352 to /scripts/reporting/tmp/YTDBos9352.pdf
+(12132490) persisting BOS report for 9370 to /scripts/reporting/tmp/YTDBos9370.pdf
+(12132490) persisting BOS report for 9390 to /scripts/reporting/tmp/YTDBos9390.pdf
+(12132490) persisting BOS report for 9391 to /scripts/reporting/tmp/YTDBos9391.pdf
+(12132490) persisting BOS report for 9404 to /scripts/reporting/tmp/YTDBos9404.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9404, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9404.pdf
+(12132490) persisting BOS report for 9405 to /scripts/reporting/tmp/YTDBos9405.pdf
+(12132490) persisting BOS report for 9407 to /scripts/reporting/tmp/YTDBos9407.pdf
+(12132490) persisting BOS report for 9410 to /scripts/reporting/tmp/YTDBos9410.pdf
+(12132490) persisting BOS report for 9412 to /scripts/reporting/tmp/YTDBos9412.pdf
+(12132490) persisting BOS report for 9415 to /scripts/reporting/tmp/YTDBos9415.pdf
+(12132490) persisting BOS report for 9417 to /scripts/reporting/tmp/YTDBos9417.pdf
+(12132490) persisting BOS report for 9425 to /scripts/reporting/tmp/YTDBos9425.pdf
+(12132490) persisting BOS report for 9436 to /scripts/reporting/tmp/YTDBos9436.pdf
+(12132490) persisting BOS report for 9450 to /scripts/reporting/tmp/YTDBos9450.pdf
+(12132490) persisting BOS report for 9460 to /scripts/reporting/tmp/YTDBos9460.pdf
+(12132490) persisting BOS report for 9479 to /scripts/reporting/tmp/YTDBos9479.pdf
+(12132490) persisting BOS report for 9480 to /scripts/reporting/tmp/YTDBos9480.pdf
+(12132490) persisting BOS report for 9500 to /scripts/reporting/tmp/YTDBos9500.pdf
+(12132490) persisting BOS report for 9509 to /scripts/reporting/tmp/YTDBos9509.pdf
+(12132490) persisting BOS report for 9515 to /scripts/reporting/tmp/YTDBos9515.pdf
+(12132490) persisting BOS report for 9525 to /scripts/reporting/tmp/YTDBos9525.pdf
+(12132490) persisting BOS report for 9535 to /scripts/reporting/tmp/YTDBos9535.pdf
+(12132490) persisting BOS report for 9550 to /scripts/reporting/tmp/YTDBos9550.pdf
+(12132490) persisting BOS report for 9562 to /scripts/reporting/tmp/YTDBos9562.pdf
+(12132490) persisting BOS report for 9575 to /scripts/reporting/tmp/YTDBos9575.pdf
+(12132490) persisting BOS report for 9599 to /scripts/reporting/tmp/YTDBos9599.pdf
+(12132490) persisting BOS report for 9600 to /scripts/reporting/tmp/YTDBos9600.pdf
+(12132490) persisting BOS report for 9609 to /scripts/reporting/tmp/YTDBos9609.pdf
+(12132490) persisting BOS report for 9615 to /scripts/reporting/tmp/YTDBos9615.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9615, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9615.pdf
+(12132490) persisting BOS report for 9619 to /scripts/reporting/tmp/YTDBos9619.pdf
+(12132490) persisting BOS report for 9630 to /scripts/reporting/tmp/YTDBos9630.pdf
+(12132490) persisting BOS report for 9635 to /scripts/reporting/tmp/YTDBos9635.pdf
+(12132490) persisting BOS report for 9640 to /scripts/reporting/tmp/YTDBos9640.pdf
+(12132490) persisting BOS report for 9650 to /scripts/reporting/tmp/YTDBos9650.pdf
+(12132490) persisting BOS report for 9675 to /scripts/reporting/tmp/YTDBos9675.pdf
+(12132490) persisting BOS report for 9690 to /scripts/reporting/tmp/YTDBos9690.pdf
+(12132490) persisting BOS report for 9700 to /scripts/reporting/tmp/YTDBos9700.pdf
+(12132490) persisting BOS report for 9704 to /scripts/reporting/tmp/YTDBos9704.pdf
+(12132490) persisting BOS report for 9706 to /scripts/reporting/tmp/YTDBos9706.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9706, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9706.pdf
+(12132490) persisting BOS report for 9713 to /scripts/reporting/tmp/YTDBos9713.pdf
+(12132490) persisting BOS report for 9720 to /scripts/reporting/tmp/YTDBos9720.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9720, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9720.pdf
+(12132490) persisting BOS report for 9721 to /scripts/reporting/tmp/YTDBos9721.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9721, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9721.pdf
+(12132490) persisting BOS report for 9725 to /scripts/reporting/tmp/YTDBos9725.pdf
+(12132490) persisting BOS report for 9750 to /scripts/reporting/tmp/YTDBos9750.pdf
+(12132490) persisting BOS report for 9751 to /scripts/reporting/tmp/YTDBos9751.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9751, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9751.pdf
+(12132490) persisting BOS report for 9770 to /scripts/reporting/tmp/YTDBos9770.pdf
+(12132490) persisting BOS report for 9775 to /scripts/reporting/tmp/YTDBos9775.pdf
+(12132490) persisting BOS report for 9780 to /scripts/reporting/tmp/YTDBos9780.pdf
+(12132490) persisting BOS report for 9800 to /scripts/reporting/tmp/YTDBos9800.pdf
+(12132490) ** ERROR: An error occurred generating YTD BOS report for 9800, RC=1
+(12132490) removing /scripts/reporting/tmp/YTDBos9800.pdf
+(12132490) persisting BOS report for 9801 to /scripts/reporting/tmp/YTDBos9801.pdf
+(12132490) persisting BOS report for 9815 to /scripts/reporting/tmp/YTDBos9815.pdf
+(12132490) persisting BOS report for 9828 to /scripts/reporting/tmp/YTDBos9828.pdf
+(12132490) persisting BOS report for 9850 to /scripts/reporting/tmp/YTDBos9850.pdf
+(12132490) persisting BOS report for 9859 to /scripts/reporting/tmp/YTDBos9859.pdf
+(12132490) persisting BOS report for 9875 to /scripts/reporting/tmp/YTDBos9875.pdf
+(12132490) persisting BOS report for 9880 to /scripts/reporting/tmp/YTDBos9880.pdf
+(12132490) persisting BOS report for 9915 to /scripts/reporting/tmp/YTDBos9915.pdf
+(12132490) persisting BOS report for 9918 to /scripts/reporting/tmp/YTDBos9918.pdf
+(12132490) persisting BOS report for 9921 to /scripts/reporting/tmp/YTDBos9921.pdf
+(12132490) persisting BOS report for 9954 to /scripts/reporting/tmp/YTDBos9954.pdf
+(12132490) persisting BOS report for 9956 to /scripts/reporting/tmp/YTDBos9956.pdf
+(12132490) persisting BOS report for 9972 to /scripts/reporting/tmp/YTDBos9972.pdf
+(12132490) persisting BOS report for 9973 to /scripts/reporting/tmp/YTDBos9973.pdf
+(12132490) Creating /scripts/reporting/tmp/YTDBosReports_03032014_190541.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(12132490) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12132490) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12132490) Cleaning up YTD Bos pdf files
+(12132490) cleaning up /scripts/reporting/tmp/bos002.results
+(12132490) finished Mon Mar  3 19:05:42 EST 2014
+
+(15974496) started: Mon Mar 10 19:00:00 EDT 2014
+(15974496) Querying the database to see if this is the first Monday of the fiscal period
+(15974496) This is not the first Monday of the fiscal period, exiting
+
+(15388764) started: Mon Mar 17 19:00:00 EDT 2014
+(15388764) Querying the database to see if this is the first Monday of the fiscal period
+(15388764) This is not the first Monday of the fiscal period, exiting
+
+(18227342) started: Mon Mar 24 19:00:00 EDT 2014
+(18227342) Querying the database to see if this is the first Monday of the fiscal period
+(18227342) This is not the first Monday of the fiscal period, exiting

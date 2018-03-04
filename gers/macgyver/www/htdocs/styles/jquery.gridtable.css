@@ -1,0 +1,277 @@
+table.gridtable {
+
+	width: 0px;
+	
+	margin: 0px;
+	padding: 0px;
+
+	table-layout: fixed;
+	border-collapse: collapse;
+		
+	z-index: 1;
+	background-color: #DCDCDC;
+}
+
+.gridtable thead td,
+.gridtable thead th {
+	
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	text-align: left;
+	
+	vertical-align: middle;
+	overflow: hidden;
+	
+	margin: 0px;
+	padding: 2px;
+	border: 1px solid black;
+
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	user-select: none;
+	z-index: 2;
+}
+
+.gridtable tbody td {
+	
+	font-family: Verdana, sans-serif;
+	color: black;
+		
+	overflow: hidden;
+	cursor: default;
+	
+	margin: 0px;
+	padding: 2px;
+	padding-left: 10px;
+	border: 1px dotted #ABABAB;
+	z-index: 2;
+}
+.gridtable tbody td a {
+	color: black;
+}
+
+.gridtable tfoot td {
+	margin: 0px;
+	padding: 2px;
+	border: 1px solid black;
+	z-index: 2;
+}
+
+/* overflow:auto on tbody BROKEN
+.gridtable tbody {
+	height: 50px;
+	overflow: auto;
+	display: block;
+	display: table-row-group;	
+}*/
+
+.gt-mask {
+	position: absolute;
+	z-index: 10;
+	cursor: wait;
+	background: #E3E3E3 url('img/block_bg.png');
+}
+
+.gt-mask > div {
+	width:  100%;
+	height: 100%;
+	background: url('img/block.gif') no-repeat center center;
+	text-align: center;
+	vertical-align: middle;
+}
+
+th.gt-sort {
+	cursor: pointer;	
+}
+th .gt-sort {
+	cursor: pointer;
+	display: block;
+	float: left;
+	width: 20px;
+	height: 20px;
+}
+
+th .gt-label {
+	cursor: pointer;
+	display: block;
+	float: left;
+}
+
+/*
+th .gt-filter {
+	cursor: pointer;
+	float: right;
+	width: 20px;
+	height: 20px;
+	background: url('img/filter.png') no-repeat center right;	
+}
+
+th.gt-filtering {
+	color: white;
+	background-color: #444444;
+}
+
+#gt-filters {
+	color: white;
+	background-color: #444444;
+	border: 1px solid black;
+}
+*/
+
+.gt-sort-asc,
+.gt-sort-desc {
+	text-decoration: underline;
+}
+
+.gt-sort-none {
+	background: url('img/sort_none.png') no-repeat center right;	
+}
+
+.gt-sort-asc {
+	background: url('img/sort_asc.png') no-repeat center right;	
+}
+
+.gt-sort-desc {
+	background: url('img/sort_desc.png') no-repeat center right;
+}
+
+tr.gt-odd td {
+	background-color: #F9FBFF;
+}
+
+tr.gt-even td {
+	background-color: #FFFFFF;
+}
+
+tr.gt-added td {
+	background-color: #7FE282;	
+}
+
+tr.gt-removed td {
+	color: #F2F2F2;
+	background-color: #444444;
+	text-decoration: line-through;
+}
+
+.gridtable tbody tr td.gt-edit {
+	//background-color: white;
+}
+
+.gridtable tbody tr td.gt-edited {
+	background-image: url('img/dirty.png');
+	background-repeat: no-repeat;
+	background-position: top left; 
+}
+
+.gridtable td.gt-editing {
+	background-color: yellow;
+}
+
+.gridtable tr.gt-hover td {
+	background-color: #EEF6FF;
+}
+
+
+.gridtable th.gt-edit {
+	
+}
+
+.gridtable .gt-editor-text {
+	margin: 0;
+	padding: 0;
+	border: 1px solid black;
+	border: 0;
+	width: 100%;
+	height: 100%;
+	background-color: transparent;
+	font-size: 0.9em;
+	font-family: 0.9em;
+}
+
+.gt-page-sel {
+	font-family: Tahoma;
+	font-size: 0.9em;
+	display: block;
+	float: left;
+	margin: 3px;
+	text-align: center;
+	vertical-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.gt-page-sel ol {
+	display: block;
+	float: left;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.gt-page-sel li {
+	display: block;
+	float: left;
+	padding: 1px;
+	margin: 0 2px;
+	border: 1px solid black;
+	cursor: pointer;
+}
+
+.gt-page-sel li.gt-current-page {
+	background-color: #A3D1FF;
+}
+
+.gt-page-sel li.gt-hover {
+	background-color: #D6EAFF;
+}
+
+	
+.gt-page-first,
+.gt-page-prev,
+.gt-page-next,
+.gt-page-last,
+.gt-page-load {
+	display: block;
+	float: left;
+	margin: 3px;	
+	height: 16px;
+	width: 16px;
+	text-indent: -1000px;
+	overflow: hidden;
+}
+
+.gt-page-first {
+	background: url('img/page_first.png') no-repeat center;
+}
+
+.gt-page-first-off {
+	background: url('img/page_first_off.png') no-repeat center;
+}
+
+.gt-page-prev {
+	background: url('img/page_prev.png') no-repeat center;
+}
+
+.gt-page-prev-off {
+	background: url('img/page_prev_off.png') no-repeat center;
+}
+
+.gt-page-next {
+	background: url('img/page_next.png') no-repeat center;
+}
+
+.gt-page-next-off {
+	background: url('img/page_next_off.png') no-repeat center;
+}
+
+.gt-page-last {
+	background: url('img/page_last.png') no-repeat center;
+}
+
+.gt-page-last-off {
+	background: url('img/page_last_off.png') no-repeat center;
+}
+
+.gt-page-load.gt-page-loading {
+	background: url('img/page_load.png') no-repeat center;
+}

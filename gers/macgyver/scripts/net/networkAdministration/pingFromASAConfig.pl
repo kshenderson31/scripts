@@ -1,0 +1,218 @@
+use strict;
+use warnings;
+
+
+while(<DATA>)
+{
+    chomp($_);
+    my($tag, $typeOrIP, $rest) = split(" ", $_);
+    print "|$tag|$typeOrIP|\n";
+    if(lc($tag) eq "network-object")
+    {
+        if(lc($typeOrIP) ne "host")
+        {
+            print "Pinging $typeOrIP\n";    
+            system("ping $typeOrIP");     
+        }
+    }
+}
+
+__DATA__
+object-group network Symphony
+object-group network DC_LAN
+object-group network VPN_Client_Local_LAN_Default
+ network-object host 0.0.0.0
+object-group network Paradies_HQ_LANs_1722000_16
+ network-object 172.20.0.0 255.255.0.0
+object-group network Paradies_HQ_LANs
+ network-object 172.20.0.0 255.255.0.0
+ network-object 172.21.0.0 255.255.0.0
+ network-object 172.23.0.0 255.255.0.0
+object-group network Tropicana-NJ
+ network-object 172.21.50.0 255.255.255.0
+ network-object host 138.89.254.26
+object-group network CoSpr-COS-NAG
+ network-object 172.21.12.0 255.255.255.0
+ network-object host 64.144.45.34
+object-group network Dayto-DAY-NAB
+ network-object 172.21.10.0 255.255.255.0
+ network-object host 64.144.44.250
+object-group network Paradies_LANs_Admin
+ network-object 172.20.0.0 255.255.0.0
+ network-object 172.21.0.0 255.255.0.0
+ network-object host 64.144.44.250
+ network-object host 66.161.241.54
+ network-object host 207.224.16.89
+ network-object host 64.144.45.34
+ network-object host 64.144.39.34
+object-group network LasVe-LAS-RCT
+ network-object 172.21.9.0 255.255.255.0
+ network-object host 66.166.81.122
+object-group network SanAn-SNA-TPS
+ network-object 172.21.8.0 255.255.255.0
+ network-object host 68.167.157.194
+object-group network Test-TST-TST
+ network-object 172.21.99.0 255.255.255.0
+ network-object host 68.71.190.107
+object-group network Cinci-CVG-OFF
+ network-object 172.21.11.0 255.255.255.0
+ network-object host 216.196.250.202
+object-group network Prtlnd-PDX-TMT
+ network-object 172.21.13.0 255.255.255.0
+ network-object host 64.144.39.34
+object-group network GLS-MGMT-SUPERNET
+ network-object 172.31.254.0 255.255.254.0
+object-group network Hartford-BDL-WRH
+ network-object 172.21.17.0 255.255.255.0
+ network-object 64.252.154.8 255.255.255.248
+object-group network Sara-SRQ-MGF
+ network-object 172.21.18.0 255.255.255.0
+ network-object host 66.14.182.80
+object-group network KC-MCI-WHR
+ network-object 172.21.19.0 255.255.255.0
+ network-object host 69.34.201.8
+object-group network STLOUIS-STL-WHS
+ network-object 172.21.22.0 255.255.255.0
+ network-object host 67.65.140.33
+object-group network STLOUIS-STL-LPO
+ network-object 172.21.21.0 255.255.255.0
+ network-object host 67.66.157.81
+object-group network STLOUIS-STL-BYO
+ network-object 172.21.20.0 255.255.255.0
+ network-object host 67.66.157.33
+object-group network PMSPG-PMP-OFF
+ network-object 172.21.23.0 255.255.255.0
+ network-object host 66.14.186.40
+object-group network Raleigh
+ network-object 172.21.39.0 255.255.255.0
+object-group network WASDC-JFK-WHS
+ network-object 172.21.89.0 255.255.255.0
+ network-object host 70.107.225.202
+object-group network LEXIN-LEX-OFF
+ network-object 172.21.24.0 255.255.255.0
+ network-object host 98.19.106.58
+object-group network Paradies_HQ_GERS_Only
+ network-object 172.20.8.0 255.255.255.0
+object-group network DETROI-DTW-OFF
+ network-object 10.0.0.0 255.255.0.0
+ network-object host 172.20.3.63
+ network-object host 172.20.3.60
+ network-object host 172.20.3.53
+ network-object 172.20.196.0 255.255.255.0
+ network-object 172.20.182.0 255.255.255.0
+object-group network SAVAN-SAV-WHS
+ network-object 172.21.25.0 255.255.255.0
+ network-object host 65.160.187.6
+object-group network TPS-VPN-MGT
+ network-object 172.21.250.0 255.255.255.0
+ network-object host 68.184.144.99
+object-group network MILWAUKEE-WI
+ network-object 172.21.31.0 255.255.255.0
+ network-object host 68.79.137.97
+object-group network PHOEN-AZ-Term2
+ network-object 172.21.32.0 255.255.255.0
+ network-object host 207.225.166.153
+object-group network PHOEN-AZ-Term3
+ network-object 172.21.33.0 255.255.255.0
+ network-object host 207.225.166.137
+object-group network MADISON-WI-MSN
+ network-object 172.21.30.0 255.255.255.0
+ network-object host 69.11.139.143
+object-group network GLS_management
+ network-object 172.31.255.0 255.255.255.0
+ network-object 172.31.254.0 255.255.255.0
+ network-object 172.20.0.0 255.255.0.0
+ network-object 172.21.0.0 255.255.0.0
+object-group network Santa_Ana
+ network-object 172.21.40.0 255.255.255.0
+object-group network Harlington
+ network-object 172.21.41.0 255.255.255.0
+object-group network Houston-Hilton
+ network-object 172.21.42.0 255.255.255.0
+object-group network TPS-GERS
+ network-object 172.30.255.128 255.255.255.192
+object-group network TPS-GERS_NAT_
+ network-object host 172.30.9.129
+object-group network Burbank
+ network-object 172.21.45.0 255.255.255.0
+object-group network L2L_TPS-Portland-Maine_remote
+ network-object 172.21.47.0 255.255.255.0
+object-group network TPS-HQ-BELLSOUTH
+ network-object 172.21.240.0 255.255.255.0
+ network-object host 209.215.101.162
+object-group network Palm_Springs
+ network-object 172.21.23.0 255.255.255.0
+object-group network Baton_Rouge
+ network-object 172.21.35.0 255.255.255.0
+ network-object host 68.96.151.83
+object-group network DVR-Gaylord_server
+ network-object host 172.20.190.6
+object-group network Secure-TPS_Audit
+ network-object host 172.20.8.62
+ network-object host 172.20.8.27
+ network-object host 172.20.8.63
+object-group network GLS-MGMT-NETS
+ network-object 172.31.254.0 255.255.255.0
+ network-object 172.31.255.0 255.255.255.0
+object-group network XBR_server
+ network-object host 172.20.8.54
+object-group network Midland_TX
+ network-object 172.21.61.0 255.255.255.0
+object-group network GA-Aquarium-Ofc
+ network-object 10.10.22.0 255.255.255.0
+ network-object host 66.20.220.10
+object-group network Knoxville-Ofc
+ network-object 172.21.59.0 255.255.255.0
+ network-object host 216.187.237.157
+object-group network PSC-WHSE
+ network-object 172.21.75.0 255.255.255.0
+ network-object host 74.246.140.242
+object-group network Paradies-Detriot
+ network-object 172.20.0.0 255.255.0.0
+ network-object 172.31.254.0 255.255.254.0
+object-group network VPNMemphis2
+ network-object 172.21.81.0 255.255.255.0
+object-group network Sonicwall_PSC
+ network-object 172.20.8.0 255.255.255.0
+object-group network OUTSIDE_VPN_PAT
+ network-object 172.20.0.0 255.254.0.0
+ network-object 172.23.0.0 255.255.0.0
+object-group network Fifth_Third_remote
+ network-object host 192.152.100.10
+ network-object host 192.152.100.50
+object-group network Fifth_Third_local
+ network-object host 172.20.6.173
+ network-object host 172.20.6.174
+ network-object host 172.20.6.175
+ network-object host 172.20.8.93
+ network-object host 10.0.9.20
+ network-object host 10.0.16.6
+ network-object host 10.0.8.135
+object-group network Paradies_HQ_LANs_GLS
+ network-object 172.20.0.0 255.255.0.0
+ network-object 172.31.254.0 255.255.254.0
+object-group network Postec_Local
+ network-object host KenHenderson_Wireless
+ network-object host KenHenderson_Ethernet
+ network-object host Merchutils1
+object-group network Postec_Remote
+ network-object host Micros_Dev
+ network-object host Micros_Prod
+object-group network Santa_Ana_WHSE_2
+ network-object 172.21.125.0 255.255.255.0
+object-group network Atlanta-Airport
+ network-object 172.26.10.0 255.255.255.0
+object-group network CVI-LAN
+ network-object 10.1.50.0 255.255.255.0
+object-group network servernetwork
+object-group network Clearview
+ group-object Paradies_HQ_LANs_1722000_16
+ network-object 172.20.7.0 255.255.255.0
+object-group network backup-backbone
+ description backup-backbone
+object-group network Reno-Tahoe-Airport
+ network-object 172.21.46.0 255.255.255.0
+object-group network LasVegas_PGA_Airport
+ network-object 172.21.126.0 255.255.255.0
+object-group network Las-Vegas-PGA-Airport
+ network-object 172.21.126.0 255.255.255.0

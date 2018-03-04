@@ -1,0 +1,132 @@
+
+(10490036) started: Thu Jan  2 15:10:50 EST 2014
+(10490036) Querying the database to see if this is the first Monday of the fiscal period
+(10490036) This is the first Monday of the fiscal period, getting all districts
+(10490036) /scripts/reporting/tmp/bos004.ovrd.results exists and is not empty
+(10490036) persisting YTD BOS report for district 9011 to /scripts/reporting/tmp/YTDDistBos9011.pdf
+(10490036) persisting YTD BOS report for district 0005 to /scripts/reporting/tmp/YTDDistBos0005.pdf
+(10490036) persisting YTD BOS report for district 0004 to /scripts/reporting/tmp/YTDDistBos0004.pdf
+(10490036) persisting YTD BOS report for district 0002 to /scripts/reporting/tmp/YTDDistBos0002.pdf
+(10490036) persisting YTD BOS report for district 0009 to /scripts/reporting/tmp/YTDDistBos0009.pdf
+(10490036) persisting YTD BOS report for district 0007 to /scripts/reporting/tmp/YTDDistBos0007.pdf
+(10490036) persisting YTD BOS report for district 0010 to /scripts/reporting/tmp/YTDDistBos0010.pdf
+(10490036) persisting YTD BOS report for district 0006 to /scripts/reporting/tmp/YTDDistBos0006.pdf
+(10490036) persisting YTD BOS report for district 0008 to /scripts/reporting/tmp/YTDDistBos0008.pdf
+(10490036) persisting YTD BOS report for district 0003 to /scripts/reporting/tmp/YTDDistBos0003.pdf
+(10490036) Creating /scripts/reporting/tmp/YTDDistBosReports_01022014_151136.zip
+(10490036) sending attachment email to ken.henderson@theparadiesshops.com
+(10490036) successfully sent email to ken.henderson@theparadiesshops.com
+(10490036) Cleaning up YTD District Bos pdf files
+(10490036) cleaning up /scripts/reporting/tmp/bos004.ovrd.results
+(10490036) finished Thu Jan  2 15:11:37 EST 2014
+
+(6975702) started: Thu Jan  2 15:21:17 EST 2014
+(6975702) Querying the database to see if this is the first Monday of the fiscal period
+(6975702) This is the first Monday of the fiscal period, getting all districts
+(6975702) /scripts/reporting/tmp/bos004.ovrd.results exists and is not empty
+(6975702) persisting YTD BOS report for district 9011 to /scripts/reporting/tmp/YTDDistBos9011.pdf
+(6975702) persisting YTD BOS report for district 0005 to /scripts/reporting/tmp/YTDDistBos0005.pdf
+(6975702) persisting YTD BOS report for district 0004 to /scripts/reporting/tmp/YTDDistBos0004.pdf
+(6975702) persisting YTD BOS report for district 0002 to /scripts/reporting/tmp/YTDDistBos0002.pdf
+(6975702) persisting YTD BOS report for district 0009 to /scripts/reporting/tmp/YTDDistBos0009.pdf
+(6975702) persisting YTD BOS report for district 0007 to /scripts/reporting/tmp/YTDDistBos0007.pdf
+(6975702) persisting YTD BOS report for district 0010 to /scripts/reporting/tmp/YTDDistBos0010.pdf
+(6975702) persisting YTD BOS report for district 0006 to /scripts/reporting/tmp/YTDDistBos0006.pdf
+(6975702) persisting YTD BOS report for district 0008 to /scripts/reporting/tmp/YTDDistBos0008.pdf
+(6975702) persisting YTD BOS report for district 0003 to /scripts/reporting/tmp/YTDDistBos0003.pdf
+(6975702) Creating /scripts/reporting/tmp/YTDDistBosReports_01022014_152201.zip
+(6975702) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(6975702) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(6975702) Cleaning up YTD District Bos pdf files
+(6975702) cleaning up /scripts/reporting/tmp/bos004.ovrd.results
+(6975702) finished Thu Jan  2 15:22:01 EST 2014
+
+(11362392) started: Thu Jan  2 19:06:07 EST 2014
+(11362392) Querying the database to see if this is the first Monday of the fiscal period
+(11362392) This is the first Monday of the fiscal period, getting all districts
+(11362392) /scripts/reporting/tmp/bos004.ovrd.results exists and is not empty
+(11362392) persisting YTD BOS report for district 9011 to /scripts/reporting/tmp/YTDDistBos9011.pdf
+(11362392) persisting YTD BOS report for district 0005 to /scripts/reporting/tmp/YTDDistBos0005.pdf
+(11362392) persisting YTD BOS report for district 0004 to /scripts/reporting/tmp/YTDDistBos0004.pdf
+(11362392) persisting YTD BOS report for district 0002 to /scripts/reporting/tmp/YTDDistBos0002.pdf
+(11362392) persisting YTD BOS report for district 0009 to /scripts/reporting/tmp/YTDDistBos0009.pdf
+(11362392) persisting YTD BOS report for district 0007 to /scripts/reporting/tmp/YTDDistBos0007.pdf
+(11362392) persisting YTD BOS report for district 0010 to /scripts/reporting/tmp/YTDDistBos0010.pdf
+(11362392) persisting YTD BOS report for district 0006 to /scripts/reporting/tmp/YTDDistBos0006.pdf
+(11362392) persisting YTD BOS report for district 0008 to /scripts/reporting/tmp/YTDDistBos0008.pdf
+(11362392) persisting YTD BOS report for district 0003 to /scripts/reporting/tmp/YTDDistBos0003.pdf
+(11362392) Creating /scripts/reporting/tmp/YTDDistBosReports_01022014_190644.zip
+(11362392) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(11362392) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(11362392) Cleaning up YTD District Bos pdf files
+(11362392) cleaning up /scripts/reporting/tmp/bos004.ovrd.results
+(11362392) finished Thu Jan  2 19:06:45 EST 2014
+
+(10199056) started: Thu Jan  2 21:53:22 EST 2014
+(10199056) Querying the database to see if this is the first Monday of the fiscal period
+(10199056) This is the first Monday of the fiscal period, getting all districts
+(10199056) /scripts/reporting/tmp/bos004.ovrd.results exists and is not empty
+(10199056) persisting YTD BOS report for district 9011 to /scripts/reporting/tmp/YTDDistBos9011.pdf
+(10199056) persisting YTD BOS report for district 0005 to /scripts/reporting/tmp/YTDDistBos0005.pdf
+(10199056) persisting YTD BOS report for district 0004 to /scripts/reporting/tmp/YTDDistBos0004.pdf
+(10199056) persisting YTD BOS report for district 0002 to /scripts/reporting/tmp/YTDDistBos0002.pdf
+(10199056) persisting YTD BOS report for district 0009 to /scripts/reporting/tmp/YTDDistBos0009.pdf
+(10199056) persisting YTD BOS report for district 0007 to /scripts/reporting/tmp/YTDDistBos0007.pdf
+(10199056) persisting YTD BOS report for district 0010 to /scripts/reporting/tmp/YTDDistBos0010.pdf
+(10199056) persisting YTD BOS report for district 0006 to /scripts/reporting/tmp/YTDDistBos0006.pdf
+(10199056) persisting YTD BOS report for district 0008 to /scripts/reporting/tmp/YTDDistBos0008.pdf
+(10199056) persisting YTD BOS report for district 0003 to /scripts/reporting/tmp/YTDDistBos0003.pdf
+(10199056) Creating /scripts/reporting/tmp/YTDDistBosReports_01022014_215400.zip
+(10199056) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10199056) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10199056) Cleaning up YTD District Bos pdf files
+(10199056) cleaning up /scripts/reporting/tmp/bos004.ovrd.results
+(10199056) finished Thu Jan  2 21:54:01 EST 2014
+
+(12455954) started: Tue Jan  7 13:54:04 EST 2014
+(12455954) Querying the database to see if this is the first Monday of the fiscal period
+(12455954) This is the first Monday of the fiscal period, getting all districts
+(12455954) /scripts/reporting/tmp/bos004.ovrd.results exists and is not empty
+(12455954) persisting YTD BOS report for district 9011 to /scripts/reporting/tmp/YTDDistBos9011.pdf
+(12455954) persisting YTD BOS report for district 0005 to /scripts/reporting/tmp/YTDDistBos0005.pdf
+(12455954) persisting YTD BOS report for district 0004 to /scripts/reporting/tmp/YTDDistBos0004.pdf
+(12455954) persisting YTD BOS report for district 0002 to /scripts/reporting/tmp/YTDDistBos0002.pdf
+(12455954) persisting YTD BOS report for district 0009 to /scripts/reporting/tmp/YTDDistBos0009.pdf
+(12455954) persisting YTD BOS report for district 0007 to /scripts/reporting/tmp/YTDDistBos0007.pdf
+(12455954) persisting YTD BOS report for district 0010 to /scripts/reporting/tmp/YTDDistBos0010.pdf
+(12455954) persisting YTD BOS report for district 0006 to /scripts/reporting/tmp/YTDDistBos0006.pdf
+(12455954) persisting YTD BOS report for district 0008 to /scripts/reporting/tmp/YTDDistBos0008.pdf
+(12455954) persisting YTD BOS report for district 0003 to /scripts/reporting/tmp/YTDDistBos0003.pdf
+(12455954) Creating /scripts/reporting/tmp/YTDDistBosReports_01072014_135446.zip
+(12455954) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12455954) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12455954) Cleaning up YTD District Bos pdf files
+(12455954) cleaning up /scripts/reporting/tmp/bos004.ovrd.results
+(12455954) finished Tue Jan  7 13:54:47 EST 2014
+
+(14672030) started: Tue Jan 28 09:03:50 EST 2014
+(14672030) Querying the database to see if this is the first Monday of the fiscal period
+(14672030) This is the first Monday of the fiscal period, getting all districts
+(14672030) /scripts/reporting/tmp/bos004.ovrd.results exists and is not empty
+(14672030) persisting YTD BOS report for district 9011 to /scripts/reporting/tmp/YTDDistBos9011.pdf
+(14672030) persisting YTD BOS report for district 0018 to /scripts/reporting/tmp/YTDDistBos0018.pdf
+(14672030) persisting YTD BOS report for district 0004 to /scripts/reporting/tmp/YTDDistBos0004.pdf
+(14672030) persisting YTD BOS report for district 0016 to /scripts/reporting/tmp/YTDDistBos0016.pdf
+(14672030) persisting YTD BOS report for district 0013 to /scripts/reporting/tmp/YTDDistBos0013.pdf
+(14672030) persisting YTD BOS report for district 0012 to /scripts/reporting/tmp/YTDDistBos0012.pdf
+(14672030) persisting YTD BOS report for district 0011 to /scripts/reporting/tmp/YTDDistBos0011.pdf
+(14672030) persisting YTD BOS report for district 0017 to /scripts/reporting/tmp/YTDDistBos0017.pdf
+(14672030) persisting YTD BOS report for district 0014 to /scripts/reporting/tmp/YTDDistBos0014.pdf
+(14672030) persisting YTD BOS report for district 0015 to /scripts/reporting/tmp/YTDDistBos0015.pdf
+(14672030) Creating /scripts/reporting/tmp/YTDDistBosReports_01282014_090613.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(14672030) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(14672030) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(14672030) Cleaning up YTD District Bos pdf files
+(14672030) cleaning up /scripts/reporting/tmp/bos004.ovrd.results
+(14672030) finished Tue Jan 28 09:06:14 EST 2014

@@ -1,0 +1,139 @@
+
+(10432540) started: Mon Jan  6 05:30:00 EST 2014
+(10432540) Querying the database to see if this is the first Monday of the fiscal period
+(10432540) This is not the first Monday of the fiscal period, exiting
+
+(10240024) started: Mon Jan 13 05:30:00 EST 2014
+(10240024) Querying the database to see if this is the first Monday of the fiscal period
+(10240024) This is not the first Monday of the fiscal period, exiting
+
+(12886072) started: Mon Jan 20 05:30:00 EST 2014
+(12886072) Querying the database to see if this is the first Monday of the fiscal period
+(12886072) This is not the first Monday of the fiscal period, exiting
+
+(13189366) started: Mon Jan 27 05:30:01 EST 2014
+(13189366) Querying the database to see if this is the first Monday of the fiscal period
+(13189366) This is the first Monday of the fiscal period, getting all districts
+(13189366) /scripts/reporting/tmp/bos004.results exists and is not empty
+(13189366) persisting YTD BOS report for district 9011 to /scripts/reporting/tmp/YTDDistBos9011.pdf
+(13189366) persisting YTD BOS report for district 0005 to /scripts/reporting/tmp/YTDDistBos0005.pdf
+(13189366) persisting YTD BOS report for district 0004 to /scripts/reporting/tmp/YTDDistBos0004.pdf
+(13189366) persisting YTD BOS report for district 0002 to /scripts/reporting/tmp/YTDDistBos0002.pdf
+(13189366) persisting YTD BOS report for district 0009 to /scripts/reporting/tmp/YTDDistBos0009.pdf
+(13189366) persisting YTD BOS report for district 0007 to /scripts/reporting/tmp/YTDDistBos0007.pdf
+(13189366) persisting YTD BOS report for district 0010 to /scripts/reporting/tmp/YTDDistBos0010.pdf
+(13189366) persisting YTD BOS report for district 0006 to /scripts/reporting/tmp/YTDDistBos0006.pdf
+(13189366) persisting YTD BOS report for district 0008 to /scripts/reporting/tmp/YTDDistBos0008.pdf
+(13189366) persisting YTD BOS report for district 0003 to /scripts/reporting/tmp/YTDDistBos0003.pdf
+(13189366) Creating /scripts/reporting/tmp/YTDDistBosReports_01272014_053228.zip
+(13189366) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13189366) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(13189366) Cleaning up YTD District Bos pdf files
+(13189366) cleaning up /scripts/reporting/tmp/bos004.results
+(13189366) finished Mon Jan 27 05:32:29 EST 2014
+
+(11849864) started: Mon Feb  3 05:30:00 EST 2014
+(11849864) Querying the database to see if this is the first Monday of the fiscal period
+(11849864) This is not the first Monday of the fiscal period, exiting
+
+(13271166) started: Mon Feb 10 05:30:00 EST 2014
+(13271166) Querying the database to see if this is the first Monday of the fiscal period
+(13271166) This is not the first Monday of the fiscal period, exiting
+
+(13422684) started: Mon Feb 17 05:30:00 EST 2014
+(13422684) Querying the database to see if this is the first Monday of the fiscal period
+(13422684) This is not the first Monday of the fiscal period, exiting
+
+(17641670) started: Mon Feb 24 05:30:00 EST 2014
+(17641670) Querying the database to see if this is the first Monday of the fiscal period
+(17641670) This is not the first Monday of the fiscal period, exiting
+
+(10916020) started: Mon Mar  3 05:30:00 EST 2014
+(10916020) Querying the database to see if this is the first Monday of the fiscal period
+(10916020) This is the first Monday of the fiscal period, getting all districts
+(10916020) /scripts/reporting/tmp/bos004.results exists and is not empty
+(10916020) persisting YTD BOS report for district 0027 to /scripts/reporting/tmp/YTDDistBos0027.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0027, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0027.pdf
+(10916020) persisting YTD BOS report for district 9011 to /scripts/reporting/tmp/YTDDistBos9011.pdf
+(10916020) persisting YTD BOS report for district 0024 to /scripts/reporting/tmp/YTDDistBos0024.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0024, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0024.pdf
+(10916020) persisting YTD BOS report for district 0004 to /scripts/reporting/tmp/YTDDistBos0004.pdf
+(10916020) persisting YTD BOS report for district 0021 to /scripts/reporting/tmp/YTDDistBos0021.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0021, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0021.pdf
+(10916020) persisting YTD BOS report for district 0025 to /scripts/reporting/tmp/YTDDistBos0025.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0025, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0025.pdf
+(10916020) persisting YTD BOS report for district 0020 to /scripts/reporting/tmp/YTDDistBos0020.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0020, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0020.pdf
+(10916020) persisting YTD BOS report for district 0028 to /scripts/reporting/tmp/YTDDistBos0028.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0028, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0028.pdf
+(10916020) persisting YTD BOS report for district 0023 to /scripts/reporting/tmp/YTDDistBos0023.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0023, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0023.pdf
+(10916020) persisting YTD BOS report for district 0026 to /scripts/reporting/tmp/YTDDistBos0026.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0026, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0026.pdf
+(10916020) persisting YTD BOS report for district 0019 to /scripts/reporting/tmp/YTDDistBos0019.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0019, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0019.pdf
+(10916020) persisting YTD BOS report for district 0022 to /scripts/reporting/tmp/YTDDistBos0022.pdf
+(10916020) ** ERROR: An error occurred generating YTD District BOS report for 0022, RC=1
+(10916020) removing /scripts/reporting/tmp/YTDDistBos0022.pdf
+(10916020) Creating /scripts/reporting/tmp/YTDDistBosReports_03032014_054434.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(10916020) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10916020) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10916020) Cleaning up YTD District Bos pdf files
+(10916020) cleaning up /scripts/reporting/tmp/bos004.results
+(10916020) finished Mon Mar  3 05:44:34 EST 2014
+
+(10973418) started: Mon Mar  3 20:00:00 EST 2014
+(10973418) Querying the database to see if this is the first Monday of the fiscal period
+(10973418) This is the first Monday of the fiscal period, getting all districts
+(10973418) /scripts/reporting/tmp/bos004.results exists and is not empty
+(10973418) persisting YTD BOS report for district 0027 to /scripts/reporting/tmp/YTDDistBos0027.pdf
+(10973418) persisting YTD BOS report for district 9011 to /scripts/reporting/tmp/YTDDistBos9011.pdf
+(10973418) persisting YTD BOS report for district 0024 to /scripts/reporting/tmp/YTDDistBos0024.pdf
+(10973418) persisting YTD BOS report for district 0004 to /scripts/reporting/tmp/YTDDistBos0004.pdf
+(10973418) persisting YTD BOS report for district 0021 to /scripts/reporting/tmp/YTDDistBos0021.pdf
+(10973418) persisting YTD BOS report for district 0025 to /scripts/reporting/tmp/YTDDistBos0025.pdf
+(10973418) persisting YTD BOS report for district 0020 to /scripts/reporting/tmp/YTDDistBos0020.pdf
+(10973418) persisting YTD BOS report for district 0028 to /scripts/reporting/tmp/YTDDistBos0028.pdf
+(10973418) persisting YTD BOS report for district 0023 to /scripts/reporting/tmp/YTDDistBos0023.pdf
+(10973418) persisting YTD BOS report for district 0026 to /scripts/reporting/tmp/YTDDistBos0026.pdf
+(10973418) persisting YTD BOS report for district 0019 to /scripts/reporting/tmp/YTDDistBos0019.pdf
+(10973418) persisting YTD BOS report for district 0022 to /scripts/reporting/tmp/YTDDistBos0022.pdf
+(10973418) Creating /scripts/reporting/tmp/YTDDistBosReports_03032014_201559.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(10973418) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10973418) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10973418) Cleaning up YTD District Bos pdf files
+(10973418) cleaning up /scripts/reporting/tmp/bos004.results
+(10973418) finished Mon Mar  3 20:15:59 EST 2014
+
+(16543916) started: Mon Mar 10 20:00:00 EDT 2014
+(16543916) Querying the database to see if this is the first Monday of the fiscal period
+(16543916) This is not the first Monday of the fiscal period, exiting
+
+(13062378) started: Mon Mar 17 20:00:00 EDT 2014
+(13062378) Querying the database to see if this is the first Monday of the fiscal period
+(13062378) This is not the first Monday of the fiscal period, exiting
+
+(16285912) started: Mon Mar 24 20:00:00 EDT 2014
+(16285912) Querying the database to see if this is the first Monday of the fiscal period
+(16285912) This is not the first Monday of the fiscal period, exiting

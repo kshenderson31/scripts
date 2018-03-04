@@ -1,0 +1,139 @@
+
+(11604142) started: Mon Jan  6 05:00:00 EST 2014
+(11604142) Querying the database to see if this is the first Monday of the fiscal period
+(11604142) This is not the first Monday of the fiscal period, exiting
+
+(13349092) started: Mon Jan 13 05:00:00 EST 2014
+(13349092) Querying the database to see if this is the first Monday of the fiscal period
+(13349092) This is not the first Monday of the fiscal period, exiting
+
+(11415784) started: Mon Jan 20 05:00:00 EST 2014
+(11415784) Querying the database to see if this is the first Monday of the fiscal period
+(11415784) This is not the first Monday of the fiscal period, exiting
+
+(14299144) started: Mon Jan 27 05:00:00 EST 2014
+(14299144) Querying the database to see if this is the first Monday of the fiscal period
+(14299144) This is the first Monday of the fiscal period, getting all districts
+(14299144) /scripts/reporting/tmp/bos003.results exists and is not empty
+(14299144) persisting MTD BOS report for district 9011 to /scripts/reporting/tmp/MTDDistBos9011.pdf
+(14299144) persisting MTD BOS report for district 0005 to /scripts/reporting/tmp/MTDDistBos0005.pdf
+(14299144) persisting MTD BOS report for district 0004 to /scripts/reporting/tmp/MTDDistBos0004.pdf
+(14299144) persisting MTD BOS report for district 0002 to /scripts/reporting/tmp/MTDDistBos0002.pdf
+(14299144) persisting MTD BOS report for district 0009 to /scripts/reporting/tmp/MTDDistBos0009.pdf
+(14299144) persisting MTD BOS report for district 0007 to /scripts/reporting/tmp/MTDDistBos0007.pdf
+(14299144) persisting MTD BOS report for district 0010 to /scripts/reporting/tmp/MTDDistBos0010.pdf
+(14299144) persisting MTD BOS report for district 0006 to /scripts/reporting/tmp/MTDDistBos0006.pdf
+(14299144) persisting MTD BOS report for district 0008 to /scripts/reporting/tmp/MTDDistBos0008.pdf
+(14299144) persisting MTD BOS report for district 0003 to /scripts/reporting/tmp/MTDDistBos0003.pdf
+(14299144) Creating /scripts/reporting/tmp/MTDDistBosReports_01272014_050307.zip
+(14299144) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(14299144) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(14299144) Cleaning up MTD District Bos pdf files
+(14299144) cleaning up /scripts/reporting/tmp/bos003.results
+(14299144) finished Mon Jan 27 05:03:08 EST 2014
+
+(12369966) started: Mon Feb  3 05:00:00 EST 2014
+(12369966) Querying the database to see if this is the first Monday of the fiscal period
+(12369966) This is not the first Monday of the fiscal period, exiting
+
+(15171676) started: Mon Feb 10 05:00:00 EST 2014
+(15171676) Querying the database to see if this is the first Monday of the fiscal period
+(15171676) This is not the first Monday of the fiscal period, exiting
+
+(11829474) started: Mon Feb 17 05:00:00 EST 2014
+(11829474) Querying the database to see if this is the first Monday of the fiscal period
+(11829474) This is not the first Monday of the fiscal period, exiting
+
+(17600530) started: Mon Feb 24 05:00:00 EST 2014
+(17600530) Querying the database to see if this is the first Monday of the fiscal period
+(17600530) This is not the first Monday of the fiscal period, exiting
+
+(10961054) started: Mon Mar  3 05:00:00 EST 2014
+(10961054) Querying the database to see if this is the first Monday of the fiscal period
+(10961054) This is the first Monday of the fiscal period, getting all districts
+(10961054) /scripts/reporting/tmp/bos003.results exists and is not empty
+(10961054) persisting MTD BOS report for district 0027 to /scripts/reporting/tmp/MTDDistBos0027.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0027, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0027.pdf
+(10961054) persisting MTD BOS report for district 9011 to /scripts/reporting/tmp/MTDDistBos9011.pdf
+(10961054) persisting MTD BOS report for district 0024 to /scripts/reporting/tmp/MTDDistBos0024.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0024, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0024.pdf
+(10961054) persisting MTD BOS report for district 0004 to /scripts/reporting/tmp/MTDDistBos0004.pdf
+(10961054) persisting MTD BOS report for district 0021 to /scripts/reporting/tmp/MTDDistBos0021.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0021, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0021.pdf
+(10961054) persisting MTD BOS report for district 0025 to /scripts/reporting/tmp/MTDDistBos0025.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0025, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0025.pdf
+(10961054) persisting MTD BOS report for district 0020 to /scripts/reporting/tmp/MTDDistBos0020.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0020, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0020.pdf
+(10961054) persisting MTD BOS report for district 0028 to /scripts/reporting/tmp/MTDDistBos0028.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0028, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0028.pdf
+(10961054) persisting MTD BOS report for district 0023 to /scripts/reporting/tmp/MTDDistBos0023.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0023, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0023.pdf
+(10961054) persisting MTD BOS report for district 0026 to /scripts/reporting/tmp/MTDDistBos0026.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0026, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0026.pdf
+(10961054) persisting MTD BOS report for district 0019 to /scripts/reporting/tmp/MTDDistBos0019.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0019, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0019.pdf
+(10961054) persisting MTD BOS report for district 0022 to /scripts/reporting/tmp/MTDDistBos0022.pdf
+(10961054) ** ERROR: An error occurred generating MTD District BOS report for 0022, RC=1
+(10961054) removing /scripts/reporting/tmp/MTDDistBos0022.pdf
+(10961054) Creating /scripts/reporting/tmp/MTDDistBosReports_03032014_051437.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(10961054) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10961054) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(10961054) Cleaning up MTD District Bos pdf files
+(10961054) cleaning up /scripts/reporting/tmp/bos003.results
+(10961054) finished Mon Mar  3 05:14:37 EST 2014
+
+(12922934) started: Mon Mar  3 19:30:00 EST 2014
+(12922934) Querying the database to see if this is the first Monday of the fiscal period
+(12922934) This is the first Monday of the fiscal period, getting all districts
+(12922934) /scripts/reporting/tmp/bos003.results exists and is not empty
+(12922934) persisting MTD BOS report for district 0027 to /scripts/reporting/tmp/MTDDistBos0027.pdf
+(12922934) persisting MTD BOS report for district 9011 to /scripts/reporting/tmp/MTDDistBos9011.pdf
+(12922934) persisting MTD BOS report for district 0024 to /scripts/reporting/tmp/MTDDistBos0024.pdf
+(12922934) persisting MTD BOS report for district 0004 to /scripts/reporting/tmp/MTDDistBos0004.pdf
+(12922934) persisting MTD BOS report for district 0021 to /scripts/reporting/tmp/MTDDistBos0021.pdf
+(12922934) persisting MTD BOS report for district 0025 to /scripts/reporting/tmp/MTDDistBos0025.pdf
+(12922934) persisting MTD BOS report for district 0020 to /scripts/reporting/tmp/MTDDistBos0020.pdf
+(12922934) persisting MTD BOS report for district 0028 to /scripts/reporting/tmp/MTDDistBos0028.pdf
+(12922934) persisting MTD BOS report for district 0023 to /scripts/reporting/tmp/MTDDistBos0023.pdf
+(12922934) persisting MTD BOS report for district 0026 to /scripts/reporting/tmp/MTDDistBos0026.pdf
+(12922934) persisting MTD BOS report for district 0019 to /scripts/reporting/tmp/MTDDistBos0019.pdf
+(12922934) persisting MTD BOS report for district 0022 to /scripts/reporting/tmp/MTDDistBos0022.pdf
+(12922934) Creating /scripts/reporting/tmp/MTDDistBosReports_03032014_194555.zip
+**************************** WARNING ******************************
+You are currently running with data limits not set to unlimited.
+You may experience out of memory(OOM) conditions.
+In the event of an OOM error, please increase the data limit value.
+You may use "ulimit -d unlimited" to set data limit as unlimited.
+*******************************************************************
+(12922934) sending attachment email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12922934) successfully sent email to IT.BOSS.Distribution@THEPARADIESSHOPS.COM
+(12922934) Cleaning up MTD District Bos pdf files
+(12922934) cleaning up /scripts/reporting/tmp/bos003.results
+(12922934) finished Mon Mar  3 19:45:55 EST 2014
+
+(16502818) started: Mon Mar 10 19:30:00 EDT 2014
+(16502818) Querying the database to see if this is the first Monday of the fiscal period
+(16502818) This is not the first Monday of the fiscal period, exiting
+
+(13062378) started: Mon Mar 17 19:30:00 EDT 2014
+(13062378) Querying the database to see if this is the first Monday of the fiscal period
+(13062378) This is not the first Monday of the fiscal period, exiting
+
+(16990310) started: Mon Mar 24 19:30:00 EDT 2014
+(16990310) Querying the database to see if this is the first Monday of the fiscal period
+(16990310) This is not the first Monday of the fiscal period, exiting
